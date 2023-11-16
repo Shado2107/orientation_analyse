@@ -1,0 +1,1148 @@
+ID_ETUDIANT;Sexe;MoyenneBac;Orientation;NotesMaths;NotesFrançais;NotesPhysiques;NotesChimie;NotesAnglais;Interets_1 ;Interets_2;ChoixOrientation
+ET001;;;;16;16;8;8;6;Economie;Mathematiques;Economie
+ET002;;;;7;15;20;20;13;Art;Programmation;Design
+ET003;;;;14;17;17;17;5;Sciences;Statistique;statistique
+ET004;;;;7;16;8;8;19;Informatique;Dessin;Design
+ET005;;;;9;13;19;19;15;Lettres;Communication écrite;Littérature
+ET006;;;;5;19;19;19;6;Chimie;Communication orale;Chimie
+ET007;;;;16;5;5;5;7;Informatique;Gestion de projet;Management
+ET008;;;;15;19;14;14;15;Arts du Spectacle;Travail d'équipe;Directeur artistique
+ET009;;;;17;5;10;10;20;Médecine;Leadership;Docteur
+ET010;;;;16;5;13;13;18;Architecture;Rédaction technique;Architecte
+ET011;;;;13;13;9;9;0;Économie;Conception graphique;Design graphique
+ET012;;;;19;10;6;6;6;Mathématiques;langues étrangères;Journalisme
+ET013;;;;5;15;13;13;5;Informatique;Compétences interculturelles;Informatique
+ET014;;;;19;6;5;5;17;Langues étrangères;Pensée critique;Philosophie
+ET015;;;;5;12;19;19;16;Marketing;Compétences en recherche;Marketing
+ET016;;;;5;14;15;15;13;Physique;Planification stratégique;Physique
+ET017;;;;13;20;6;6;19;Psychologie;Compétences en négociation;comptabilite
+ET018;;;;10;15;7;7;5;Musique;marketing;Marketing
+ET019;;;;15;11;15;15;19;Génie civil;vente;Commerce
+ET020;;;;6;13;20;20;5;Philosophie;relations publiques;Philosophie
+ET021;;;;12;17;18;18;5;Biologie;psychologie;Medecine
+ET022;;;;14;16;0;0;13;Journalisme;sciences sociales;Journalisme
+ET023;;;;20;12;6;6;10;Design graphique;biologie;Designer
+ET024;;;;15;15;5;5;15;Génie électrique;chimie;Physique
+ET025;;;;11;7;12;12;6;Anthropologie;physique;Sciences naturelle
+ET026;;;;13;11;10;10;12;Histoire;mathématiques appliquées;Histoire
+ET027;;;;17;9;8;8;14;Sports;informatique;Informatique
+ET028;;;;16;14;6;6;20;Écologie;génie mécanique;Mecanique
+ET029;;;;12;6;1;1;15;Astronomie;génie électrique;Informatique
+ET030;;;;15;13;2;2;11;Cinéma;génie civil;Design graphique
+ET031;;;;7;8;3;3;13;Gestion d'entreprise;génie chimique;Management
+ET032;;;;11;7;20;20;17;Relations internationales;gestion des ressources humaines;Management
+ET033;;;;9;14;19;19;16;Droit;comptabilité;Comptabilite
+ET034;;;;14;18;6;6;12;Chimie;finance;Economie
+ET035;;;;6;20;13;13;15;Sociologie;droit;droit
+ET036;;;;13;12;5;5;7;Théâtre;médecine;Arts
+ET037;;;;8;15;19;19;11;Mode;informatique;Informatique
+ET038;;;;7;17;15;15;9;Nutrition;chimie;Medecine
+ET039;;;;14;13;6;6;14;Sciences politiques;design d'intérieur;Design
+ET040;;;;18;16;7;7;6;Photographie;architecture;Arts
+ET041;;;;20;18;15;15;13;Génie mécanique;journalisme;Journalisme
+ET042;;;;12;9;20;20;8;Éducation;écriture créative;Arts
+ET043;;;;15;20;18;18;7;Intelligence artificielle;production vidéo;Production
+ET044;;;;17;10;0;0;14;Criminologie;vente;Arts
+ET045;;;;13;19;6;6;18;Géologie;ecriture;Journalisme
+ET046;;;;16;20;5;5;20;Animation;psychologie;Arts
+ET047;;;;18;19;17;0;12;Danse;cybersécurité;Arts
+ET048;;;;9;10;16;0;15;Marketing numérique;développement web;Développement
+ET049;;;;20;6;13;0;17;Génie chimique;marketing numérique;Marketing
+ET050;;;;10;18;19;0;13;Agriculture;animation 3D;Arts
+ET051;;;;19;12;5;0;16;Science des données;Résolution de problèmes;Mathematiques
+ET052;;;;20;14;19;0;18;Linguistique;Programmation informatique;Informatique
+ET053;;;;19;9;5;0;9;Réseaux sociaux;Analyse statistique;Mathematiques
+ET054;;;;10;15;5;12;20;Robotique;Créativité;Arts
+ET055;;;;6;19;13;14;10;Éthique;Rédaction;Journalisme
+ET056;;;;18;11;10;17;19;Développement durable;Communication orale;Communication
+ET057;;;;12;18;15;7;20;Biologie;Travail d'équipe;Arts
+ET058;;;;14;18;6;8;19;Mathématiques;Pensée critique;Mathematiques
+ET059;;;;9;18;12;9;10;Informatique;Conception graphique;design
+ET060;;;;15;12;14;4;6;Arts;Leadership;Arts
+ET061;;;;19;11;20;5;18;Littérature;Compétences interpersonnelles;Littérature
+ET062;;;;11;19;15;2;12;Langues;Compétences en négociation;Management
+ET063;;;;18;13;11;3;14;Histoire;Compétences en présentation;Arts
+ET064;;;;18;14;13;13;9;Sciences sociales;Résilience;Sociologie
+ET065;;;;10;9;7;12;12;Sports;Adaptabilité;Arts
+ET066;;;;12;7;16;11;19;Cuisine;Organisation;Management
+ET067;;;;11;11;12;10;11;Musique;Gestion du temps;Management
+ET068;;;;19;9;15;10;18;Théâtre;Esprit d'initiative;Arts
+ET069;;;;13;14;7;10;18;Voyages;Capacité d'apprentissage rapide;Arts
+ET070;;;;14;6;11;15;18;Sciences Politiques;Capacités analytiques;Capacités
+ET071;;;;15;13;9;14;12;Design et Architecture;Compétences en recherche;architecture
+ET072;;;;12;8;14;18;11;Économie et Finance;Compétences en gestion de projet;Management
+ET073;;;;17;7;6;19;19;Environnement et Développement Durable;Programmation web;Informatique
+ET074;;;;14;14;13;20;13;Médecine;Programmation mobile;Informatique
+ET075;;;;9;18;8;20;14;Éducation ;Résolution de problèmes;Arts
+ET076;;;;18;20;7;12;15;Droit et Justice;Programmation informatique;Informatique
+ET077;;;;19;12;14;1;13;Archéologie;Analyse statistique;Mathematiques
+ET078;;;;19;15;18;0;16;Sciences;Créativité;Arts
+ET079;;;;17;17;20;2;18;Mathématiques;Communication écrite;Communication
+ET080;;;;9;13;12;6;9;Informatique;Communication orale;Informatique
+ET081;;;;14;16;15;20;20;Économie;Gestion de projet;Economie
+ET082;;;;8;18;17;18;10;Arts plastiques;Travail d'équipe;Travail
+ET083;;;;17;9;13;18;19;Musique;Leadership;Management
+ET084;;;;9;20;16;18;20;Danse;Rédaction technique;Journalisme
+ET085;;;;20;10;18;7;19;Théâtre;Conception graphique;Design graphique
+ET086;;;;17;19;9;5;10;Photographie;langues étrangères;Littérature
+ET087;;;;14;20;20;11;6;Journalisme;Compétences interculturelles;Journalisme
+ET088;;;;13;19;10;17;18;Médecine;Pensée critique;Medecine
+ET089;;;;16;10;19;13;12;Psychologie;Compétences en recherche;psychologie
+ET090;;;;16;6;20;12;14;Droit;Planification stratégique;droit
+ET091;;;;16;18;19;12;9;Linguistique;Compétences en négociation;Marketing
+ET092;;;;17;12;10;18;15;Génie civil;marketing;Marketing
+ET093;;;;14;14;6;19;19;Génie électrique;vente;Vente
+ET094;;;;19;9;18;18;11;Architecture;relations publiques;architecture
+ET095;;;;7;15;12;19;18;Histoire de l'art;psychologie;psychologie
+ET096;;;;9;19;14;13;18;Sociologie;sciences sociales;Sociologie
+ET097;;;;10;11;9;6;18;Marketing;biologie;Biologie
+ET098;;;;7;18;15;7;12;Géologie;chimie;Chimie
+ET099;;;;7;18;19;19;11;Astronomie;physique;Physique
+ET100;;;;17;18;11;20;19;Anthropologie;mathématiques appliquées;Mathematiques
+ET101;;;;17;12;18;20;13;Cuisine;informatique;Informatique
+ET102;;;;8;11;18;11;14;Mode;génie mécanique;Genie mécanique
+ET103;;;;10;19;18;13;15;Écologie;génie électrique;genie electrique
+ET104;;;;8;13;12;16;12;Animation;génie civil;genie civil
+ET105;;;;5;14;11;18;17;Design graphique;génie chimique;Génie
+ET106;;;;13;15;19;9;14;Finance;gestion des ressources humaines;Finance
+ET107;;;;10;12;13;20;12;Développement durable;comptabilité;Comptabilité
+ET108;;;;12;17;14;10;12;Relations internationales;finance;Finance
+ET109;;;;8;14;15;19;13;Chimie;droit;droit
+ET110;;;;12;9;12;20;7;Physique;médecine;Medecine
+ET111;;;;12;18;12;19;5;Philosophie;informatique;Informatique
+ET112;;;;13;19;13;10;16;Thérapie physique;chimie;Chimie
+ET113;;;;7;19;7;6;10;Criminologie;design d'intérieur;Arts
+ET114;;;;5;17;5;18;16;Sciences politiques;architecture;Architecture
+ET115;;;;16;9;16;12;10;Agriculture;journalisme;Arts
+ET116;;;;10;14;10;14;14;Génie mécanique;écriture créative;Écriture
+ET117;;;;16;8;16;9;12;Éducation;production vidéo;Informatique
+ET118;;;;10;17;10;15;16;Biologie marine;vente;Marketing
+ET119;;;;14;9;14;19;9;Réalité virtuelle;ecriture;Informatique
+ET120;;;;12;20;12;11;6;Éthique;psychologie;psychologie
+ET121;;;;16;17;16;18;9;Volontariat;cybersécurité;Cyberscurite
+ET122;;;;9;14;9;18;7;Robotique;développement web;Informatique
+ET123;;;;6;2;6;18;16;Énergie renouvelable;marketing numérique;Marketing
+ET124;;;;9;12;9;12;11;Écriture créative;animation 3D;Designe graphique
+ET125;;;;7;8;7;11;20;Études de genre;Résolution de problèmes;Sociologie
+ET126;;;;16;20;20;19;9;Génie chimique;Programmation informatique;Informatique
+ET127;;;;11;17;17;13;14;Sports;Analyse statistique;Mathematiques
+ET128;;;;20;8;8;14;15;Nutrition;Créativité;Biologie
+ET129;;;;9;19;19;15;8;Mécatronique;Rédaction;Genie mécanique
+ET130;;;;14;19;19;12;20;Archéologie;Communication orale;Journalisme
+ET131;;;;15;5;5;17;17;Intelligence artificielle;Travail d'équipe;Informatique
+ET132;;;;12;14;14;14;8;Design d'intérieur;Pensée critique;Design
+ET133;;;;11;10;10;11;19;Gestion de projet;Conception graphique;Design graphique
+ET134;;;;11;13;13;17;19;Économie du numérique;Leadership;Management
+ET135;;;;11;9;9;13;5;Neurosciences;Compétences interpersonnelles;psychologie
+ET136;;;;16;6;6;12;14;Art numérique;Compétences en négociation;Arts
+ET137;;;;19;13;13;12;10;Urbanisme;Compétences en présentation;Urbanisme
+ET138;;;;19;5;5;18;13;Muséologie;Résilience;Histoire
+ET139;;;;11;19;19;19;9;Sécurité informatique;Adaptabilité;Informatique
+ET140;;;;11;15;15;18;6;Administration publique;Organisation;Management
+ET141;;;;15;6;6;19;13;Animation 3D;Gestion du temps;Management
+ET142;;;;12;7;7;13;5;Marketing digital;Esprit d'initiative;Marketing
+ET142;;;;14;15;15;6;19;Études de marché;Capacité d'apprentissage rapide;Marketing
+ET143;;;;15;20;20;7;15;Design industriel;Capacités analytiques;Design
+ET144;;;;8;18;18;19;6;Agroalimentaire;Compétences en recherche;Biologie
+ET145;;;;15;0;0;20;7;Animation japonaise;Compétences en gestion de projet;Design
+ET146;;;;18;6;6;20;15;Relations publiques;Programmation web;Informatique
+ET147;;;;5;5;5;11;20;Santé publique;Programmation mobile;Informatique
+ET148;;;;18;12;12;11;18;Graphisme;Résolution de problèmes;Design graphique
+ET149;;;;6;10;10;18;0;Jeux vidéo;Programmation informatique;Informatique
+ET150;;;;16;8;8;15;6;Biotechnologie;Analyse statistique;Biologie
+ET151;;;;16;6;6;14;5;Archiviste;Créativité;Design
+ET152;;;;19;1;1;11;12;Bio-informatique;Communication écrite;Informatique
+ET153;;;;17;2;2;5;10;Cryptographie;Communication orale;Mathematiques
+ET154;;;;9;3;3;12;8;Intelligence émotionnelle;Gestion de projet;Gestion
+ET155;;;;13;20;20;6;6;Intelligence collective;Travail d'équipe;Travail
+ET156;;;;10;19;19;10;1;Finance comportementale;Leadership;Leadership
+ET157;;;;5;13;13;19;2;Intelligence d'affaires;Rédaction technique;Rédaction
+ET158;;;;12;16;16;19;3;Réseaux sociaux;Conception graphique;Conception
+ET159;;;;8;18;18;5;20;Coaching;langues étrangères;Arts
+ET160;;;;6;9;9;14;19;Éthologie;Compétences interculturelles;Arts
+ET161;;;;14;20;20;10;11;Sémiotique;Pensée critique;Arts
+ET162;;;;16;10;10;13;17;Art thérapie;Compétences en recherche;Compétences
+ET163;;;;13;19;19;9;13;Soutien scolaire;Planification stratégique;Planification
+ET164;;;;13;20;20;6;12;Éthique des affaires;Compétences en négociation;Arts
+ET165;;;;10;19;19;13;12;Éthique médicale;marketing;Marketing
+ET166;;;;19;10;10;5;18;Réalité augmentée;vente;Vente
+ET167;;;;14;6;6;19;19;Ingénierie logicielle;relations publiques;Relations
+ET168;;;;8;18;18;15;18;Design de jeux;psychologie;Arts
+ET169;;;;20;12;12;6;19;Analyse de données;sciences sociales;Arts
+ET170;;;;8;14;14;7;13;Marketing sensoriel;biologie;Biologie
+ET171;;;;15;9;9;15;6;Psychologie positive;chimie;Chimie
+ET172;;;;17;15;15;20;7;Analyse financière;physique;Physique
+ET173;;;;9;19;19;18;19;Nanotechnologie;mathématiques appliquées;Arts
+ET174;;;;17;11;11;0;20;Systèmes embarqués;informatique;Informatique
+ET175;;;;16;18;18;6;20;Économie de la santé;génie mécanique;Genie mécanique
+ET176;;;;20;18;18;5;11;Architecture de l'information;génie électrique;genie electrique
+ET177;;;;14;18;18;12;11;Marketing;génie civil;genie civil
+ET178;;;;8;12;12;10;18;Physique;génie chimique;Chimie
+ET179;;;;10;11;11;8;15;Psychologie;gestion des ressources humaines;psychologie
+ET180;;;;11;19;19;6;14;Musique;comptabilité;comptabilite
+ET181;;;;14;13;13;1;11;Génie civil;finance;Finance
+ET182;;;;6;14;14;2;5;Philosophie;droit;droit
+ET183;;;;13;15;15;3;12;Biologie;médecine;medecine
+ET184;;;;7;12;12;20;6;Journalisme;informatique;Informatique
+ET185;;;;8;17;17;19;10;Design graphique;chimie;Chimie
+ET186;;;;9;14;14;13;0;Génie électrique;design d'intérieur;Design
+ET187;;;;18;11;11;16;0;Anthropologie;architecture;Arts
+ET188;;;;18;17;17;18;0;Histoire;journalisme;Journalisme
+ET189;;;;7;13;13;9;0;Sports;écriture créative;Arts
+ET190;;;;5;12;12;20;0;Écologie;production vidéo;Arts
+ET191;;;;11;12;12;10;0;Astronomie;vente;Commerce
+ET192;;;;17;18;18;19;0;Cinéma;ecriture;Littérature
+ET193;;;;13;19;19;20;0;Gestion d'entreprise;psychologie;Psychologie
+ET194;;;;12;18;18;19;0;Relations internationales;cybersécurité;Cybersécurité
+ET195;;;;12;19;19;10;0;Droit;développement web;Informatique
+ET196;;;;18;13;13;15;0;Chimie;marketing numérique;Marketing
+ET197;;;;19;6;6;10;5;Sociologie;animation 3D;Arts
+ET198;;;;18;7;7;9;2;Théâtre;Résolution de problèmes;Arts
+ET199;;;;19;19;19;10;2;Mode;Programmation informatique;Informatique
+ET200;;;;13;20;20;7;2;Nutrition;Analyse statistique;Mathematiques
+ET201;;;;6;20;20;17;5;Sciences politiques;Créativité;Créativité
+ET202;;;;7;11;11;17;19;Photographie;Rédaction;Arts
+ET203;;;;19;11;11;14;8;Génie mécanique;Communication orale;Communication
+ET204;;;;20;18;18;13;20;Éducation;Travail d'équipe;Arts
+ET205;;;;20;15;15;17;17;Intelligence artificielle;Pensée critique;Pensée
+ET206;;;;11;14;14;10;8;Criminologie;Conception graphique;Design graphique
+ET207;;;;11;11;11;15;19;Géologie;Leadership;Management
+ET208;;;;18;5;5;9;19;Animation;Compétences interpersonnelles;design
+ET209;;;;15;12;12;10;5;Danse;Compétences en négociation;Marketing
+ET210;;;;14;6;6;10;14;Marketing numérique;Compétences en présentation;Compétences
+ET211;;;;11;10;10;10;10;Génie chimique;Résilience;Résilience
+ET212;;;;5;15;15;17;13;Agriculture;Adaptabilité;Arts
+ET213;;;;12;10;10;15;9;Science des données;Organisation;Mathematiques
+ET214;;;;6;9;9;13;6;Linguistique;Gestion du temps;Management
+ET215;;;;10;10;10;12;13;Réseaux sociaux;Esprit d'initiative;Marketing
+ET216;;;;19;7;7;11;5;Robotique;Capacité d'apprentissage rapide;Informatique
+ET217;;;;12;17;17;10;19;Éthique;Capacités analytiques;Mathematiques
+ET218;;;;14;17;17;9;15;Développement durable;Compétences en recherche;Compétences
+ET219;;;;14;14;14;5;6;Biologie;Compétences en gestion de projet;Management
+ET220;;;;16;13;13;6;7;Mathématiques;Programmation web;Informatique
+ET221;;;;6;17;17;7;15;Informatique;Programmation mobile;Informatique
+ET222;;;;6;10;10;8;20;Arts;Résolution de problèmes;Mathematiques
+ET223;;;;19;15;15;9;18;Littérature;Programmation informatique;Informatique
+ET224;;;;14;9;9;2;0;Langues;Analyse statistique;Arts
+ET225;;;;5;10;10;0;6;Sciences;Créativité;Arts
+ET226;;;;20;10;10;10;5;Arts;Communication écrite;Arts
+ET227;;;;13;10;10;2;12;Musique;Communication orale;musique
+ET228;;;;11;17;17;20;10;Danse;Gestion de projet;Management
+ET229;;;;7;15;15;19;8;Théâtre;Travail d'équipe;theatre
+ET230;;;;11;13;13;0;6;Informatique;Leadership;Informatique
+ET231;;;;5;15;15;0;1;Médecine;Rédaction technique;medecine
+ET232;;;;2;17;17;16;2;Droit;Conception graphique;Design graphique
+ET233;;;;11;16;16;15;3;Économie;langues étrangères;Littérature
+ET234;;;;8;13;13;17;20;Mathématiques;Compétences interculturelles;Mathematiques
+ET235;;;;17;19;19;16;19;Histoire;Pensée critique;Histoire
+ET236;;;;15;5;5;13;0;Philosophie;Compétences en recherche;Philosophie
+ET237;;;;10;19;19;19;14;Psychologie;Planification stratégique;Psychologie
+ET238;;;;9;5;5;5;20;Écologie;Compétences en négociation;Marketing
+ET239;;;;10;5;5;19;2;Design graphique;marketing;Marketing
+ET240;;;;7;13;13;5;6;Programmation;vente;Arts
+ET241;;;;17;10;10;5;18;Développement web;relations publiques;Relations
+ET242;;;;17;15;15;13;7;Photographie;psychologie;Arts
+ET243;;;;14;6;6;10;5;Journalisme;sciences sociales;Journalisme
+ET244;;;;13;12;12;15;15;Marketing;biologie;Biologie
+ET245;;;;17;14;14;6;16;Cinéma;chimie;Chimie
+ET246;;;;10;20;20;12;15;Astronomie;physique;Physique
+ET247;;;;15;15;15;14;17;Linguistique;mathématiques appliquées;Mathematiques
+ET248;;;;9;11;11;20;16;Architecture;informatique;Informatique
+ET249;;;;10;13;13;15;13;Anthropologie;génie mécanique;Genie mécanique
+ET250;;;;10;17;17;11;19;Sociologie;génie électrique;genie electrique
+ET251;;;;10;16;16;13;5;Cuisine;génie civil;genie civil
+ET252;;;;17;12;12;17;19;Voyages;génie chimique;Chimie
+ET253;;;;15;15;15;16;5;Sports;gestion des ressources humaines;Arts
+ET254;;;;13;7;7;12;5;Mode;comptabilité;Comptabilité
+ET255;;;;19;11;11;15;13;Automobile;finance;Finance
+ET256;;;;20;9;9;7;10;Aéronautique;droit;droit
+ET257;;;;17;14;14;11;15;Énergie renouvelable;médecine;Médecine
+ET258;;;;6;6;6;9;6;Politique;informatique;Informatique
+ET259;;;;9;13;13;14;12;Développement durable;chimie;Chimie
+ET260;;;;16;8;8;6;14;Sciences de la terre;design d'intérieur;design
+ET261;;;;18;7;7;13;20;Géopolitique;architecture;Architecture
+ET262;;;;12;14;14;8;15;Muséologie;journalisme;Journalisme
+ET263;;;;6;18;18;7;11;Génie civil;écriture créative;Écriture
+ET264;;;;14;20;20;14;13;Neurosciences;production vidéo;Arts
+ET265;;;;12;12;12;18;17;Intelligence artificielle;vente;Vente
+ET266;;;;6;15;15;20;16;Blockchain;ecriture;Informatique
+ET267;;;;14;17;17;12;12;Réseaux sociaux;psychologie;Psychologie
+ET268;;;;19;13;13;15;15;Éthique;cybersécurité;Informatique
+ET269;;;;12;16;16;17;7;Humanités numériques;développement web;Développement
+ET270;;;;15;18;18;13;11;Géographie;marketing numérique;geographie
+ET271;;;;6;9;9;16;9;Santé publique;animation 3D;Animation
+ET272;;;;11;20;20;18;14;Réalité virtuelle;Résolution de problèmes;Résolution
+ET273;;;;20;10;10;9;6;Intelligence émotionnelle;Programmation informatique;Programmation
+ET274;;;;17;19;19;20;13;Robotique;Analyse statistique;Informatique
+ET275;;;;18;20;20;10;8;Sciences;Créativité;Mathematiques
+ET276;;;;7;19;19;19;7;Mathématiques;Rédaction;Mathematiques
+ET278;;;;18;10;10;20;14;Informatique;Communication orale;Informatique
+ET279;;;;12;6;6;19;18;Économie;Travail d'équipe;economie
+ET280;;;;6;18;18;10;20;Arts plastiques;Pensée critique;Pensée
+ET281;;;;19;12;12;6;12;Musique;Conception graphique;design
+ET282;;;;20;14;14;18;15;Danse;Leadership;Arts
+ET283;;;;20;9;9;12;17;Théâtre;Compétences interpersonnelles;theatre
+ET284;;;;14;15;15;14;13;Photographie;Compétences en négociation;Arts
+ET285;;;;5;19;19;9;16;Journalisme;Compétences en présentation;Journalisme
+ET286;;;;20;11;11;15;18;Médecine;Résilience;medecine
+ET287;;;;14;18;18;19;9;Psychologie;Adaptabilité;Psychologie
+ET288;;;;14;18;18;11;20;Droit;Organisation;droit
+ET289;;;;14;18;18;18;10;Linguistique;Gestion du temps;Littérature
+ET290;;;;8;12;12;18;19;Génie civil;Esprit d'initiative;Esprit
+ET291;;;;7;11;11;18;20;Génie électrique;Capacité d'apprentissage rapide;Capacité
+ET292;;;;12;19;19;12;19;Architecture;Capacités analytiques;Mathematiques
+ET293;;;;16;13;13;11;10;Histoire de l'art;Compétences en recherche;Arts
+ET294;;;;10;14;14;19;6;Sociologie;Compétences en gestion de projet;Informatique
+ET295;;;;9;15;15;13;18;Marketing;Programmation web;Informatique
+ET296;;;;6;10;10;14;12;Géologie;Programmation mobile;Informatique
+ET297;;;;15;8;8;15;14;Astronomie;Résolution de problèmes;Arts
+ET298;;;;20;5;5;7;9;Anthropologie;Programmation informatique;Informatique
+ET299;;;;5;13;13;5;15;Cuisine;Analyse statistique;Mathematiques
+ET300;;;;13;10;10;16;19;Mode;Créativité;Arts
+ET301;;;;9;12;12;10;11;Écologie;Communication écrite;Littérature
+ET302;;;;9;8;8;16;18;Animation;Communication orale;Littérature
+ET303;;;;9;12;12;10;18;Design graphique;Gestion de projet;Gestion
+ET304;;;;8;12;12;14;18;Finance;Travail d'équipe;Finance
+ET305;;;;13;13;13;12;12;Développement durable;Leadership;Leadership
+ET306;;;;7;7;7;16;11;Relations internationales;Rédaction technique;Rédaction
+ET307;;;;5;5;5;9;19;Chimie;Conception graphique;design
+ET308;;;;20;16;16;6;13;Physique;langues étrangères;Littérature
+ET309;;;;19;10;10;9;14;Philosophie;Compétences interculturelles;Philosophie
+ET310;;;;14;16;16;7;15;Thérapie physique;Pensée critique;Pensée
+ET311;;;;10;10;10;16;7;Criminologie;Compétences en recherche;Arts
+ET312;;;;7;14;14;11;5;Sciences politiques;Planification stratégique;Planification
+ET313;;;;7;12;12;20;16;Agriculture;Compétences en négociation;Arts
+ET314;;;;8;16;16;9;10;Génie mécanique;marketing;Marketing
+ET315;;;;19;9;9;14;16;Éducation;vente;Marketing
+ET316;;;;6;6;6;15;10;Biologie marine;relations publiques;Relations
+ET317;;;;12;9;9;12;14;Réalité virtuelle;psychologie;Psychologie
+ET318;;;;15;7;7;11;12;Éthique;sciences sociales;sociologie
+ET319;;;;17;16;16;11;16;Volontariat;biologie;sociologie
+ET320;;;;12;11;11;11;9;Robotique;chimie;Informatique
+ET321;;;;16;20;20;16;6;Énergie renouvelable;physique;Physique
+ET322;;;;16;9;9;19;9;Écriture créative;mathématiques appliquées;Mathématiques
+ET323;;;;7;14;14;19;7;Études de genre;informatique;Informatique
+ET324;;;;12;15;15;11;16;Génie chimique;génie mécanique;Genie mécanique
+ET325;;;;8;12;12;11;11;Sports;génie électrique;genie electrique
+ET326;;;;20;11;11;15;20;Nutrition;génie civil;genie civil
+ET327;;;;15;11;11;12;9;Mécatronique;génie chimique;Mecanique
+ET328;;;;11;11;11;14;14;Archéologie;gestion des ressources humaines;geologie
+ET329;;;;15;16;16;15;15;Intelligence artificielle;comptabilité;Comptabilité
+ET330;;;;5;19;19;8;12;Design d'intérieur;finance;Finance
+ET331;;;;14;19;19;15;11;Gestion de projet;droit;Droit
+ET332;;;;18;11;11;12;11;Économie du numérique;médecine;medecine
+ET333;;;;20;11;11;11;11;Neurosciences;informatique;Informatique
+ET334;;;;13;15;15;10;16;Art numérique;chimie;Chimie
+ET335;;;;17;12;12;13;19;Urbanisme;design d'intérieur;Arts
+ET336;;;;17;14;14;16;19;Muséologie;architecture;Arts
+ET337;;;;12;15;15;18;11;Sécurité informatique;journalisme;Journalisme
+ET338;;;;5;8;8;12;11;Administration publique;écriture créative;Écriture
+ET339;;;;5;15;15;2;15;Animation 3D;production vidéo;Arts
+ET340;;;;6;18;18;1;12;Marketing digital;vente;Vente
+ET341;;;;19;5;5;4;14;Études de marché;ecriture;Marketing
+ET342;;;;2;18;3;5;15;Design industriel;psychologie;Psychologie
+ET343;;;;9;6;6;6;8;Agroalimentaire;cybersécurité;Arts
+ET345;;;;12;16;16;7;12;Animation japonaise (Anime);développement web;Arts
+ET346;;;;12;16;16;8;14;Relations publiques;marketing numérique;Marketing
+ET347;;;;13;19;19;9;15;Santé publique;animation 3D;Animation
+ET348;;;;8;17;17;15;8;Graphisme;Résolution de problèmes;Arts
+ET349;;;;5;9;9;17;14;Jeux vidéo;Programmation informatique;Programmation
+ET350;;;;13;13;13;16;5;Biotechnologie;Analyse statistique;Arts
+ET351;;;;20;10;10;13;5;Archiviste;Créativité;Arts
+ET352;;;;20;5;5;19;5;Bio-informatique;Rédaction;Rédaction
+ET353;;;;16;12;12;5;5;Cryptographie;Communication orale;Arts
+ET354;;;;10;8;8;19;5;Intelligence émotionnelle;Travail d'équipe;Travail
+ET355;;;;16;6;6;5;5;Intelligence collective;Pensée critique;Pensée
+ET356;;;;10;14;14;5;20;Finance comportementale;Conception graphique;Conception
+ET357;;;;5;16;16;13;18;Intelligence d'affaires;Leadership;Leadership
+ET358;;;;5;13;13;10;15;Réseaux sociaux;Compétences interpersonnelles;Compétences
+ET359;;;;12;13;13;15;19;Coaching;Compétences en négociation;Arts
+ET360;;;;20;10;10;6;0;Éthologie;Compétences en présentation;Arts
+ET361;;;;11;19;19;12;2;Sémiotique;Résilience;Arts
+ET362;;;;17;14;14;14;20;Art thérapie;Adaptabilité;Adaptabilité
+ET363;;;;5;8;8;20;20;Soutien scolaire;Organisation;Organisation
+ET364;;;;11;20;20;15;20;Éthique des affaires;Gestion du temps;Arts
+ET365;;;;19;8;8;11;18;Éthique médicale;Esprit d'initiative;Esprit
+ET366;;;;14;15;15;13;12;Réalité augmentée;Capacité d'apprentissage rapide;Capacité
+ET367;;;;11;17;17;17;10;Ingénierie logicielle;Capacités analytiques;Capacités
+ET368;;;;5;9;9;16;8;Design de jeux;Compétences en recherche;Arts
+ET369;;;;18;17;17;12;20;Analyse de données;Compétences en gestion de projet;Arts
+ET370;;;;8;16;16;15;17;Marketing sensoriel;Programmation web;Programmation
+ET371;;;;11;20;20;7;8;Psychologie positive;Programmation mobile;Programmation
+ET372;;;;12;14;14;11;19;Analyse financière;Résolution de problèmes;Résolution
+ET374;;;;19;8;8;9;19;Nanotechnologie;Programmation informatique;Arts
+ET375;;;;6;10;10;14;5;Systèmes embarqués;Analyse statistique;Informatique
+ET376;;;;13;11;11;6;14;Économie de la santé;Créativité;Arts
+ET377;;;;15;14;14;13;10;Architecture de l'information;Communication écrite;Arts
+ET378;;;;15;6;6;8;13;Éthique des affaires;Communication orale;Arts
+ET379;;;;14;13;13;7;9;Éthique médicale;Gestion de projet;Gestion
+ET380;;;;8;7;7;14;6;Réalité augmentée;Travail d'équipe;Travail
+ET381;;;;15;8;8;18;13;Ingénierie logicielle;Leadership;Leadership
+ET382;;;;10;9;9;20;5;Design de jeux;Rédaction technique;Arts
+ET383;;;;10;18;18;12;19;Analyse de données;Conception graphique;Arts
+ET384;;;;20;18;18;15;15;Marketing sensoriel;langues étrangères;Langues
+ET385;;;;9;7;7;17;6;Psychologie positive;Compétences interculturelles;psychologie
+ET386;;;;12;5;5;13;7;Analyse financière;Pensée critique;Philosophie
+ET387;;;;11;11;11;16;15;Nanotechnologie;Compétences en recherche;Arts
+ET388;;;;14;17;17;18;20;Systèmes embarqués;Planification stratégique;Management
+ET389;;;;8;13;13;9;18;Économie de la santé;Compétences en négociation;economie
+ET390;;;;20;12;12;20;0;Architecture de l'information;marketing;Informatique
+ET391;;;;14;12;12;10;6;Informatique;vente;Marketing
+ET392;;;;13;18;18;19;5;Arts du Spectacle;relations publiques;Arts
+ET393;;;;15;19;19;20;12;Médecine;psychologie;medecine
+ET394;;;;18;18;18;19;10;Architecture;sciences sociales;Architecture
+ET395;;;;12;19;19;10;8;Économie;biologie;Biologie
+ET396;;;;17;13;13;6;6;Mathématiques;chimie;Mathematiques
+ET397;;;;16;6;6;18;1;Informatique;physique;Physique
+ET398;;;;19;7;7;12;2;Langues étrangères;mathématiques appliquées;Mathématiques
+ET399;;;;10;19;19;14;3;Marketing;informatique;Informatique
+ET400;;;;10;20;20;9;20;Physique;génie mécanique;Informatique
+ET401;;;;13;20;20;15;19;Psychologie;génie électrique;genie electrique
+ET402;;;;10;11;11;19;10;Musique;génie civil;genie civil
+ET403;;;;17;11;11;11;16;Génie civil;génie chimique;chimie
+ET404;;;;13;18;18;18;16;Philosophie;gestion des ressources humaines;GRH
+ET405;;;;14;15;15;18;18;Biologie;comptabilité;Comptabilité
+ET406;;;;5;14;14;18;7;Journalisme;finance;economie
+ET407;;;;16;11;11;12;15;Design graphique;droit;Droit
+ET408;;;;12;5;5;11;18;Génie électrique;médecine;Médecine
+ET409;;;;9;12;12;19;9;Anthropologie;informatique;Informatique
+ET410;;;;6;6;6;13;9;Histoire;chimie;Histoire
+ET411;;;;10;10;10;14;13;Sports;design d'intérieur;Design
+ET412;;;;16;19;19;0;5;Écologie;architecture;Architecture
+ET413;;;;16;12;12;0;20;Astronomie;journalisme;Journalisme
+ET414;;;;18;14;14;0;19;Cinéma;écriture créative;Arts
+ET415;;;;7;14;14;0;8;Gestion d'entreprise;production vidéo;Production
+ET456;;;;15;16;16;0;14;Relations internationales;vente;Vente
+ET417;;;;18;6;6;0;9;Droit;ecriture;Droit
+ET418;;;;9;6;6;0;15;Chimie;psychologie;medecine
+ET419;;;;9;19;19;0;19;Sociologie;cybersécurité;Informatique
+ET420;;;;13;14;14;8;11;Théâtre;développement web;Informatique
+ET421;;;;5;5;5;20;18;Mode;marketing numérique;Marketing
+ET422;;;;20;20;20;17;18;Nutrition;animation 3D;Medecine
+ET423;;;;19;13;13;8;18;Sciences politiques;Résolution de problèmes;Résolution
+ET424;;;;8;11;11;19;12;Photographie;Programmation informatique;Arts
+ET425;;;;20;7;7;19;11;Génie mécanique;Analyse statistique;Analyse
+ET426;;;;17;11;11;5;19;Éducation;Créativité;Arts
+ET427;;;;8;5;5;14;13;Intelligence artificielle;Rédaction;Informatique
+ET428;;;;19;18;7;10;14;Criminologie;Communication orale;Arts
+ET429;;;;19;11;15;13;15;Géologie;Travail d'équipe;Geologie
+ET490;;;;5;8;20;9;10;Animation;Pensée critique;Design
+ET431;;;;14;17;10;6;16;Danse;Conception graphique;Design
+ET432;;;;10;15;0;13;16;Marketing numérique;Leadership;Leadership
+ET433;;;;13;10;6;5;18;Génie chimique;Compétences interpersonnelles;chimie
+ET434;;;;9;9;5;19;7;Agriculture;Compétences en négociation;Agronomie
+ET435;;;;6;10;12;15;15;Science des données;Compétences en présentation;Mathématiques
+ET436;;;;13;7;10;6;18;Linguistique;Résilience;Littérature
+ET437;;;;5;17;8;7;9;Réseaux sociaux;Adaptabilité;Marketing
+ET438;;;;19;17;6;15;9;Robotique;Organisation;Informatique
+ET439;;;;15;14;1;20;13;Éthique;Gestion du temps;Management
+ET440;;;;6;13;2;18;5;Développement durable;Esprit d'initiative;Management
+ET441;;;;7;17;3;0;20;Astronomie;Capacité d'apprentissage rapide;Arts
+ET442;;;;15;10;20;6;19;Cinéma;Capacités analytiques;Arts
+ET443;;;;20;15;19;5;8;Éthique des affaires;Compétences en recherche;Commerce
+ET444;;;;18;9;18;12;20;Éthique médicale;Compétences en gestion de projet;Compétences
+ET445;;;;0;10;0;10;17;Réalité augmentée;Programmation web;Programmation
+ET446;;;;6;10;6;8;8;Ingénierie logicielle;Programmation mobile;Programmation
+ET447;;;;5;10;5;6;19;Design de jeux;Compétences en présentation;Design
+ET448;;;;12;17;12;1;19;Analyse de données;Résilience;Mathématiques
+ET449;;;;10;15;10;2;5;Marketing sensoriel;Adaptabilité;Adaptabilité
+ET450;;;;8;13;8;3;14;Psychologie positive;Organisation;Organisation
+ET451;;;;6;19;6;20;10;Analyse financière;Gestion du temps;Gestion
+ET452;;;;1;20;1;19;13;Nanotechnologie;Esprit d'initiative;Mathématiques
+ET453;;;;2;17;2;0;9;Systèmes embarqués;Capacité d'apprentissage rapide;Capacité
+ET454;;;;3;6;3;0;6;Économie de la santé;Capacités analytiques;Mathématiques
+ET455;;;;20;9;20;0;13;Architecture de l'information;Compétences en recherche;Informatique
+ET456;;;;19;16;19;0;5;Analyse de données;Compétences en gestion de projet;Mathématiques
+ET457;;;;16;20;20;6;8;Animation;Résolution de problèmes;Arts
+ET458;;;;7;20;6;7;20;Design graphique;Programmation informatique;Programmation
+ET459;;;;14;11;7;15;17;Finance;Analyse statistique;Arts
+ET460;;;;7;11;15;20;8;Développement durable;Créativité;design
+ET461;;;;9;18;20;18;19;Relations internationales;Communication écrite;Communication
+ET462;;;;5;15;18;0;19;Chimie;Communication orale;Arts
+ET463;;;;16;14;0;6;5;Physique;Gestion de projet;Management
+ET464;;;;15;11;6;5;14;Philosophie;Travail d'équipe;philisophie
+ET465;;;;17;5;5;12;10;Thérapie physique;Leadership;Leadership
+ET466;;;;16;12;12;10;13;Criminologie;Rédaction technique;Arts
+ET467;;;;13;6;10;8;9;Sciences politiques;Conception graphique;Conception
+ET468;;;;19;10;8;6;6;Agriculture;langues étrangères;Arts
+ET469;;;;5;19;6;1;13;Génie mécanique;Compétences interculturelles;Compétences
+ET470;;;;19;12;1;2;5;Éducation;Pensée critique;Arts
+ET471;;;;5;14;2;3;19;Biologie marine;Compétences en recherche;Compétences
+ET472;;;;5;14;3;20;15;Réalité virtuelle;Planification stratégique;Planification
+ET473;;;;13;16;20;19;6;Éthique;Compétences en négociation;Marketing
+ET474;;;;10;6;19;11;7;Volontariat;marketing;Marketing
+ET475;;;;15;6;11;17;15;Robotique;vente;Commerce
+ET476;;;;6;19;17;13;20;Énergie renouvelable;relations publiques;Relations
+ET477;;;;12;14;13;12;18;Écriture créative;psychologie;Psychologie
+ET478;;;;14;5;12;12;0;Études de genre;sciences sociales;Arts
+ET479;;;;20;20;12;18;6;Génie chimique;biologie;Biologie
+ET480;;;;15;13;18;19;5;Sports;chimie;Arts
+ET481;;;;11;11;19;18;12;Nutrition;physique;Arts
+ET482;;;;13;7;18;19;10;Mécatronique;mathématiques appliquées;Arts
+ET483;;;;17;11;19;13;8;Archéologie;informatique;Informatique
+ET484;;;;16;5;13;6;6;Intelligence artificielle;génie mécanique;Génie
+ET485;;;;12;18;6;7;1;Design d'intérieur;génie électrique;Génie
+ET486;;;;15;11;7;19;2;Gestion de projet;génie civil;Arts
+ET487;;;;7;8;19;20;3;Économie du numérique;génie chimique;Arts
+ET488;;;;11;17;20;20;20;Neurosciences;gestion des ressources humaines;Arts
+ET489;;;;9;15;20;11;19;Art numérique;comptabilité;Comptabilité
+ET490;;;;14;10;11;11;6;Urbanisme;finance;Arts
+ET491;;;;6;9;11;18;13;Muséologie;droit;Arts
+ET492;;;;13;10;18;15;5;Sécurité informatique;médecine;Médecine
+ET493;;;;8;7;15;14;19;Administration publique;informatique;Informatique
+ET494;;;;7;17;14;11;15;Animation 3D;chimie;Informatique
+ET495;;;;14;17;11;5;6;Marketing digital;design d'intérieur;Design
+ET496;;;;18;14;5;12;7;Études de marché;architecture;Arts
+ET497;;;;20;13;12;6;15;Design industriel;journalisme;Journalisme
+ET498;;;;12;17;6;10;20;Agroalimentaire;écriture créative;Arts
+ET499;;;;15;10;10;0;18;Animation japonaise;production vidéo;Arts
+ET500;;;;17;15;0;0;0;Relations publiques;vente;Vente
+ET501;;;;13;9;0;0;6;Santé publique;ecriture;Ecriture
+ET502;;;;16;10;0;0;5;Graphisme;psychologie;Arts
+ET503;;;;18;10;0;0;17;Jeux vidéo;cybersécurité;Cybersécurité
+ET504;;;;9;10;0;0;16;Biotechnologie;développement web;Informatique
+ET505;;;;20;17;0;0;13;Archiviste;marketing numérique;Médecine
+ET506;;;;10;15;0;0;19;Bio-informatique;animation 3D;Animation
+ET507;;;;19;13;0;0;5;Cryptographie;Résolution de problèmes;Mathématiques
+ET508;;;;20;19;0;0;19;Intelligence émotionnelle;Programmation informatique;Programmation
+ET509;;;;19;20;0;0;5;Intelligence collective;Analyse statistique;Informatique
+ET510;;;;10;17;0;5;5;Finance comportementale;Créativité;design
+ET511;;;;6;6;5;2;13;Intelligence d'affaires;Rédaction;Journalisme
+ET512;;;;18;9;2;2;10;Réseaux sociaux;Communication orale;Communication
+ET513;;;;12;6;2;2;15;Coaching;Travail d'équipe;Arts
+ET514;;;;14;7;2;5;6;Éthologie;Pensée critique;Arts
+ET515;;;;9;15;5;19;12;Sémiotique;Conception graphique;Design
+ET516;;;;15;20;19;8;14;Art thérapie;Leadership;Management
+ET517;;;;19;18;8;20;20;Soutien scolaire;Compétences interpersonnelles;sociologie
+ET518;;;;11;0;20;17;15;Éthique des affaires;Compétences en négociation;Arts
+ET519;;;;18;6;17;8;11;Éthique médicale;Compétences en présentation;Medecine
+ET520;;;;18;5;8;19;13;Réalité augmentée;Résilience;Finance
+ET521;;;;18;12;19;19;17;Ingénierie logicielle;Adaptabilité;Informatique
+ET522;;;;12;10;19;5;16;Design de jeux;Organisation;Arts
+ET523;;;;11;8;5;14;12;Analyse de données;Gestion du temps;Arts
+ET524;;;;19;6;14;10;15;Marketing sensoriel;Esprit d'initiative;Marketing
+ET525;;;;13;1;10;13;7;Psychologie positive;Capacité d'apprentissage rapide;Medecine
+ET526;;;;14;2;13;9;11;Analyse financière;Capacités analytiques;Finance
+ET527;;;;15;3;9;6;9;Nanotechnologie;Compétences en recherche;Arts
+ET528;;;;12;20;6;13;14;Systèmes embarqués;Compétences en gestion de projet;Informatique
+ET529;;;;17;19;13;5;6;Économie de la santé;Programmation web;Arts
+ET530;;;;14;11;5;19;13;Architecture de l'information;Programmation mobile;Arts
+ET531;;;;9;17;19;15;8;Éthique des affaires;Résolution de problèmes;Arts
+ET532;;;;18;13;15;6;7;Éthique médicale;Programmation informatique;Programmation
+ET533;;;;19;12;6;7;14;Réalité augmentée;Analyse statistique;Mathematiques
+ET534;;;;19;12;7;15;18;Ingénierie logicielle;Créativité;Informatique
+ET535;;;;17;18;15;20;20;Design de jeux;Communication écrite;Journalisme
+ET536;;;;9;19;20;18;12;Analyse de données;Communication orale;Arts
+ET537;;;;14;18;18;0;15;Marketing sensoriel;Gestion de projet;Gestion
+ET538;;;;8;19;0;6;17;Psychologie positive;Travail d'équipe;Travail
+ET539;;;;17;13;6;5;13;Analyse financière;Leadership;Finance
+ET540;;;;9;6;5;12;16;Nanotechnologie;Rédaction technique;Arts
+ET541;;;;20;7;12;10;18;Systèmes embarqués;Conception graphique;Informatique
+ET542;;;;17;19;10;8;9;Économie de la santé;langues étrangères;Arts
+ET543;;;;14;20;8;6;20;Architecture de l'information;Compétences interculturelles;Arts
+ET544;;;;13;20;6;1;10;Informatique;Pensée critique;philisophie
+ET545;;;;16;11;1;2;19;Arts du Spectacle;Compétences en recherche;Arts
+ET546;;;;16;11;2;3;20;Médecine;Planification stratégique;Arts
+ET547;;;;16;18;3;20;19;Architecture;Compétences en négociation;Commerce
+ET548;;;;17;15;20;19;10;Économie;marketing;Marketing
+ET549;;;;14;14;19;0;6;Mathématiques;vente;Commerce
+ET550;;;;19;11;0;14;18;Informatique;relations publiques;Informatique
+ET551;;;;7;5;14;20;12;Langues étrangères;psychologie;Psychologie
+ET552;;;;9;12;20;2;14;Marketing;sciences sociales;Arts
+ET553;;;;10;6;2;6;9;Physique;biologie;Biologie
+ET554;;;;7;10;6;18;15;Psychologie;chimie;Chimie
+ET555;;;;7;0;18;7;19;Musique;physique;Physique
+ET556;;;;17;0;7;5;11;Génie civil;mathématiques appliquées;Mathématiques
+ET557;;;;17;0;5;15;18;Philosophie;informatique;Arts
+ET558;;;;8;0;15;16;18;Biologie;génie mécanique;Arts
+ET559;;;;10;0;16;15;18;Journalisme;génie électrique;Arts
+ET560;;;;8;0;15;17;12;Design graphique;génie civil;Génie
+ET561;;;;5;0;17;16;11;Génie électrique;génie chimique;Génie
+ET562;;;;13;0;16;13;19;Anthropologie;gestion des ressources humaines;Arts
+ET563;;;;10;0;13;19;13;Histoire;comptabilité;Arts
+ET564;;;;12;0;19;5;14;Sports;finance;Finance
+ET565;;;;8;0;5;19;15;Écologie;droit;Droit
+ET566;;;;12;5;19;5;12;Astronomie;médecine;Medecine
+ET567;;;;12;2;5;5;12;Cinéma;informatique;Informatique
+ET568;;;;13;2;5;13;13;Gestion d'entreprise;chimie;Chimie
+ET569;;;;7;2;13;10;7;Relations internationales;design d'intérieur;Design
+ET570;;;;5;5;10;15;5;Droit;architecture;Architecture
+ET571;;;;16;19;15;6;16;Chimie;journalisme;Journalisme
+ET572;;;;10;8;6;12;10;Sociologie;écriture créative;sociologie
+ET573;;;;16;20;12;14;16;Théâtre;production vidéo;Arts
+ET574;;;;10;17;14;20;10;Mode;vente;Commerce
+ET575;;;;14;8;20;15;14;Nutrition;ecriture;Arts
+ET576;;;;12;19;15;11;12;Sciences politiques;psychologie;Psychologie
+ET577;;;;16;19;11;13;16;Photographie;cybersécurité;Arts
+ET578;;;;9;5;13;17;9;Génie mécanique;développement web;Développement
+ET579;;;;6;14;17;16;6;Éducation;marketing numérique;Arts
+ET580;;;;9;10;16;12;9;Intelligence artificielle;animation 3D;Animation
+ET581;;;;7;13;12;15;7;Criminologie;Résolution de problèmes;Arts
+ET582;;;;16;9;15;7;20;Géologie;Programmation informatique;Arts
+ET583;;;;11;6;7;11;17;Animation;Analyse statistique;Arts
+ET584;;;;20;13;11;9;8;Danse;Créativité;Arts
+ET585;;;;9;5;9;14;19;Marketing numérique;Rédaction;Journalisme
+ET586;;;;14;19;14;6;19;Génie chimique;Communication orale;Communication
+ET587;;;;15;15;6;13;5;Agriculture;Travail d'équipe;Arts
+ET588;;;;12;6;13;8;14;Science des données;Pensée critique;Arts
+ET589;;;;11;7;8;7;10;Linguistique;Conception graphique;Design
+ET590;;;;11;15;7;14;13;Réseaux sociaux;Leadership;Management
+ET591;;;;11;20;14;18;9;Robotique;Compétences interpersonnelles;Arts
+ET592;;;;16;18;18;20;6;Éthique;Compétences en négociation;Arts
+ET593;;;;19;0;20;12;13;Développement durable;Compétences en présentation;Informatique
+ET594;;;;19;6;12;15;5;Astronomie;Résilience;Mathematiques
+ET595;;;;11;5;15;17;19;Cinéma;Adaptabilité;Arts
+ET596;;;;11;12;17;13;15;Éthique des affaires;Organisation;Management
+ET597;;;;15;10;13;16;6;Éthique médicale;Gestion du temps;Gestion
+ET598;;;;12;8;16;18;7;Réalité augmentée;Esprit d'initiative;Informatique
+ET599;;;;14;6;18;9;15;Ingénierie logicielle;Capacité d'apprentissage rapide;Informatique
+ET600;;;;15;1;9;20;20;Design de jeux;Capacités analytiques;design
+ET601;;;;8;2;20;10;18;Analyse de données;Compétences en recherche;Mathematiques
+ET602;;;;15;3;10;19;0;Marketing sensoriel;Compétences en gestion de projet;Marketing
+ET603;;;;18;20;19;20;6;Psychologie positive;Programmation web;Programmation
+ET604;;;;5;19;20;19;5;Analyse financière;Programmation mobile;Programmation
+ET605;;;;18;0;19;10;12;Nanotechnologie;Résolution de problèmes;Arts
+ET606;;;;6;14;10;6;10;Systèmes embarqués;Programmation informatique;Programmation
+ET607;;;;16;20;6;18;8;Économie de la santé;Analyse statistique;Arts
+ET608;;;;16;2;18;12;6;Architecture de l'information;;Arts
+ET609;;;;19;6;12;14;1;Analyse de données;biologie;Mathematiques
+ET610;;;;17;18;14;9;2;Philosophie;chimie;Arts
+ET611;;;;9;7;9;15;3;Biologie;physique;Physique
+ET612;;;;13;5;15;19;20;Journalisme;mathématiques appliquées;Arts
+ET613;;;;10;15;19;11;19;Design graphique;informatique;Informatique
+ET614;;;;5;16;11;18;13;Génie électrique;génie mécanique;Genie mécanique
+ET615;;;;12;15;18;18;16;Anthropologie;génie électrique;genie electrique
+ET616;;;;8;17;18;18;18;Histoire;génie civil;genie civil
+ET617;;;;6;16;18;12;9;Sports;génie chimique;Chimie
+ET618;;;;14;13;12;11;20;Écologie;gestion des ressources humaines;Management
+ET619;;;;16;19;11;19;10;Astronomie;comptabilité;comptabilite
+ET620;;;;13;5;19;13;19;Cinéma;finance;Finance
+ET621;;;;13;19;13;14;20;Gestion d'entreprise;droit;Droit
+ET622;;;;10;5;14;15;19;Relations internationales;médecine;Médecine
+ET623;;;;19;5;15;7;10;Droit;informatique;Informatique
+ET624;;;;14;13;7;5;6;Chimie;chimie;Chimie
+ET625;;;;8;10;5;16;18;Sociologie;design d'intérieur;Design
+ET626;;;;20;15;16;10;12;Théâtre;architecture;Architecture
+ET627;;;;8;6;10;16;14;Mode;journalisme;Journalisme
+ET628;;;;15;12;16;10;9;Nutrition;écriture créative;Arts
+ET629;;;;17;14;10;14;15;Sciences politiques;production vidéo;sciences politique
+ET630;;;;9;20;14;12;19;Photographie;vente;Arts
+ET631;;;;17;15;12;16;11;Génie mécanique;ecriture;Journalisme
+ET632;;;;16;11;16;9;18;Éducation;psychologie;Arts
+ET633;;;;20;13;9;6;18;Intelligence artificielle;cybersécurité;Cybersécurité
+ET634;;;;14;17;6;9;18;Criminologie;développement web;Arts
+ET635;;;;8;16;9;7;12;Géologie;marketing numérique;Marketing
+ET636;;;;10;12;7;16;11;Animation;animation 3D;Arts
+ET637;;;;11;15;16;11;19;Danse;Résolution de problèmes;Arts
+ET638;;;;14;7;11;20;13;Marketing numérique;Programmation informatique;Informatique
+ET639;;;;6;11;20;9;14;Génie chimique;Analyse statistique;Chimie
+ET640;;;;13;9;9;14;15;Agriculture;Créativité;Arts
+ET641;;;;7;14;14;15;12;Science des données;Rédaction;Arts
+ET642;;;;8;6;15;12;17;Linguistique;Communication orale;Arts
+ET643;;;;9;13;12;11;14;Réseaux sociaux;Travail d'équipe;Management
+ET644;;;;18;8;11;11;11;Robotique;Pensée critique;philisophie
+ET645;;;;18;7;11;11;17;Éthique;Conception graphique;Arts
+ET646;;;;7;14;11;16;13;Développement durable;Leadership;ecologie
+ET647;;;;5;18;16;19;12;Biologie;Compétences interpersonnelles;Biologie
+ET648;;;;11;20;19;19;12;Mathématiques;Compétences en négociation;Commerce
+ET649;;;;17;12;19;11;18;Informatique;Compétences en présentation;Journalisme
+ET650;;;;13;15;11;11;19;Arts;Résilience;Arts
+ET651;;;;12;17;11;15;18;Littérature;Adaptabilité;Journalisme
+ET652;;;;12;13;15;12;19;Langues;Organisation;Management
+ET653;;;;18;16;12;14;13;Histoire;Gestion du temps;Management
+ET654;;;;19;18;14;15;6;Sciences sociales;Esprit d'initiative;Esprit
+ET655;;;;0;9;15;8;7;Sports;Capacité d'apprentissage rapide;Arts
+ET656;;;;19;20;8;12;19;Cuisine;Capacités analytiques;Arts
+ET657;;;;13;10;12;14;20;Musique;Compétences en recherche;Arts
+ET658;;;;6;19;14;15;20;Théâtre;Compétences en gestion de projet;Arts
+ET659;;;;7;20;15;8;11;Voyages;Programmation web;Arts
+ET660;;;;8;19;8;14;11;Sciences Politiques;Programmation mobile;Programmation
+ET661;;;;20;10;14;5;18;Design et Architecture;Compétences en présentation;Arts
+ET662;;;;17;6;5;5;15;Économie et Finance;Résilience;Finance
+ET663;;;;8;18;5;5;14;Environnement et Développement Durable;Adaptabilité;ecologie
+ET664;;;;19;12;5;5;11;Médecine;Organisation;medecine
+ET665;;;;19;14;5;5;5;Éducation ;Gestion du temps;Management
+ET666;;;;5;9;5;5;12;Droit et Justice;Esprit d'initiative;droit
+ET667;;;;14;15;5;20;6;Archéologie;Capacité d'apprentissage rapide;Arts
+ET668;;;;10;19;20;18;10;Sciences;Capacités analytiques;Mathematiques
+ET669;;;;13;11;18;15;15;Mathématiques;Compétences en recherche;Mathematiques
+ET670;;;;9;18;15;19;10;Informatique;Compétences en gestion de projet;Management
+ET671;;;;6;18;19;0;9;Économie;écriture créative;Economie
+ET672;;;;13;18;0;2;10;Arts plastiques;production vidéo;Production
+ET673;;;;5;12;2;20;7;Musique;vente;Commerce
+ET674;;;;19;11;20;20;17;Danse;ecriture;Arts
+ET675;;;;15;19;20;20;17;Théâtre;psychologie;Arts
+ET676;;;;6;13;20;18;14;Photographie;cybersécurité;Informatique
+ET677;;;;7;14;18;12;13;Journalisme;développement web;Informatique
+ET678;;;;15;15;12;10;17;Médecine;marketing numérique;Informatique
+ET679;;;;20;7;10;8;10;Psychologie;animation 3D;Informatique
+ET680;;;;18;5;8;20;15;Droit;Résolution de problèmes;droit
+ET681;;;;0;16;20;17;9;Linguistique;Programmation informatique;Informatique
+ET682;;;;6;10;17;8;10;Génie civil;Analyse statistique;Mathematiques
+ET683;;;;5;16;8;19;10;Génie électrique;Créativité;Arts
+ET684;;;;12;10;19;19;10;Architecture;Rédaction;Journalisme
+ET685;;;;10;14;19;5;17;Histoire de l'art;Communication orale;Histoire
+ET686;;;;8;12;5;14;15;Sociologie;Travail d'équipe;Management
+ET687;;;;6;16;14;10;13;Marketing;Pensée critique;Marketing
+ET688;;;;1;9;10;13;15;Géologie;Conception graphique;Arts
+ET689;;;;2;6;13;9;17;Astronomie;Leadership;Management
+ET690;;;;3;9;9;6;16;Anthropologie;Compétences interpersonnelles;Anthropologie
+ET691;;;;20;7;6;13;13;Cuisine;Compétences en négociation;cuisine
+ET692;;;;19;16;13;5;19;Mode;Compétences en présentation;mode
+ET693;;;;6;11;5;19;5;Écologie;Résilience;ecologie
+ET694;;;;13;20;19;15;19;Animation;Adaptabilité;Management
+ET695;;;;5;9;15;6;5;Design graphique;Organisation;Organisation
+ET696;;;;19;14;6;7;5;Finance;Gestion du temps;Finance
+ET697;;;;15;15;7;15;13;Développement durable;Esprit d'initiative;ecologie
+ET698;;;;6;12;15;20;10;Relations internationales;Capacité d'apprentissage rapide;Management
+ET699;;;;7;11;20;18;15;Chimie;Capacités analytiques;Chimie
+ET700;;;;15;11;18;0;6;Physique;Compétences en recherche;Physique
+ET701;;;;20;11;0;6;12;Philosophie;Compétences en gestion de projet;philosophie
+ET702;;;;18;16;6;5;14;Thérapie physique;Programmation web;Informatique
+ET703;;;;0;19;5;12;20;Criminologie;Programmation mobile;Arts
+ET704;;;;6;19;12;10;15;Sciences politiques;Résolution de problèmes;Résolution
+ET705;;;;5;11;10;8;11;Agriculture;Programmation informatique;Arts
+ET706;;;;17;11;8;6;13;Génie mécanique;Analyse statistique;Mathematiques
+ET707;;;;16;15;6;1;17;Éducation;informatique;Arts
+ET708;;;;13;12;1;2;16;Biologie marine;biologie;Biologie
+ET709;;;;0;14;2;3;12;Réalité virtuelle;chimie;Chimie
+ET710;;;;5;15;3;20;15;Éthique;physique;Arts
+ET711;;;;19;8;20;19;7;Volontariat;mathématiques appliquées;Arts
+ET712;;;;5;12;19;10;11;Robotique;informatique;Informatique
+ET713;;;;5;14;10;16;9;Énergie renouvelable;génie mécanique;Génie
+ET714;;;;13;15;16;16;14;Écriture créative;génie électrique;Génie
+ET715;;;;10;8;16;18;6;Études de genre;génie civil;Arts
+ET716;;;;15;14;18;7;13;Génie chimique;génie chimique;Génie
+ET717;;;;6;5;7;15;8;Sports;gestion des ressources humaines;Arts
+ET718;;;;12;5;15;18;7;Nutrition;comptabilité;Arts
+ET719;;;;14;5;18;9;14;Mécatronique;finance;Finance
+ET720;;;;20;5;9;9;18;Archéologie;droit;droit
+ET721;;;;15;5;9;13;20;Intelligence artificielle;médecine;Médecine
+ET722;;;;11;5;13;5;12;Design d'intérieur;informatique;Informatique
+ET723;;;;13;20;5;20;15;Gestion de projet;chimie;Arts
+ET724;;;;17;18;20;19;17;Économie du numérique;design d'intérieur;design
+ET725;;;;16;15;19;8;13;Neurosciences;architecture;Architecture
+ET726;;;;12;19;8;14;16;Art numérique;comptabilité;Comptabilité
+ET727;;;;15;0;14;9;18;Urbanisme;finance;Finance
+ET728;;;;7;2;9;15;9;Muséologie;droit;droit
+ET729;;;;11;20;15;19;20;Sécurité informatique;médecine;Médecine
+ET730;;;;9;20;19;11;10;Administration publique;informatique;Informatique
+ET731;;;;14;20;11;18;19;Animation 3D;chimie;Informatique
+ET732;;;;6;18;18;18;20;Marketing digital;design d'intérieur;Design
+ET733;;;;13;12;18;18;19;Études de marché;architecture;Arts
+ET734;;;;8;10;18;12;10;Design industriel;journalisme;Journalisme
+ET735;;;;7;8;12;11;6;Agroalimentaire;écriture créative;Arts
+ET736;;;;14;20;11;19;18;Animation japonaise;production vidéo;Production
+ET737;;;;18;17;19;13;12;Relations publiques;vente;Vente
+ET738;;;;20;8;13;14;14;Santé publique;ecriture;Ecriture
+ET739;;;;12;19;14;15;9;Graphisme;psychologie;Arts
+ET740;;;;15;19;15;10;15;Jeux vidéo;cybersécurité;Cybersécurité
+ET741;;;;17;5;10;16;19;Biotechnologie;développement web;Informatique
+ET742;;;;13;14;16;16;11;Archiviste;marketing numérique;Arts
+ET743;;;;16;10;16;18;18;Bio-informatique;animation 3D;Marketing
+ET744;;;;18;13;18;7;18;Cryptographie;Résolution de problèmes;Arts
+ET745;;;;9;9;7;15;18;Intelligence émotionnelle;Programmation informatique;Programmation
+ET746;;;;20;6;15;18;12;Intelligence collective;Analyse statistique;Informatique
+ET747;;;;10;13;18;9;11;Finance comportementale;Créativité;design
+ET748;;;;19;5;9;9;19;Intelligence d'affaires;Rédaction;Journalisme
+ET749;;;;20;19;9;18;13;Réseaux sociaux;Communication orale;Communication
+ET750;;;;19;15;13;12;14;Coaching;Travail d'équipe;Arts
+ET751;;;;10;6;17;11;15;Éthologie;Pensée critique;Arts
+ET752;;;;6;7;16;19;10;Sémiotique;Conception graphique;Design graphique
+ET753;;;;18;15;12;13;8;Art thérapie;Leadership;Leadership
+ET754;;;;12;20;15;14;5;Soutien scolaire;Compétences interpersonnelles;Sociologie
+ET755;;;;14;18;7;15;13;Éthique des affaires;Compétences en négociation;Commerce
+ET756;;;;9;0;11;12;10;Éthique médicale;Compétences en présentation;medecine
+ET757;;;;15;6;9;12;12;Réalité augmentée;Résilience;Informatique
+ET758;;;;19;5;14;13;8;Ingénierie logicielle;Adaptabilité;Marketing
+ET759;;;;11;12;6;7;12;Design de jeux;Organisation;Arts
+ET760;;;;18;10;13;5;12;Analyse de données;Gestion du temps;Management
+ET761;;;;18;8;8;16;13;Marketing sensoriel;Esprit d'initiative;Marketing
+ET762;;;;18;6;7;10;7;Psychologie positive;Capacité d'apprentissage rapide;Psychologie
+ET763;;;;12;1;14;16;5;Analyse financière;Capacités analytiques;Finance
+ET764;;;;11;2;18;10;16;Nanotechnologie;Compétences en recherche;Arts
+ET765;;;;19;3;20;14;10;Systèmes embarqués;Compétences en gestion de projet;Informatique
+ET766;;;;13;20;12;12;16;Économie de la santé;Programmation web;Informatique
+ET767;;;;14;19;15;16;10;Architecture de l'information;Programmation mobile;Informatique
+ET768;;;;15;10;17;9;14;Marketing;Résolution de problèmes;Mathematiques
+ET769;;;;12;16;13;6;12;Physique;Programmation informatique;Informatique
+ET770;;;;12;16;16;9;16;Psychologie;Analyse statistique;Mathematiques
+ET771;;;;13;18;18;7;9;Musique;Créativité;Arts
+ET772;;;;7;7;9;20;6;Génie civil;Communication écrite;Communication
+ET773;;;;5;15;20;17;9;Philosophie;Communication orale;Arts
+ET774;;;;16;18;10;8;7;Biologie;Gestion de projet;Management
+ET775;;;;10;9;19;19;16;Journalisme;Travail d'équipe;Arts
+ET776;;;;16;9;20;19;11;Design graphique;Leadership;design
+ET777;;;;10;13;19;5;20;Génie électrique;Rédaction technique;Journalisme
+ET778;;;;14;5;10;14;9;Anthropologie;Conception graphique;Design graphique
+ET779;;;;12;20;6;10;14;Histoire;langues étrangères;littérature
+ET780;;;;16;19;18;13;15;Sports;Compétences interculturelles;Arts
+ET781;;;;9;8;12;9;12;Écologie;Pensée critique;Arts
+ET782;;;;6;14;14;6;11;Astronomie;Compétences en recherche;Arts
+ET783;;;;9;9;9;13;11;Cinéma;Planification stratégique;Arts
+ET784;;;;7;15;15;5;11;Gestion d'entreprise;Compétences en négociation;Management
+ET785;;;;20;19;19;19;16;Relations internationales;marketing;Marketing
+ET786;;;;17;11;11;15;19;Droit;vente;Commerce
+ET787;;;;8;18;18;6;19;Chimie;relations publiques;Chimie
+ET788;;;;19;18;18;7;11;Sociologie;psychologie;Sociologie
+ET789;;;;19;18;18;15;11;Théâtre;sciences sociales;theatre
+ET790;;;;5;12;12;20;15;Mode;biologie;Biologie
+ET791;;;;14;11;11;18;12;Nutrition;chimie;Chimie
+ET792;;;;10;19;19;0;14;Sciences politiques;physique;Physique
+ET793;;;;13;13;13;6;15;Photographie;mathématiques appliquées;Arts
+ET794;;;;9;14;14;5;8;Génie mécanique;informatique;Informatique
+ET795;;;;6;15;15;12;15;Éducation;génie mécanique;Arts
+ET796;;;;13;10;12;10;18;Intelligence artificielle;génie électrique;Génie
+ET797;;;;5;16;12;8;5;Criminologie;génie civil;genie civil
+ET798;;;;19;16;13;6;18;Géologie;génie chimique;Chimie
+ET799;;;;15;18;7;1;6;Animation;gestion des ressources humaines;Informatique
+ET800;;;;6;7;5;2;16;Danse;comptabilité;comptabilite
+ET801;;;;7;15;16;3;16;Marketing numérique;finance;Finance
+ET802;;;;15;18;10;20;19;Génie chimique;droit;Droit
+ET803;;;;20;9;16;19;17;Agriculture;médecine;medecine
+ET804;;;;18;9;10;13;9;Science des données;informatique;Informatique
+ET805;;;;0;0;14;16;13;Linguistique;chimie;Arts
+ET806;;;;6;6;12;18;10;Réseaux sociaux;design d'intérieur;Design
+ET807;;;;5;5;16;9;5;Robotique;architecture;Arts
+ET808;;;;12;12;9;20;12;Éthique;journalisme;Arts
+ET809;;;;10;10;6;10;8;Développement durable;écriture créative;Écriture
+ET810;;;;8;8;9;19;6;Biologie;production vidéo;Arts
+ET811;;;;6;6;7;20;14;Mathématiques;vente;Commerce
+ET812;;;;1;1;20;19;16;Informatique;ecriture;Journalisme
+ET813;;;;2;2;17;10;13;Arts;psychologie;Psychologie
+ET814;;;;3;3;8;6;13;Littérature;cybersécurité;Informatique
+ET815;;;;20;20;19;18;10;Langues;développement web;Informatique
+ET816;;;;19;19;19;12;19;Sciences;marketing numérique;Informatique
+ET817;;;;13;13;5;14;14;Arts;animation 3D;Informatique
+ET818;;;;16;16;14;9;8;Musique;Résolution de problèmes;Mathematiques
+ET819;;;;18;18;10;15;20;Danse;Programmation informatique;Informatique
+ET820;;;;9;9;13;19;8;Théâtre;Analyse statistique;Mathematiques
+ET821;;;;20;20;9;11;15;Informatique;Créativité;Arts
+ET822;;;;10;10;6;18;17;Médecine;Rédaction;Arts
+ET823;;;;19;19;13;18;9;Droit;Communication orale;Journalisme
+ET824;;;;20;20;5;18;17;Économie;Travail d'équipe;Management
+ET825;;;;19;19;19;12;16;Mathématiques;Pensée critique;Mathematiques
+ET826;;;;10;10;15;11;20;Histoire;Conception graphique;Design graphique
+ET827;;;;6;6;6;19;14;Philosophie;Leadership;Arts
+ET828;;;;18;18;7;13;8;Psychologie;Compétences interpersonnelles;Arts
+ET829;;;;12;12;15;14;10;Écologie;Compétences en négociation;Arts
+ET830;;;;14;14;20;15;11;Design graphique;Compétences en présentation;Compétences
+ET831;;;;9;9;18;12;14;Programmation;Résilience;Arts
+ET832;;;;15;15;0;17;6;Développement web;Adaptabilité;Informatique
+ET833;;;;19;19;6;14;13;Photographie;Organisation;Management
+ET834;;;;11;11;5;11;7;Journalisme;Gestion du temps;Management
+ET835;;;;18;18;12;17;8;Marketing;Esprit d'initiative;Marketing
+ET836;;;;18;18;10;13;9;Cinéma;Capacité d'apprentissage rapide;Arts
+ET837;;;;18;18;8;12;18;Astronomie;Capacités analytiques;Arts
+ET838;;;;12;12;6;12;18;Linguistique;Compétences en recherche;Arts
+ET839;;;;11;11;1;18;7;Architecture;Compétences en gestion de projet;Arts
+ET840;;;;19;19;2;19;5;Anthropologie;Programmation web;Informatique
+ET841;;;;13;13;3;18;11;Sociologie;Programmation mobile;Informatique
+ET842;;;;14;14;20;19;17;Cuisine;Résolution de problèmes;Mathematiques
+ET843;;;;15;15;19;13;13;Voyages;Programmation informatique;Informatique
+ET844;;;;12;12;13;6;12;Sports;Analyse statistique;Mathematiques
+ET845;;;;17;17;16;7;12;Mode;Créativité;Arts
+ET846;;;;14;14;18;19;18;Automobile;Communication écrite;littérature
+ET847;;;;11;11;9;20;19;Aéronautique;Communication orale;Arts
+ET848;;;;17;17;20;20;18;Énergie renouvelable;Gestion de projet;Management
+ET849;;;;13;13;10;11;19;Politique;Travail d'équipe;droit
+ET850;;;;12;12;19;11;13;Développement durable;Leadership;ecologie
+ET851;;;;12;12;20;18;6;Sciences de la terre;Rédaction technique;Sciences naturelle
+ET852;;;;18;18;19;15;7;Géopolitique;Conception graphique;Design graphique
+ET853;;;;19;19;10;14;19;Muséologie;langues étrangères;littérature
+ET854;;;;18;18;6;11;20;Génie civil;Compétences interculturelles;genie civil
+ET855;;;;19;19;18;5;20;Neurosciences;Pensée critique;Arts
+ET856;;;;13;13;12;12;11;Intelligence artificielle;Compétences en recherche;Informatique
+ET857;;;;6;6;14;6;11;Blockchain;Planification stratégique;Arts
+ET858;;;;7;7;9;10;18;Réseaux sociaux;Compétences en négociation;Informatique
+ET859;;;;19;19;15;15;15;Éthique;marketing;Arts
+ET860;;;;20;20;19;10;14;Humanités numériques;vente;Vente
+ET861;;;;20;20;11;9;11;Géographie;relations publiques;Arts
+ET862;;;;11;11;18;10;5;Santé publique;psychologie;Psychologie
+ET863;;;;11;11;18;7;12;Réalité virtuelle;sciences sociales;Sciences
+ET864;;;;18;18;18;17;6;Intelligence émotionnelle;biologie;Biologie
+ET865;;;;15;15;12;17;10;Robotique;chimie;Arts
+ET866;;;;14;14;11;14;19;Sciences;physique;Arts
+ET867;;;;11;11;19;13;12;Mathématiques;mathématiques appliquées;Mathematiques
+ET868;;;;5;5;13;17;14;Informatique;informatique;Informatique
+ET869;;;;12;12;14;10;14;Économie;génie mécanique;genie mecanique
+ET870;;;;6;6;15;15;16;Arts plastiques;génie électrique;Genie electrique
+ET871;;;;10;10;12;9;6;Musique;génie civil;genie civil
+ET872;;;;15;15;17;10;6;Danse;génie chimique;Chimie
+ET873;;;;10;10;14;10;19;Théâtre;gestion des ressources humaines;Management
+ET874;;;;9;9;11;10;14;Photographie;comptabilité;comptabilite
+ET875;;;;10;10;17;17;5;Journalisme;finance;Finance
+ET876;;;;7;7;13;15;20;Médecine;droit;droit
+ET877;;;;17;17;12;13;13;Psychologie;médecine;medecine
+ET878;;;;17;17;12;15;11;Droit;informatique;Informatique
+ET879;;;;14;14;18;17;7;Linguistique;chimie;Chimie
+ET880;;;;13;13;19;16;11;Génie civil;design d'intérieur;Design
+ET881;;;;17;17;18;13;5;Génie électrique;architecture;Architecture
+ET882;;;;10;10;19;19;7;Architecture;journalisme;Journalisme
+ET883;;;;15;15;13;5;15;Histoire de l'art;écriture créative;Arts
+ET884;;;;9;9;6;19;20;Sociologie;production vidéo;Arts
+ET885;;;;10;10;7;5;18;Marketing;vente;Marketing
+ET886;;;;10;10;19;5;0;Géologie;ecriture;Journalisme
+ET887;;;;10;10;20;13;6;Astronomie;psychologie;Mathematiques
+ET888;;;;17;17;20;10;5;Anthropologie;cybersécurité;Informatique
+ET889;;;;15;15;11;15;12;Cuisine;développement web;Informatique
+ET890;;;;13;13;11;6;10;Mode;marketing numérique;Marketing
+ET891;;;;15;15;18;12;8;Écologie;animation 3D;Informatique
+ET892;;;;17;17;15;14;6;Animation;Résolution de problèmes;Informatique
+ET893;;;;16;16;14;20;1;Design graphique;Programmation informatique;Design graphique
+ET894;;;;13;13;11;15;2;Finance;Analyse statistique;Economie
+ET895;;;;19;19;5;11;3;Développement durable;Créativité;Design graphique
+ET896;;;;5;5;12;13;20;Relations internationales;Rédaction;Rédaction
+ET897;;;;19;19;6;17;19;Chimie;Communication orale;Arts
+ET898;;;;5;5;10;16;18;Physique;Travail d'équipe;physique
+ET899;;;;5;5;15;12;0;Philosophie;Pensée critique;philosophie
+ET900;;;;13;13;10;15;6;Thérapie physique;Conception graphique;Conception
+ET901;;;;10;10;9;7;5;Criminologie;Leadership;Informatique
+ET902;;;;15;15;10;11;12;Sciences politiques;Compétences interpersonnelles;droit
+ET903;;;;6;6;7;9;10;Agriculture;Compétences en négociation;Agronomie
+ET904;;;;12;12;17;14;8;Génie mécanique;Compétences en présentation;Mecanique
+ET905;;;;14;14;17;6;6;Éducation;Résilience;Arts
+ET906;;;;20;20;14;13;1;Biologie marine;Adaptabilité;Biologie
+ET907;;;;15;15;13;8;2;Réalité virtuelle;Organisation;Informatique
+ET908;;;;11;11;17;7;3;Éthique;Gestion du temps;Management
+ET909;;;;13;13;10;14;20;Volontariat;Esprit d'initiative;Sociologie
+ET910;;;;17;17;15;18;19;Robotique;Capacité d'apprentissage rapide;Informatique
+ET911;;;;16;16;9;20;20;Énergie renouvelable;Capacités analytiques;Capacités
+ET912;;;;12;12;10;12;6;Écriture créative;Compétences en recherche;Compétences
+ET913;;;;15;15;10;15;7;Études de genre;Compétences en gestion de projet;Arts
+ET914;;;;7;7;10;17;15;Génie chimique;Programmation web;Programmation
+ET915;;;;11;11;17;13;20;Sports;Programmation mobile;Informatique
+ET916;;;;9;9;15;16;18;Nutrition;Compétences en présentation;Arts
+ET917;;;;14;14;13;18;0;Mécatronique;Résilience;Informatique
+ET918;;;;6;6;15;9;6;Archéologie;Adaptabilité;Arts
+ET919;;;;13;13;17;20;5;Intelligence artificielle;Organisation;Organisation
+ET920;;;;8;8;16;10;12;Design d'intérieur;Gestion du temps;Gestion
+ET921;;;;7;7;13;19;10;Gestion de projet;Esprit d'initiative;Management
+ET922;;;;14;14;19;20;8;Économie du numérique;Capacité d'apprentissage rapide;Economie
+ET923;;;;18;18;5;19;6;Neurosciences;Capacités analytiques;Mathematiques
+ET924;;;;20;20;19;10;1;Art numérique;Compétences en recherche;Compétences
+ET925;;;;12;12;5;6;2;Urbanisme;Compétences en gestion de projet;Management
+ET926;;;;15;15;5;18;3;Muséologie;Résolution de problèmes;Arts
+ET927;;;;17;17;13;12;20;Sécurité informatique;Programmation informatique;Programmation
+ET928;;;;13;13;10;14;19;Administration publique;Analyse statistique;Mathematiques
+ET929;;;;16;16;15;9;11;Animation 3D;Créativité;Informatique
+ET930;;;;18;18;6;15;17;Marketing digital;Communication écrite;Communication
+ET931;;;;9;9;12;19;13;Études de marché;Communication orale;Arts
+ET932;;;;20;20;14;11;12;Design industriel;Gestion de projet;Gestion
+ET933;;;;10;10;20;18;12;Agroalimentaire;Travail d'équipe;Management
+ET934;;;;19;19;15;18;18;Animation japonaise;Leadership;Arts
+ET935;;;;20;20;11;18;19;Relations publiques;Rédaction technique;Rédaction
+ET936;;;;19;19;13;12;18;Santé publique;Conception graphique;Conception
+ET937;;;;10;10;17;11;19;Graphisme;langues étrangères;Arts
+ET938;;;;6;6;16;19;13;Jeux vidéo;Compétences interculturelles;Compétences
+ET939;;;;18;18;12;13;6;Biotechnologie;Pensée critique;Arts
+ET940;;;;12;12;15;14;7;Archiviste;Compétences en recherche;Arts
+ET941;;;;14;14;7;15;19;Bio-informatique;Planification stratégique;Informatique
+ET942;;;;9;9;11;10;20;Cryptographie;Compétences en négociation;Mathematiques
+ET943;;;;15;15;9;8;20;Intelligence émotionnelle;marketing;Marketing
+ET944;;;;19;19;14;5;11;Intelligence collective;vente;Vente
+ET945;;;;11;11;6;13;11;Finance comportementale;relations publiques;Relations
+ET946;;;;18;18;13;10;18;Intelligence d'affaires;psychologie;Psychologie
+ET947;;;;18;18;8;12;15;Réseaux sociaux;sciences sociales;Sciences
+ET948;;;;18;18;7;8;14;Coaching;biologie;Biologie
+ET949;;;;12;12;14;12;11;Éthologie;chimie;Chimie
+ET950;;;;11;11;18;12;5;Sémiotique;physique;physique
+ET951;;;;19;19;20;13;12;Art thérapie;mathématiques appliquées;Mathématiques
+ET952;;;;13;13;12;7;6;Soutien scolaire;informatique;Informatique
+ET953;;;;14;14;15;5;10;Éthique des affaires;génie mécanique;Arts
+ET954;;;;15;15;17;16;0;Éthique médicale;génie électrique;Genie electrique
+ET955;;;;10;10;13;10;0;Réalité augmentée;génie civil;genie civil
+ET956;;;;8;8;16;16;0;Ingénierie logicielle;génie chimique;Chimie
+ET957;;;;5;5;18;10;0;Design de jeux;gestion des ressources humaines;Arts
+ET958;;;;13;13;9;14;0;Analyse de données;comptabilité;comptabilite
+ET959;;;;10;10;20;12;0;Marketing sensoriel;finance;Finance
+ET960;;;;12;12;10;16;0;Psychologie positive;droit;Droit
+ET961;;;;8;8;19;9;0;Analyse financière;médecine;Médecine
+ET962;;;;12;12;20;6;0;Nanotechnologie;informatique;Arts
+ET963;;;;12;12;19;9;0;Systèmes embarqués;chimie;Chimie
+ET964;;;;13;13;10;7;0;Économie de la santé;design d'intérieur;design
+ET965;;;;7;7;6;16;5;Architecture de l'information;architecture;Architecture
+ET966;;;;5;5;18;11;2;Éthique des affaires;journalisme;Journalisme
+ET967;;;;16;16;12;20;2;Éthique médicale;écriture créative;Écriture
+ET968;;;;10;10;14;9;2;Réalité augmentée;production vidéo;Production
+ET969;;;;16;16;9;14;5;Ingénierie logicielle;vente;Vente
+ET970;;;;10;10;15;15;19;Design de jeux;ecriture;Journalisme
+ET971;;;;14;14;19;12;8;Analyse de données;psychologie;Psychologie
+ET972;;;;12;12;11;11;20;Marketing sensoriel;cybersécurité;Cybersécurité
+ET973;;;;16;16;18;11;17;Psychologie positive;développement web;Développement
+ET974;;;;9;9;18;11;8;Analyse financière;marketing numérique;Marketing
+ET975;;;;6;6;18;16;19;Nanotechnologie;animation 3D;Arts
+ET976;;;;9;9;12;19;19;Systèmes embarqués;Résolution de problèmes;Informatique
+ET977;;;;7;7;11;19;5;Économie de la santé;Programmation informatique;Informatique
+ET978;;;;16;16;19;11;14;Architecture de l'information;Analyse statistique;Mathematiques
+ET979;;;;11;11;13;11;10;Informatique;Créativité;Arts
+ET980;;;;20;20;14;15;13;Arts du Spectacle;Rédaction;Journalisme
+ET981;;;;9;9;15;12;9;Médecine;Communication orale;Journalisme
+ET982;;;;14;14;10;14;6;Architecture;Travail d'équipe;Management
+ET983;;;;15;15;8;15;13;Économie;Pensée critique;Economie
+ET984;;;;12;12;5;8;5;Mathématiques;Conception graphique;Design graphique
+ET985;;;;11;11;13;15;19;Informatique;Leadership;Management
+ET986;;;;11;11;10;18;15;Langues étrangères;Compétences interpersonnelles;littérature
+ET987;;;;11;11;12;5;6;Marketing;Compétences en négociation;Marketing
+ET988;;;;16;16;8;18;7;Physique;Compétences en présentation;Journalisme
+ET989;;;;19;19;12;6;15;Psychologie;Résilience;Psychologie
+ET990;;;;19;19;12;16;20;Musique;Adaptabilité;Arts
+ET991;;;;11;11;13;16;18;Génie civil;Organisation;genie civil
+ET992;;;;11;11;7;19;0;Philosophie;Gestion du temps;Management
+ET993;;;;15;15;5;17;6;Biologie;Esprit d'initiative;Biologie
+ET994;;;;12;12;16;9;5;Journalisme;Capacité d'apprentissage rapide;Journalisme
+ET995;;;;14;14;10;13;12;Design graphique;Capacités analytiques;Design graphique
+ET996;;;;15;15;16;10;10;Génie électrique;Compétences en recherche;Genie electrique
+ET997;;;;8;8;10;5;8;Anthropologie;Compétences en gestion de projet;Arts
+ET998;;;;15;15;14;12;6;Histoire;Programmation web;Informatique
+ET999;;;;18;18;12;8;1;Sports;Programmation mobile;Informatique
+ET1000;;;;5;5;16;6;2;Écologie;Résolution de problèmes;Arts
+ET1001;;;;18;18;9;14;3;Astronomie;Programmation informatique;ecologie
+ET1002;;;;6;6;6;16;20;Cinéma;Analyse statistique;Mathematiques
+ET1003;;;;16;16;9;13;19;Gestion d'entreprise;Créativité;Management
+ET1004;;;;16;16;7;13;0;Relations internationales;Communication écrite;Communication
+ET1005;;;;19;19;16;10;14;Droit;Communication orale;Arts
+ET1006;;;;17;17;11;19;20;Chimie;Gestion de projet;Management
+ET1007;;;;9;9;20;14;2;Sociologie;Travail d'équipe;Management
+ET1008;;;;13;13;9;8;6;Théâtre;Leadership;Arts
+ET1009;;;;10;10;14;20;18;Mode;Rédaction technique;Arts
+ET1010;;;;5;5;15;8;7;Nutrition;Conception graphique;Design graphique
+ET1011;;;;12;12;12;15;5;Sciences politiques;langues étrangères;Langues
+ET1012;;;;8;8;11;17;15;Photographie;Compétences interculturelles;Arts
+ET1013;;;;6;6;11;9;16;Génie mécanique;Pensée critique;genie mecanique
+ET1014;;;;14;14;11;17;15;Éducation;Compétences en recherche;Arts
+ET1015;;;;16;16;16;16;17;Intelligence artificielle;Planification stratégique;Informatique
+ET1016;;;;13;13;19;20;16;Criminologie;Compétences en négociation;Management
+ET1017;;;;13;13;19;14;13;Géologie;marketing;Marketing
+ET1018;;;;10;10;11;8;19;Animation;vente;Commerce
+ET1019;;;;19;19;11;10;5;Danse;relations publiques;Arts
+ET1020;;;;14;14;15;11;19;Marketing numérique;psychologie;Psychologie
+ET1021;;;;8;8;12;14;5;Génie chimique;sciences sociales;Chimie
+ET1022;;;;20;20;14;6;5;Agriculture;biologie;Biologie
+ET1023;;;;8;8;15;13;13;Science des données;chimie;Chimie
+ET1024;;;;15;15;8;7;10;Linguistique;physique;littérature
+ET1025;;;;17;17;15;8;15;Réseaux sociaux;mathématiques appliquées;Mathématiques
+ET1026;;;;9;9;18;9;6;Economie;informatique;Informatique
+ET1027;;;;17;17;5;18;12;Art;génie mécanique;genie mecanique
+ET1028;;;;16;16;18;18;14;Sciences;génie électrique;Genie electrique
+ET1029;;;;20;20;6;7;20;Informatique;génie civil;genie civil
+ET1030;;;;14;14;16;5;15;Lettres;génie chimique;Chimie
+ET1031;;;;8;8;16;11;11;Chimie;gestion des ressources humaines;Management
+ET1032;;;;10;10;19;17;13;Informatique;comptabilité;comptabilite
+ET1033;;;;11;11;17;13;17;Arts du Spectacle;finance;Finance
+ET1034;;;;14;14;9;12;16;Médecine;droit;Droit
+ET1035;;;;6;6;13;12;12;Architecture;médecine;Medecine
+ET1036;;;;13;13;10;18;15;Économie;informatique;Informatique
+ET1037;;;;7;7;5;19;7;Mathématiques;chimie;Mathematiques
+ET1038;;;;8;8;12;18;11;Informatique;design d'intérieur;Informatique
+ET1039;;;;9;9;8;19;9;Langues étrangères;architecture;Architecture
+ET1040;;;;18;18;6;13;14;Marketing;journalisme;Journalisme
+ET1041;;;;18;18;14;6;6;Physique;écriture créative;Arts
+ET1042;;;;7;7;16;7;13;Psychologie;production vidéo;Arts
+ET1043;;;;5;5;13;19;8;Musique;vente;Commerce
+ET1044;;;;11;11;13;20;7;Génie civil;ecriture;Mathematiques
+ET1045;;;;17;17;10;20;14;Philosophie;psychologie;philosophie
+ET1046;;;;13;13;19;11;18;Biologie;cybersécurité;Informatique
+ET1047;;;;12;12;14;11;20;Journalisme;développement web;Informatique
+ET1048;;;;12;12;8;18;12;Design graphique;marketing numérique;Marketing
+ET1049;;;;18;18;20;15;15;Génie électrique;animation 3D;Animation
+ET1050;;;;19;19;8;14;17;Anthropologie;Résolution de problèmes;Arts
+ET1051;;;;18;18;15;11;13;Histoire;Programmation informatique;Informatique
+ET1052;;;;19;19;17;5;16;Sports;Analyse statistique;Mathematiques
+ET1053;;;;13;13;9;12;18;Écologie;Créativité;Arts
+ET1054;;;;6;6;17;6;9;Astronomie;Rédaction;Journalisme
+ET1055;;;;7;7;16;10;20;Cinéma;Communication orale;Journalisme
+ET1056;;;;19;19;20;19;10;Gestion d'entreprise;Travail d'équipe;Travail
+ET1057;;;;20;20;14;12;19;Relations internationales;Pensée critique;Pensée
+ET1058;;;;20;20;8;14;20;Droit;Conception graphique;Design graphique
+ET1059;;;;11;11;10;14;19;Chimie;Leadership;Management
+ET1060;;;;11;11;11;16;10;Sociologie;Compétences interpersonnelles;Sociologie
+ET1061;;;;18;18;14;6;6;Théâtre;Compétences en négociation;Management
+ET1062;;;;15;15;6;6;18;Mode;Compétences en présentation;Arts
+ET1063;;;;14;14;13;19;12;Nutrition;Résilience;medecine
+ET1064;;;;11;11;7;14;14;Sciences politiques;Adaptabilité;Adaptabilité
+ET1065;;;;5;5;8;5;9;Photographie;Organisation;Arts
+ET1066;;;;12;12;9;20;15;Génie mécanique;Gestion du temps;genie mecanique
+ET1067;;;;6;6;18;13;19;Éducation;Esprit d'initiative;Arts
+ET1068;;;;10;10;18;11;11;Intelligence artificielle;Capacité d'apprentissage rapide;Capacité
+ET1069;;;;19;19;7;7;18;Criminologie;Capacités analytiques;Management
+ET1070;;;;12;12;5;11;18;Géologie;Compétences en recherche;Arts
+ET1071;;;;14;14;11;5;18;Animation;Compétences en gestion de projet;Arts
+ET1072;;;;14;14;17;7;12;Danse;Programmation web;Arts
+ET1073;;;;16;16;13;15;11;Marketing numérique;Programmation mobile;Programmation
+ET1074;;;;6;6;12;20;19;Génie chimique;Résolution de problèmes;Résolution
+ET1075;;;;6;6;12;18;13;Agriculture;Programmation informatique;Arts
+ET1076;;;;19;19;18;0;14;Science des données;Analyse statistique;Arts
+ET1077;;;;14;14;19;6;15;Linguistique;;Arts
+ET1078;;;;5;5;18;5;7;Réseaux sociaux;biologie;Biologie
+ET1079;;;;20;20;19;12;5;Robotique;chimie;Arts
+ET1080;;;;13;13;13;10;16;Éthique;physique;Arts
+ET1081;;;;11;11;6;8;10;Développement durable;mathématiques appliquées;Mathématiques
+ET1082;;;;7;7;7;6;16;Biologie;informatique;Informatique
+ET1083;;;;11;11;19;1;10;Mathématiques;génie mécanique;genie mecanique
+ET1084;;;;5;5;20;2;14;Informatique;génie électrique;Informatique
+ET1085;;;;7;7;20;3;12;Arts;génie civil;Arts
+ET1086;;;;15;15;11;20;16;Littérature;génie chimique;littérature
+ET1087;;;;20;20;11;19;9;Langues;gestion des ressources humaines;littérature
+ET1088;;;;18;18;18;18;6;Histoire;comptabilité;Comptabilité
+ET1089;;;;0;0;15;0;9;Sciences sociales;finance;Finance
+ET1090;;;;6;6;14;6;7;Sports;droit;Droit
+ET1091;;;;5;5;11;5;16;Cuisine;médecine;medecine
+ET1092;;;;12;12;5;12;11;Musique;informatique;Informatique
+ET1093;;;;10;10;12;10;20;Théâtre;chimie;Chimie
+ET1094;;;;8;8;6;8;9;Voyages;design d'intérieur;design
+ET1095;;;;6;6;10;6;14;Sciences Politiques;architecture;Architecture
+ET1096;;;;1;1;19;1;15;Design et Architecture;journalisme;Journalisme
+ET1097;;;;2;2;12;2;12;Économie et Finance;écriture créative;Economie
+ET1098;;;;3;3;14;3;11;Environnement et Développement Durable;production vidéo;Informatique
+ET1099;;;;20;20;14;20;11;Médecine;vente;Pharmacie
+ET1100;;;;19;19;16;19;11;Éducation ;ecriture;Sociologie
+ET1101;;;;18;18;6;20;16;Droit et Justice;psychologie;Droit
+ET1102;;;;0;0;6;11;19;Archéologie;cybersécurité;Informatique
+ET1103;;;;6;6;19;7;19;Sciences;développement web;Informatique
+ET1104;;;;5;5;14;11;11;Mathématiques;marketing numérique;Mathematiques
+ET1105;;;;12;12;5;5;11;Informatique;animation 3D;Informatique
+ET1106;;;;10;10;20;7;15;Économie;Résolution de problèmes;Economie
+ET1107;;;;8;8;13;15;12;Arts plastiques;Programmation informatique;Design graphique
+ET1108;;;;6;6;11;20;14;Musique;Analyse statistique;Musique
+ET1109;;;;1;1;7;18;15;Danse;Créativité;Danse
+ET1110;;;;2;2;11;0;8;Théâtre;Rédaction;Theatre
+ET1111;;;;3;3;5;6;12;Photographie;Communication orale;Arts 
+ET1112;;;;20;20;7;5;14;Journalisme;Travail d'équipe;Journalisme
+ET1113;;;;19;19;15;12;15;Médecine;Pensée critique;Medecine
+ET1114;;;;20;20;20;10;8;Psychologie;Conception graphique;Design graphique
+ET1115;;;;11;11;18;8;14;Droit;Leadership;Droit
+ET1116;;;;7;7;0;6;5;Linguistique;Compétences interpersonnelles;Anglais
+ET1117;;;;11;11;6;1;5;Génie civil;Compétences en négociation;Genie civil
+ET1118;;;;5;5;5;2;5;Génie électrique;Compétences en présentation;Genie electrique
+ET1119;;;;7;7;12;3;5;Architecture;Résilience;Architecture
+ET1120;;;;15;15;10;20;5;Histoire de l'art;Adaptabilité;Histoire
+ET1121;;;;20;20;8;19;5;Sociologie;Organisation;Sociologie
+ET1122;;;;18;18;6;18;20;Marketing;Gestion du temps;marketing
+ET1123;;;;0;0;1;0;18;Géologie;Esprit d'initiative;Geologie
+ET1124;;;;6;6;2;6;15;Astronomie;Capacité d'apprentissage rapide;Astronomie
+ET1125;;;;5;5;3;5;19;Anthropologie;Capacités analytiques;Anthropologie
+ET1126;;;;12;12;20;12;0;Cuisine;Compétences en recherche;Arts culinaires
+ET1127;;;;10;10;19;10;2;Mode;Compétences en gestion de projet;Management
+ET1128;;;;8;8;18;8;20;Écologie;Programmation web;Informatique
+ET1129;;;;6;6;0;6;20;Animation;Programmation mobile;Informatique
+ET1130;;;;1;1;6;1;20;Design graphique;Compétences en présentation;Design graphique
+ET1131;;;;2;2;5;2;18;Finance;Résilience;Economie
+ET1132;;;;3;3;12;3;12;Développement durable;Adaptabilité;Science naturelle
+ET1133;;;;20;20;10;20;10;Relations internationales;Organisation;Science politique
+ET1134;;;;19;19;8;19;8;Chimie;Gestion du temps;Chimie
+ET1135;;;;18;18;6;20;20;Physique;Esprit d'initiative;Chimie
+ET1136;;;;0;0;1;12;17;Philosophie;Capacité d'apprentissage rapide;philosophie
+ET1137;;;;6;6;2;10;8;Thérapie physique;Capacités analytiques;Mathematiques
+ET1138;;;;5;5;3;8;19;Criminologie;Compétences en recherche;Science naturelle
+ET1139;;;;12;12;20;6;19;Sciences politiques;Compétences en gestion de projet;Management
+ET1140;;;;10;10;19;1;5;Agriculture;écriture créative;littérature
+ET1141;;;;8;8;20;2;14;Génie mécanique;production vidéo;Mecanique
+ET1142;;;;6;6;6;3;10;Éducation;vente;marketing
+ET1143;;;;1;1;1;20;13;Biologie marine;ecriture;Science naturelle
+ET1144;;;;2;2;2;19;9;Réalité virtuelle;psychologie;Intelligence artificielle
+ET1145;;;;3;3;3;18;6;Éthique;cybersécurité;Cybersécurité
+ET1146;;;;20;20;20;0;13;Volontariat;mathématiques ;Sociologie
+ET1147;;;;19;19;5;6;5;Robotique;chimie;Intelligence artificielle
+ET1148;;;;20;20;17;5;19;Mathématiques;architecture;Architecture
+ET1149;;;;20;20;20;20;20;Écriture créative;Dessin;Peinture
