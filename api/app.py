@@ -21,7 +21,7 @@ def predict():
     #effecxtuer une operation 
     result = {'result': data['number']* 2}
 
-    return jsonify(result) #renvoyer la repons JSON
+    return jsonify(result) #renvoyer la reponse JSON
 
 
 if __name__ == '__main__':

@@ -1,4 +1,4 @@
-ID_ETUDIANT;Sexe;MoyenneBac;Orientation;NotesMaths;NotesFrançais;NotesPhysiques;NotesChimie;NotesAnglais;Interets1;Interets2;choixOrientation
+ID_ETUDIANT;Sexe;MoyenneBac;Orientation;NotesMaths;NotesFrançais;NotesPhysChimie;NotesSVT;NotesAnglais;Interets1;Interets2;choixOrientation
 ET001;F;15;L;16;16;12.75;8;6;Biologie;Biosciences;Chimie
 ET002;F;10.00;S;7;15;20;20;13;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
 ET003;F;10.00;S;14;17;17;17;9;Physiques;Biosciences;Biosciences
