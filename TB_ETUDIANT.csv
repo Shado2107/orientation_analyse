@@ -1,5 +1,5 @@
 ID_ETUDIANT;Sexe;MoyenneBac;Orientation;NotesMaths;NotesFrançais;NotesPhysiques;NotesChimie;NotesAnglais;Interets1;Interets2;choixOrientation
-ET001;F;15;L;16;16;12.75;8;6;Biologie;Biosciences;Biosciences
+ET001;F;15;L;16;16;12.75;8;6;Biologie;Biosciences;Chimie
 ET002;F;10.00;S;7;15;20;20;13;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
 ET003;F;10.00;S;14;17;17;17;9;Physiques;Biosciences;Biosciences
 ET004;F;15;S;7;16;12.75;8;19;Informatique;Genie Logiciel;Informatique
@@ -9,7 +9,7 @@ ET007;M;12;S;16;10.5;10;13.50;11;Finance / Comptabilité / Statistiques;Comptabil
 ET008;F;11;L;15;19;14;14;15;Finance / Comptabilité / Statistiques;Mathematiques;Comptabilité et Finance
 ET009;M;16;L;17;10.5;10;10;18;Mathematiques;Mathematiques;Genie Electrique
 ET010;M;14;S;16;10.5;13;13;18;Informatique;Genie Logiciel;Biosciences
-ET011;F;10.00;S;13;13;9;9;12;Biologie;Biosciences;Biosciences
+ET011;F;10.00;S;13;13;9;9;12;Biologie;Comptabilité et Finance;Chimie
 ET012;F;10.00;S;19;10;8.5;12.25;6;Biologie;Psychologie;Psychologie
 ET013;M;14;S;10;15;13;13;9;Physiques;Psychologie;Genie Electrique
 ET014;M;10.00;S;19;13;10;13.50;17;Mathematiques;Mathematiques;Mathematiques
@@ -900,11 +900,11 @@ ET900;M;16;S;13;13;10;15;6;Anglais;Anglais;Anglais
 ET901;M;10.00;S;10;10;9;7;9;Biologie;Biosciences;Biosciences
 ET902;F;14;S;15;15;10;11;12;Biologie;Biosciences;Biosciences
 ET903;M;18;L;6;13;10.5;9;10;Anglais;Anglais;Anglais
-ET904;F;13;S;12;12;17;14;14;Biologie;Biosciences;Biosciences
+ET904;F;13;S;12;12;17;14;14;Droit;Economie;Droit
 ET905;F;10.00;S;14;14;17;12.25;6;Biologie;Biosciences;Biosciences
 ET906;M;18;S;20;20;14;13;11;Biologie;Biosciences;Biosciences
 ET907;M;12;S;15;15;13;8;11;Informatique;Informatique;Informatique
-ET908;M;15;S;11;11;17;7;12;Informatique;Informatique;Informatique
+ET908;M;15;S;11;11;17;7;12;Economie;Droit;Economie
 ET909;F;11;S;13;13;10;14;18;Informatique;Informatique;Informatique
 ET910;F;13;S;17;17;15;18;19;Biologie;Genie Logiciel;Genie Logiciel
 ET911;F;13;S;16;16;9;20;18;Informatique;Genie Logiciel;Genie Logiciel
@@ -975,7 +975,7 @@ ET975;F;16;S;6;13;18;16;19;Biologie;Anglais;Biosciences
 ET976;F;14;S;9;9;12;19;19;Anglais;Genie Logiciel;Genie Logiciel
 ET977;F;12;S;7;12.5;11;19;9;Mathematiques;Mathematiques;Mathematiques
 ET978;M;12;S;16;16;19;11;14;Anglais;Genie Logiciel;Genie Logiciel
-ET979;M;11;S;11;11;13;11;10;Anglais;Genie Logiciel;Genie Logiciel
+ET979;M;11;S;11;11;13;11;10;Logistique / Transport;Droit;Droit
 ET980;M;15;S;20;20;14;15;13;Anglais;Genie Logiciel;Genie Logiciel
 ET981;F;12;L;9;9;15;12;9;Chimie;Psychologie;Biosciences
 ET982;M;12;S;14;14;10;14;6;Anglais;Genie Logiciel;Genie Logiciel
@@ -990,7 +990,7 @@ ET990;M;14;S;19;19;12;16;18;Informatique;Genie Mecanique;Genie Mecanique
 ET991;F;18;S;11;11;13;16;18;Biologie;Psychologie;Anglais
 ET992;F;15;S;11;11;10.5;19;14;Chimie;Mathematiques;Mathematiques
 ET993;F;16;S;15;15;10;17;6;Chimie;Genie Civil;Genie Civil
-ET994;F;15;S;12;12;16;9;9;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET994;F;15;S;12;12;16;9;9;Logistique / Transport;Droit;Transport Logistique
 ET995;F;10.00;S;14;14;10;13;12;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
 ET996;F;11;S;15;15;16;10;10;Finance / Comptabilité / Statistiques;Genie Mecanique;Genie Logiciel
 ET997;F;10.00;S;8;8;10;13.50;14;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
@@ -1032,7 +1032,7 @@ ET1032;M;10.00;S;10;10;19;17;13;Physiques;Psychologie;Genie Electrique
 ET1033;M;12;S;11;11;17;13;17;Mathematiques;Mathematiques;Mathematiques
 ET1034;M;10.00;L;14;14;9;12;16;Finance / Comptabilité / Statistiques;Business Administration;Comptabilité et Finance
 ET1035;M;13;S;6;13;13;12;12;Informatique;Genie Civil;Informatique
-ET1036;M;13;S;13;13;10;18;15;Mathematiques;Anglais;Anglais
+ET1036;M;13;S;13;13;10;18;15;Mathematiques;Chimie;Biologie
 ET1037;F;13;S;7;12.5;10;19;11;Mathematiques;Comptabilité et Finance;Comptabilité et Finance
 ET1038;M;18;S;8;8;12;18;11;Informatique;Informatique;Informatique
 ET1039;M;12;S;9;9;12.75;19;9;Informatique;Genie Logiciel;Genie Logiciel
@@ -1043,13 +1043,13 @@ ET1043;M;10.00;S;10;10.5;13;19;14;Mathematiques;Mathematiques;Genie Logiciel
 ET1044;M;11;S;11;11;13;20;11;Mathematiques;Genie Mecanique;Genie Mecanique
 ET1045;M;13;S;17;17;10;20;14;Mathematiques;Genie Civil;Genie Mecanique
 ET1046;M;14;S;13;13;19;11;18;Mathematiques;Psychologie;Psychologie
-ET1047;M;11;S;12;12;14;11;18;Mathematiques;Mathematiques;Mathematiques
+ET1047;M;11;S;12;12;14;11;18;Biologie;Chimie;Biologie
 ET1048;M;13;S;12;12;12.75;18;12;Finance / Comptabilité / Statistiques;Mathematiques;Business Administration
 ET1049;F;13;S;18;18;20;15;15;Informatique;Informatique;Informatique
 ET1050;M;11;L;19;19;12.75;14;17;Mathematiques;Genie Civil;Genie Civil
 ET1051;M;15;S;18;18;15;11;13;Informatique;Genie Logiciel;Genie Logiciel
 ET1052;F;10.00;S;19;19;17;13.50;16;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
-ET1053;F;17;S;13;13;9;12;18;Informatique;Mathematiques;Informatique
+ET1053;F;17;S;13;13;9;12;18;Informatique;Biologie;Informatique
 ET1054;M;13;S;6;13;17;12.25;9;Biologie;Psychologie;Biosciences
 ET1055;M;13;S;7;12.5;16;10;18;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
 ET1056;F;10.00;S;19;19;20;19;10;Informatique;Informatique;Informatique
@@ -1061,7 +1061,7 @@ ET1061;M;10.00;S;18;18;14;12.25;6;Finance / Comptabilité / Statistiques;Comptabi
 ET1062;F;13;S;15;15;8.5;12.25;18;Anglais;Genie Civil;Genie Civil
 ET1063;F;14;S;14;14;13;19;12;Mathematiques;Business Administration;Business Administration
 ET1064;F;15;S;11;11;10.5;14;14;Informatique;Genie Logiciel;Business Administration
-ET1065;F;11;S;10;10.5;12.75;13.50;9;Mathematiques;Mathematiques;Mathematiques
+ET1065;F;11;S;10;10.5;12.75;13.50;9;Chimie;Anglais;Biologie
 ET1066;M;15;S;12;12;9;20;15;Mathematiques;Genie Electrique;Genie Electrique
 ET1067;F;10.00;S;6;13;18;13;19;Mathematiques;Mathematiques;Mathematiques
 ET1068;F;12;S;10;10;18;11;11;Informatique;Informatique;Genie Logiciel
@@ -1109,23 +1109,23 @@ ET1109;F;12;S;8;8;10.5;18;15;Informatique;Informatique;Informatique
 ET1110;F;13;S;10;12.25;11;12;14;Anglais;Genie Logiciel;Genie Logiciel
 ET1111;F;11;S;9;13.5;10;12.25;12;Culture / Histoire;Banque / Assurance;Assurance Banque
 ET1112;F;11;S;20;20;10.5;13.50;14;Logistique / Transport;Droit;Transport Logistique
-ET1113;F;13;L;19;19;15;12;15;Anglais;Genie Logiciel;Genie Logiciel
+ET1113;F;13;L;19;19;15;12;15;Anglais;Biologie;Genie Logiciel
 ET1114;F;11;S;20;20;20;10;14;Anglais;Genie Logiciel;Genie Logiciel
-ET1115;F;11;S;11;11;18;8;14;Informatique;Informatique;Informatique
+ET1115;F;11;S;11;11;18;8;14;Informatique;Biologie;Informatique
 ET1116;F;12;S;7;12.5;12.75;12.25;9;Anglais;Genie Logiciel;Genie Logiciel
 ET1117;F;16;S;11;11;8.5;11;9;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
 ET1118;M;13;S;10;10.5;10;9;9;Anglais;Genie Logiciel;Genie Logiciel
 ET1119;M;14;S;7;12.5;12;12;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
 ET1120;M;11;S;15;15;10;20;9;Anglais;Genie Logiciel;Genie Logiciel
-ET1121;F;10.00;S;20;20;12.75;19;9;Anglais;Genie Logiciel;Genie Logiciel
-ET1122;F;14;S;18;18;8.5;18;18;Anglais;Genie Logiciel;Genie Logiciel
+ET1121;F;10.00;S;20;20;12.75;19;9;Banque / Assurance;Genie Logiciel;Genie Logiciel
+ET1122;F;14;S;18;18;8.5;18;18;Anglais;Biosciences;Biologie
 ET1123;M;13;S;9;12.75;10;12;18;Mathematiques;Mathematiques;Business Administration
 ET1124;F;12;S;6;13;9;12.25;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
 ET1125;F;13;S;10;10.5;14;13.50;19;Anglais;Genie Civil;Genie Civil
 ET1126;F;13;S;12;12;20;12;14;Mathematiques;Business Administration;Business Administration
 ET1127;F;10.00;S;10;10;19;10;11;Informatique;Genie Logiciel;Business Administration
 ET1128;F;16;S;8;8;18;8;18;Mathematiques;Mathematiques;Mathematiques
-ET1129;F;14;L;6;13;12.75;12.25;18;Mathematiques;Genie Electrique;Genie Electrique
+ET1129;F;14;L;6;13;12.75;12.25;18;Banque / Assurance;Comptabilité et Finance;Comptabilité et Finance
 ET1130;F;10.00;S;8;8;8.5;11;18;Mathematiques;Mathematiques;Mathematiques
 ET1131;F;16;S;10;12.25;10;9;18;Informatique;Informatique;Genie Logiciel
 ET1132;F;10.00;L;9;13.5;12;12;12;Anglais;Anglais;Anglais
@@ -1133,15 +1133,15 @@ ET1133;F;11;S;20;20;10;20;10;Informatique;Genie Logiciel;Informatique
 ET1134;M;10.00;S;19;19;12.75;19;14;Biologie;Anglais;Biosciences
 ET1135;M;16;S;18;18;8.5;20;18;Biologie;Anglais;Biosciences
 ET1136;F;14;L;9;12.75;10;12;17;Biologie;Biosciences;Anglais
-ET1137;F;11;S;6;13;9;10;14;Biologie;Anglais;Biosciences
+ET1137;F;11;S;6;13;9;10;14;Biologie;Chimie;Biosciences
 ET1138;F;13;S;10;10.5;14;8;19;Biologie;Anglais;Biosciences
-ET1139;M;16;S;12;12;20;12.25;19;Anglais;Genie Logiciel;Genie Logiciel
-ET1140;M;10.00;S;10;10;19;11;9;Anglais;Genie Logiciel;Genie Logiciel
+ET1139;M;16;S;12;12;20;12.25;19;Banque / Assurance;Genie Logiciel;Genie Logiciel
+ET1140;M;10.00;S;10;10;19;11;9;Anglais;Banque / Assurance;Finance Banque
 ET1141;F;13;S;8;8;20;9;14;Biologie;Anglais;Biosciences
 ET1142;M;11;S;6;13;8.5;12;10;Anglais;Genie Logiciel;Genie Logiciel
 ET1143;M;12;S;8;8;10;20;13;Mathematiques;Mathematiques;Mathematiques
 ET1144;M;13;S;10;12.25;9;19;9;Anglais;Genie Logiciel;Genie Logiciel
-ET1145;M;10.00;S;9;13.5;14;18;6;Anglais;Genie Logiciel;Genie Logiciel
+ET1145;M;10.00;S;9;13.5;14;18;6;Banque / Assurance;Mathematiques;Finance Banque
 ET1146;M;14;S;20;20;20;12;13;Anglais;Genie Logiciel;Genie Logiciel
 ET1147;M;13;S;19;19;10;12.25;9;Chimie;Psychologie;Biosciences
 ET1148;F;10.00;S;20;20;17;13.50;19;Anglais;Genie Logiciel;Genie Logiciel
