@@ -1,1148 +1,1148 @@
-ID_ETUDIANT;Sexe;MoyenneBac;Orientation;NotesMaths;NotesFrançais;NotesPhysiques;NotesChimie;NotesAnglais;Interets_1 ;Interets_2;ChoixOrientation
-ET001;;;;16;16;8;8;6;Economie;Mathematiques;Economie
-ET002;;;;7;15;20;20;13;Art;Programmation;Design
-ET003;;;;14;17;17;17;5;Sciences;Statistique;statistique
-ET004;;;;7;16;8;8;19;Informatique;Dessin;Design
-ET005;;;;9;13;19;19;15;Lettres;Communication écrite;Littérature
-ET006;;;;5;19;19;19;6;Chimie;Communication orale;Chimie
-ET007;;;;16;5;5;5;7;Informatique;Gestion de projet;Management
-ET008;;;;15;19;14;14;15;Arts du Spectacle;Travail d'équipe;Directeur artistique
-ET009;;;;17;5;10;10;20;Médecine;Leadership;Docteur
-ET010;;;;16;5;13;13;18;Architecture;Rédaction technique;Architecte
-ET011;;;;13;13;9;9;0;Économie;Conception graphique;Design graphique
-ET012;;;;19;10;6;6;6;Mathématiques;langues étrangères;Journalisme
-ET013;;;;5;15;13;13;5;Informatique;Compétences interculturelles;Informatique
-ET014;;;;19;6;5;5;17;Langues étrangères;Pensée critique;Philosophie
-ET015;;;;5;12;19;19;16;Marketing;Compétences en recherche;Marketing
-ET016;;;;5;14;15;15;13;Physique;Planification stratégique;Physique
-ET017;;;;13;20;6;6;19;Psychologie;Compétences en négociation;comptabilite
-ET018;;;;10;15;7;7;5;Musique;marketing;Marketing
-ET019;;;;15;11;15;15;19;Génie civil;vente;Commerce
-ET020;;;;6;13;20;20;5;Philosophie;relations publiques;Philosophie
-ET021;;;;12;17;18;18;5;Biologie;psychologie;Medecine
-ET022;;;;14;16;0;0;13;Journalisme;sciences sociales;Journalisme
-ET023;;;;20;12;6;6;10;Design graphique;biologie;Designer
-ET024;;;;15;15;5;5;15;Génie électrique;chimie;Physique
-ET025;;;;11;7;12;12;6;Anthropologie;physique;Sciences naturelle
-ET026;;;;13;11;10;10;12;Histoire;mathématiques appliquées;Histoire
-ET027;;;;17;9;8;8;14;Sports;informatique;Informatique
-ET028;;;;16;14;6;6;20;Écologie;génie mécanique;Mecanique
-ET029;;;;12;6;1;1;15;Astronomie;génie électrique;Informatique
-ET030;;;;15;13;2;2;11;Cinéma;génie civil;Design graphique
-ET031;;;;7;8;3;3;13;Gestion d'entreprise;génie chimique;Management
-ET032;;;;11;7;20;20;17;Relations internationales;gestion des ressources humaines;Management
-ET033;;;;9;14;19;19;16;Droit;comptabilité;Comptabilite
-ET034;;;;14;18;6;6;12;Chimie;finance;Economie
-ET035;;;;6;20;13;13;15;Sociologie;droit;droit
-ET036;;;;13;12;5;5;7;Théâtre;médecine;Arts
-ET037;;;;8;15;19;19;11;Mode;informatique;Informatique
-ET038;;;;7;17;15;15;9;Nutrition;chimie;Medecine
-ET039;;;;14;13;6;6;14;Sciences politiques;design d'intérieur;Design
-ET040;;;;18;16;7;7;6;Photographie;architecture;Arts
-ET041;;;;20;18;15;15;13;Génie mécanique;journalisme;Journalisme
-ET042;;;;12;9;20;20;8;Éducation;écriture créative;Arts
-ET043;;;;15;20;18;18;7;Intelligence artificielle;production vidéo;Production
-ET044;;;;17;10;0;0;14;Criminologie;vente;Arts
-ET045;;;;13;19;6;6;18;Géologie;ecriture;Journalisme
-ET046;;;;16;20;5;5;20;Animation;psychologie;Arts
-ET047;;;;18;19;17;0;12;Danse;cybersécurité;Arts
-ET048;;;;9;10;16;0;15;Marketing numérique;développement web;Développement
-ET049;;;;20;6;13;0;17;Génie chimique;marketing numérique;Marketing
-ET050;;;;10;18;19;0;13;Agriculture;animation 3D;Arts
-ET051;;;;19;12;5;0;16;Science des données;Résolution de problèmes;Mathematiques
-ET052;;;;20;14;19;0;18;Linguistique;Programmation informatique;Informatique
-ET053;;;;19;9;5;0;9;Réseaux sociaux;Analyse statistique;Mathematiques
-ET054;;;;10;15;5;12;20;Robotique;Créativité;Arts
-ET055;;;;6;19;13;14;10;Éthique;Rédaction;Journalisme
-ET056;;;;18;11;10;17;19;Développement durable;Communication orale;Communication
-ET057;;;;12;18;15;7;20;Biologie;Travail d'équipe;Arts
-ET058;;;;14;18;6;8;19;Mathématiques;Pensée critique;Mathematiques
-ET059;;;;9;18;12;9;10;Informatique;Conception graphique;design
-ET060;;;;15;12;14;4;6;Arts;Leadership;Arts
-ET061;;;;19;11;20;5;18;Littérature;Compétences interpersonnelles;Littérature
-ET062;;;;11;19;15;2;12;Langues;Compétences en négociation;Management
-ET063;;;;18;13;11;3;14;Histoire;Compétences en présentation;Arts
-ET064;;;;18;14;13;13;9;Sciences sociales;Résilience;Sociologie
-ET065;;;;10;9;7;12;12;Sports;Adaptabilité;Arts
-ET066;;;;12;7;16;11;19;Cuisine;Organisation;Management
-ET067;;;;11;11;12;10;11;Musique;Gestion du temps;Management
-ET068;;;;19;9;15;10;18;Théâtre;Esprit d'initiative;Arts
-ET069;;;;13;14;7;10;18;Voyages;Capacité d'apprentissage rapide;Arts
-ET070;;;;14;6;11;15;18;Sciences Politiques;Capacités analytiques;Capacités
-ET071;;;;15;13;9;14;12;Design et Architecture;Compétences en recherche;architecture
-ET072;;;;12;8;14;18;11;Économie et Finance;Compétences en gestion de projet;Management
-ET073;;;;17;7;6;19;19;Environnement et Développement Durable;Programmation web;Informatique
-ET074;;;;14;14;13;20;13;Médecine;Programmation mobile;Informatique
-ET075;;;;9;18;8;20;14;Éducation ;Résolution de problèmes;Arts
-ET076;;;;18;20;7;12;15;Droit et Justice;Programmation informatique;Informatique
-ET077;;;;19;12;14;1;13;Archéologie;Analyse statistique;Mathematiques
-ET078;;;;19;15;18;0;16;Sciences;Créativité;Arts
-ET079;;;;17;17;20;2;18;Mathématiques;Communication écrite;Communication
-ET080;;;;9;13;12;6;9;Informatique;Communication orale;Informatique
-ET081;;;;14;16;15;20;20;Économie;Gestion de projet;Economie
-ET082;;;;8;18;17;18;10;Arts plastiques;Travail d'équipe;Travail
-ET083;;;;17;9;13;18;19;Musique;Leadership;Management
-ET084;;;;9;20;16;18;20;Danse;Rédaction technique;Journalisme
-ET085;;;;20;10;18;7;19;Théâtre;Conception graphique;Design graphique
-ET086;;;;17;19;9;5;10;Photographie;langues étrangères;Littérature
-ET087;;;;14;20;20;11;6;Journalisme;Compétences interculturelles;Journalisme
-ET088;;;;13;19;10;17;18;Médecine;Pensée critique;Medecine
-ET089;;;;16;10;19;13;12;Psychologie;Compétences en recherche;psychologie
-ET090;;;;16;6;20;12;14;Droit;Planification stratégique;droit
-ET091;;;;16;18;19;12;9;Linguistique;Compétences en négociation;Marketing
-ET092;;;;17;12;10;18;15;Génie civil;marketing;Marketing
-ET093;;;;14;14;6;19;19;Génie électrique;vente;Vente
-ET094;;;;19;9;18;18;11;Architecture;relations publiques;architecture
-ET095;;;;7;15;12;19;18;Histoire de l'art;psychologie;psychologie
-ET096;;;;9;19;14;13;18;Sociologie;sciences sociales;Sociologie
-ET097;;;;10;11;9;6;18;Marketing;biologie;Biologie
-ET098;;;;7;18;15;7;12;Géologie;chimie;Chimie
-ET099;;;;7;18;19;19;11;Astronomie;physique;Physique
-ET100;;;;17;18;11;20;19;Anthropologie;mathématiques appliquées;Mathematiques
-ET101;;;;17;12;18;20;13;Cuisine;informatique;Informatique
-ET102;;;;8;11;18;11;14;Mode;génie mécanique;Genie mécanique
-ET103;;;;10;19;18;13;15;Écologie;génie électrique;genie electrique
-ET104;;;;8;13;12;16;12;Animation;génie civil;genie civil
-ET105;;;;5;14;11;18;17;Design graphique;génie chimique;Génie
-ET106;;;;13;15;19;9;14;Finance;gestion des ressources humaines;Finance
-ET107;;;;10;12;13;20;12;Développement durable;comptabilité;Comptabilité
-ET108;;;;12;17;14;10;12;Relations internationales;finance;Finance
-ET109;;;;8;14;15;19;13;Chimie;droit;droit
-ET110;;;;12;9;12;20;7;Physique;médecine;Medecine
-ET111;;;;12;18;12;19;5;Philosophie;informatique;Informatique
-ET112;;;;13;19;13;10;16;Thérapie physique;chimie;Chimie
-ET113;;;;7;19;7;6;10;Criminologie;design d'intérieur;Arts
-ET114;;;;5;17;5;18;16;Sciences politiques;architecture;Architecture
-ET115;;;;16;9;16;12;10;Agriculture;journalisme;Arts
-ET116;;;;10;14;10;14;14;Génie mécanique;écriture créative;Écriture
-ET117;;;;16;8;16;9;12;Éducation;production vidéo;Informatique
-ET118;;;;10;17;10;15;16;Biologie marine;vente;Marketing
-ET119;;;;14;9;14;19;9;Réalité virtuelle;ecriture;Informatique
-ET120;;;;12;20;12;11;6;Éthique;psychologie;psychologie
-ET121;;;;16;17;16;18;9;Volontariat;cybersécurité;Cyberscurite
-ET122;;;;9;14;9;18;7;Robotique;développement web;Informatique
-ET123;;;;6;2;6;18;16;Énergie renouvelable;marketing numérique;Marketing
-ET124;;;;9;12;9;12;11;Écriture créative;animation 3D;Designe graphique
-ET125;;;;7;8;7;11;20;Études de genre;Résolution de problèmes;Sociologie
-ET126;;;;16;20;20;19;9;Génie chimique;Programmation informatique;Informatique
-ET127;;;;11;17;17;13;14;Sports;Analyse statistique;Mathematiques
-ET128;;;;20;8;8;14;15;Nutrition;Créativité;Biologie
-ET129;;;;9;19;19;15;8;Mécatronique;Rédaction;Genie mécanique
-ET130;;;;14;19;19;12;20;Archéologie;Communication orale;Journalisme
-ET131;;;;15;5;5;17;17;Intelligence artificielle;Travail d'équipe;Informatique
-ET132;;;;12;14;14;14;8;Design d'intérieur;Pensée critique;Design
-ET133;;;;11;10;10;11;19;Gestion de projet;Conception graphique;Design graphique
-ET134;;;;11;13;13;17;19;Économie du numérique;Leadership;Management
-ET135;;;;11;9;9;13;5;Neurosciences;Compétences interpersonnelles;psychologie
-ET136;;;;16;6;6;12;14;Art numérique;Compétences en négociation;Arts
-ET137;;;;19;13;13;12;10;Urbanisme;Compétences en présentation;Urbanisme
-ET138;;;;19;5;5;18;13;Muséologie;Résilience;Histoire
-ET139;;;;11;19;19;19;9;Sécurité informatique;Adaptabilité;Informatique
-ET140;;;;11;15;15;18;6;Administration publique;Organisation;Management
-ET141;;;;15;6;6;19;13;Animation 3D;Gestion du temps;Management
-ET142;;;;12;7;7;13;5;Marketing digital;Esprit d'initiative;Marketing
-ET142;;;;14;15;15;6;19;Études de marché;Capacité d'apprentissage rapide;Marketing
-ET143;;;;15;20;20;7;15;Design industriel;Capacités analytiques;Design
-ET144;;;;8;18;18;19;6;Agroalimentaire;Compétences en recherche;Biologie
-ET145;;;;15;0;0;20;7;Animation japonaise;Compétences en gestion de projet;Design
-ET146;;;;18;6;6;20;15;Relations publiques;Programmation web;Informatique
-ET147;;;;5;5;5;11;20;Santé publique;Programmation mobile;Informatique
-ET148;;;;18;12;12;11;18;Graphisme;Résolution de problèmes;Design graphique
-ET149;;;;6;10;10;18;0;Jeux vidéo;Programmation informatique;Informatique
-ET150;;;;16;8;8;15;6;Biotechnologie;Analyse statistique;Biologie
-ET151;;;;16;6;6;14;5;Archiviste;Créativité;Design
-ET152;;;;19;1;1;11;12;Bio-informatique;Communication écrite;Informatique
-ET153;;;;17;2;2;5;10;Cryptographie;Communication orale;Mathematiques
-ET154;;;;9;3;3;12;8;Intelligence émotionnelle;Gestion de projet;Gestion
-ET155;;;;13;20;20;6;6;Intelligence collective;Travail d'équipe;Travail
-ET156;;;;10;19;19;10;1;Finance comportementale;Leadership;Leadership
-ET157;;;;5;13;13;19;2;Intelligence d'affaires;Rédaction technique;Rédaction
-ET158;;;;12;16;16;19;3;Réseaux sociaux;Conception graphique;Conception
-ET159;;;;8;18;18;5;20;Coaching;langues étrangères;Arts
-ET160;;;;6;9;9;14;19;Éthologie;Compétences interculturelles;Arts
-ET161;;;;14;20;20;10;11;Sémiotique;Pensée critique;Arts
-ET162;;;;16;10;10;13;17;Art thérapie;Compétences en recherche;Compétences
-ET163;;;;13;19;19;9;13;Soutien scolaire;Planification stratégique;Planification
-ET164;;;;13;20;20;6;12;Éthique des affaires;Compétences en négociation;Arts
-ET165;;;;10;19;19;13;12;Éthique médicale;marketing;Marketing
-ET166;;;;19;10;10;5;18;Réalité augmentée;vente;Vente
-ET167;;;;14;6;6;19;19;Ingénierie logicielle;relations publiques;Relations
-ET168;;;;8;18;18;15;18;Design de jeux;psychologie;Arts
-ET169;;;;20;12;12;6;19;Analyse de données;sciences sociales;Arts
-ET170;;;;8;14;14;7;13;Marketing sensoriel;biologie;Biologie
-ET171;;;;15;9;9;15;6;Psychologie positive;chimie;Chimie
-ET172;;;;17;15;15;20;7;Analyse financière;physique;Physique
-ET173;;;;9;19;19;18;19;Nanotechnologie;mathématiques appliquées;Arts
-ET174;;;;17;11;11;0;20;Systèmes embarqués;informatique;Informatique
-ET175;;;;16;18;18;6;20;Économie de la santé;génie mécanique;Genie mécanique
-ET176;;;;20;18;18;5;11;Architecture de l'information;génie électrique;genie electrique
-ET177;;;;14;18;18;12;11;Marketing;génie civil;genie civil
-ET178;;;;8;12;12;10;18;Physique;génie chimique;Chimie
-ET179;;;;10;11;11;8;15;Psychologie;gestion des ressources humaines;psychologie
-ET180;;;;11;19;19;6;14;Musique;comptabilité;comptabilite
-ET181;;;;14;13;13;1;11;Génie civil;finance;Finance
-ET182;;;;6;14;14;2;5;Philosophie;droit;droit
-ET183;;;;13;15;15;3;12;Biologie;médecine;medecine
-ET184;;;;7;12;12;20;6;Journalisme;informatique;Informatique
-ET185;;;;8;17;17;19;10;Design graphique;chimie;Chimie
-ET186;;;;9;14;14;13;0;Génie électrique;design d'intérieur;Design
-ET187;;;;18;11;11;16;0;Anthropologie;architecture;Arts
-ET188;;;;18;17;17;18;0;Histoire;journalisme;Journalisme
-ET189;;;;7;13;13;9;0;Sports;écriture créative;Arts
-ET190;;;;5;12;12;20;0;Écologie;production vidéo;Arts
-ET191;;;;11;12;12;10;0;Astronomie;vente;Commerce
-ET192;;;;17;18;18;19;0;Cinéma;ecriture;Littérature
-ET193;;;;13;19;19;20;0;Gestion d'entreprise;psychologie;Psychologie
-ET194;;;;12;18;18;19;0;Relations internationales;cybersécurité;Cybersécurité
-ET195;;;;12;19;19;10;0;Droit;développement web;Informatique
-ET196;;;;18;13;13;15;0;Chimie;marketing numérique;Marketing
-ET197;;;;19;6;6;10;5;Sociologie;animation 3D;Arts
-ET198;;;;18;7;7;9;2;Théâtre;Résolution de problèmes;Arts
-ET199;;;;19;19;19;10;2;Mode;Programmation informatique;Informatique
-ET200;;;;13;20;20;7;2;Nutrition;Analyse statistique;Mathematiques
-ET201;;;;6;20;20;17;5;Sciences politiques;Créativité;Créativité
-ET202;;;;7;11;11;17;19;Photographie;Rédaction;Arts
-ET203;;;;19;11;11;14;8;Génie mécanique;Communication orale;Communication
-ET204;;;;20;18;18;13;20;Éducation;Travail d'équipe;Arts
-ET205;;;;20;15;15;17;17;Intelligence artificielle;Pensée critique;Pensée
-ET206;;;;11;14;14;10;8;Criminologie;Conception graphique;Design graphique
-ET207;;;;11;11;11;15;19;Géologie;Leadership;Management
-ET208;;;;18;5;5;9;19;Animation;Compétences interpersonnelles;design
-ET209;;;;15;12;12;10;5;Danse;Compétences en négociation;Marketing
-ET210;;;;14;6;6;10;14;Marketing numérique;Compétences en présentation;Compétences
-ET211;;;;11;10;10;10;10;Génie chimique;Résilience;Résilience
-ET212;;;;5;15;15;17;13;Agriculture;Adaptabilité;Arts
-ET213;;;;12;10;10;15;9;Science des données;Organisation;Mathematiques
-ET214;;;;6;9;9;13;6;Linguistique;Gestion du temps;Management
-ET215;;;;10;10;10;12;13;Réseaux sociaux;Esprit d'initiative;Marketing
-ET216;;;;19;7;7;11;5;Robotique;Capacité d'apprentissage rapide;Informatique
-ET217;;;;12;17;17;10;19;Éthique;Capacités analytiques;Mathematiques
-ET218;;;;14;17;17;9;15;Développement durable;Compétences en recherche;Compétences
-ET219;;;;14;14;14;5;6;Biologie;Compétences en gestion de projet;Management
-ET220;;;;16;13;13;6;7;Mathématiques;Programmation web;Informatique
-ET221;;;;6;17;17;7;15;Informatique;Programmation mobile;Informatique
-ET222;;;;6;10;10;8;20;Arts;Résolution de problèmes;Mathematiques
-ET223;;;;19;15;15;9;18;Littérature;Programmation informatique;Informatique
-ET224;;;;14;9;9;2;0;Langues;Analyse statistique;Arts
-ET225;;;;5;10;10;0;6;Sciences;Créativité;Arts
-ET226;;;;20;10;10;10;5;Arts;Communication écrite;Arts
-ET227;;;;13;10;10;2;12;Musique;Communication orale;musique
-ET228;;;;11;17;17;20;10;Danse;Gestion de projet;Management
-ET229;;;;7;15;15;19;8;Théâtre;Travail d'équipe;theatre
-ET230;;;;11;13;13;0;6;Informatique;Leadership;Informatique
-ET231;;;;5;15;15;0;1;Médecine;Rédaction technique;medecine
-ET232;;;;2;17;17;16;2;Droit;Conception graphique;Design graphique
-ET233;;;;11;16;16;15;3;Économie;langues étrangères;Littérature
-ET234;;;;8;13;13;17;20;Mathématiques;Compétences interculturelles;Mathematiques
-ET235;;;;17;19;19;16;19;Histoire;Pensée critique;Histoire
-ET236;;;;15;5;5;13;0;Philosophie;Compétences en recherche;Philosophie
-ET237;;;;10;19;19;19;14;Psychologie;Planification stratégique;Psychologie
-ET238;;;;9;5;5;5;20;Écologie;Compétences en négociation;Marketing
-ET239;;;;10;5;5;19;2;Design graphique;marketing;Marketing
-ET240;;;;7;13;13;5;6;Programmation;vente;Arts
-ET241;;;;17;10;10;5;18;Développement web;relations publiques;Relations
-ET242;;;;17;15;15;13;7;Photographie;psychologie;Arts
-ET243;;;;14;6;6;10;5;Journalisme;sciences sociales;Journalisme
-ET244;;;;13;12;12;15;15;Marketing;biologie;Biologie
-ET245;;;;17;14;14;6;16;Cinéma;chimie;Chimie
-ET246;;;;10;20;20;12;15;Astronomie;physique;Physique
-ET247;;;;15;15;15;14;17;Linguistique;mathématiques appliquées;Mathematiques
-ET248;;;;9;11;11;20;16;Architecture;informatique;Informatique
-ET249;;;;10;13;13;15;13;Anthropologie;génie mécanique;Genie mécanique
-ET250;;;;10;17;17;11;19;Sociologie;génie électrique;genie electrique
-ET251;;;;10;16;16;13;5;Cuisine;génie civil;genie civil
-ET252;;;;17;12;12;17;19;Voyages;génie chimique;Chimie
-ET253;;;;15;15;15;16;5;Sports;gestion des ressources humaines;Arts
-ET254;;;;13;7;7;12;5;Mode;comptabilité;Comptabilité
-ET255;;;;19;11;11;15;13;Automobile;finance;Finance
-ET256;;;;20;9;9;7;10;Aéronautique;droit;droit
-ET257;;;;17;14;14;11;15;Énergie renouvelable;médecine;Médecine
-ET258;;;;6;6;6;9;6;Politique;informatique;Informatique
-ET259;;;;9;13;13;14;12;Développement durable;chimie;Chimie
-ET260;;;;16;8;8;6;14;Sciences de la terre;design d'intérieur;design
-ET261;;;;18;7;7;13;20;Géopolitique;architecture;Architecture
-ET262;;;;12;14;14;8;15;Muséologie;journalisme;Journalisme
-ET263;;;;6;18;18;7;11;Génie civil;écriture créative;Écriture
-ET264;;;;14;20;20;14;13;Neurosciences;production vidéo;Arts
-ET265;;;;12;12;12;18;17;Intelligence artificielle;vente;Vente
-ET266;;;;6;15;15;20;16;Blockchain;ecriture;Informatique
-ET267;;;;14;17;17;12;12;Réseaux sociaux;psychologie;Psychologie
-ET268;;;;19;13;13;15;15;Éthique;cybersécurité;Informatique
-ET269;;;;12;16;16;17;7;Humanités numériques;développement web;Développement
-ET270;;;;15;18;18;13;11;Géographie;marketing numérique;geographie
-ET271;;;;6;9;9;16;9;Santé publique;animation 3D;Animation
-ET272;;;;11;20;20;18;14;Réalité virtuelle;Résolution de problèmes;Résolution
-ET273;;;;20;10;10;9;6;Intelligence émotionnelle;Programmation informatique;Programmation
-ET274;;;;17;19;19;20;13;Robotique;Analyse statistique;Informatique
-ET275;;;;18;20;20;10;8;Sciences;Créativité;Mathematiques
-ET276;;;;7;19;19;19;7;Mathématiques;Rédaction;Mathematiques
-ET278;;;;18;10;10;20;14;Informatique;Communication orale;Informatique
-ET279;;;;12;6;6;19;18;Économie;Travail d'équipe;economie
-ET280;;;;6;18;18;10;20;Arts plastiques;Pensée critique;Pensée
-ET281;;;;19;12;12;6;12;Musique;Conception graphique;design
-ET282;;;;20;14;14;18;15;Danse;Leadership;Arts
-ET283;;;;20;9;9;12;17;Théâtre;Compétences interpersonnelles;theatre
-ET284;;;;14;15;15;14;13;Photographie;Compétences en négociation;Arts
-ET285;;;;5;19;19;9;16;Journalisme;Compétences en présentation;Journalisme
-ET286;;;;20;11;11;15;18;Médecine;Résilience;medecine
-ET287;;;;14;18;18;19;9;Psychologie;Adaptabilité;Psychologie
-ET288;;;;14;18;18;11;20;Droit;Organisation;droit
-ET289;;;;14;18;18;18;10;Linguistique;Gestion du temps;Littérature
-ET290;;;;8;12;12;18;19;Génie civil;Esprit d'initiative;Esprit
-ET291;;;;7;11;11;18;20;Génie électrique;Capacité d'apprentissage rapide;Capacité
-ET292;;;;12;19;19;12;19;Architecture;Capacités analytiques;Mathematiques
-ET293;;;;16;13;13;11;10;Histoire de l'art;Compétences en recherche;Arts
-ET294;;;;10;14;14;19;6;Sociologie;Compétences en gestion de projet;Informatique
-ET295;;;;9;15;15;13;18;Marketing;Programmation web;Informatique
-ET296;;;;6;10;10;14;12;Géologie;Programmation mobile;Informatique
-ET297;;;;15;8;8;15;14;Astronomie;Résolution de problèmes;Arts
-ET298;;;;20;5;5;7;9;Anthropologie;Programmation informatique;Informatique
-ET299;;;;5;13;13;5;15;Cuisine;Analyse statistique;Mathematiques
-ET300;;;;13;10;10;16;19;Mode;Créativité;Arts
-ET301;;;;9;12;12;10;11;Écologie;Communication écrite;Littérature
-ET302;;;;9;8;8;16;18;Animation;Communication orale;Littérature
-ET303;;;;9;12;12;10;18;Design graphique;Gestion de projet;Gestion
-ET304;;;;8;12;12;14;18;Finance;Travail d'équipe;Finance
-ET305;;;;13;13;13;12;12;Développement durable;Leadership;Leadership
-ET306;;;;7;7;7;16;11;Relations internationales;Rédaction technique;Rédaction
-ET307;;;;5;5;5;9;19;Chimie;Conception graphique;design
-ET308;;;;20;16;16;6;13;Physique;langues étrangères;Littérature
-ET309;;;;19;10;10;9;14;Philosophie;Compétences interculturelles;Philosophie
-ET310;;;;14;16;16;7;15;Thérapie physique;Pensée critique;Pensée
-ET311;;;;10;10;10;16;7;Criminologie;Compétences en recherche;Arts
-ET312;;;;7;14;14;11;5;Sciences politiques;Planification stratégique;Planification
-ET313;;;;7;12;12;20;16;Agriculture;Compétences en négociation;Arts
-ET314;;;;8;16;16;9;10;Génie mécanique;marketing;Marketing
-ET315;;;;19;9;9;14;16;Éducation;vente;Marketing
-ET316;;;;6;6;6;15;10;Biologie marine;relations publiques;Relations
-ET317;;;;12;9;9;12;14;Réalité virtuelle;psychologie;Psychologie
-ET318;;;;15;7;7;11;12;Éthique;sciences sociales;sociologie
-ET319;;;;17;16;16;11;16;Volontariat;biologie;sociologie
-ET320;;;;12;11;11;11;9;Robotique;chimie;Informatique
-ET321;;;;16;20;20;16;6;Énergie renouvelable;physique;Physique
-ET322;;;;16;9;9;19;9;Écriture créative;mathématiques appliquées;Mathématiques
-ET323;;;;7;14;14;19;7;Études de genre;informatique;Informatique
-ET324;;;;12;15;15;11;16;Génie chimique;génie mécanique;Genie mécanique
-ET325;;;;8;12;12;11;11;Sports;génie électrique;genie electrique
-ET326;;;;20;11;11;15;20;Nutrition;génie civil;genie civil
-ET327;;;;15;11;11;12;9;Mécatronique;génie chimique;Mecanique
-ET328;;;;11;11;11;14;14;Archéologie;gestion des ressources humaines;geologie
-ET329;;;;15;16;16;15;15;Intelligence artificielle;comptabilité;Comptabilité
-ET330;;;;5;19;19;8;12;Design d'intérieur;finance;Finance
-ET331;;;;14;19;19;15;11;Gestion de projet;droit;Droit
-ET332;;;;18;11;11;12;11;Économie du numérique;médecine;medecine
-ET333;;;;20;11;11;11;11;Neurosciences;informatique;Informatique
-ET334;;;;13;15;15;10;16;Art numérique;chimie;Chimie
-ET335;;;;17;12;12;13;19;Urbanisme;design d'intérieur;Arts
-ET336;;;;17;14;14;16;19;Muséologie;architecture;Arts
-ET337;;;;12;15;15;18;11;Sécurité informatique;journalisme;Journalisme
-ET338;;;;5;8;8;12;11;Administration publique;écriture créative;Écriture
-ET339;;;;5;15;15;2;15;Animation 3D;production vidéo;Arts
-ET340;;;;6;18;18;1;12;Marketing digital;vente;Vente
-ET341;;;;19;5;5;4;14;Études de marché;ecriture;Marketing
-ET342;;;;2;18;3;5;15;Design industriel;psychologie;Psychologie
-ET343;;;;9;6;6;6;8;Agroalimentaire;cybersécurité;Arts
-ET345;;;;12;16;16;7;12;Animation japonaise (Anime);développement web;Arts
-ET346;;;;12;16;16;8;14;Relations publiques;marketing numérique;Marketing
-ET347;;;;13;19;19;9;15;Santé publique;animation 3D;Animation
-ET348;;;;8;17;17;15;8;Graphisme;Résolution de problèmes;Arts
-ET349;;;;5;9;9;17;14;Jeux vidéo;Programmation informatique;Programmation
-ET350;;;;13;13;13;16;5;Biotechnologie;Analyse statistique;Arts
-ET351;;;;20;10;10;13;5;Archiviste;Créativité;Arts
-ET352;;;;20;5;5;19;5;Bio-informatique;Rédaction;Rédaction
-ET353;;;;16;12;12;5;5;Cryptographie;Communication orale;Arts
-ET354;;;;10;8;8;19;5;Intelligence émotionnelle;Travail d'équipe;Travail
-ET355;;;;16;6;6;5;5;Intelligence collective;Pensée critique;Pensée
-ET356;;;;10;14;14;5;20;Finance comportementale;Conception graphique;Conception
-ET357;;;;5;16;16;13;18;Intelligence d'affaires;Leadership;Leadership
-ET358;;;;5;13;13;10;15;Réseaux sociaux;Compétences interpersonnelles;Compétences
-ET359;;;;12;13;13;15;19;Coaching;Compétences en négociation;Arts
-ET360;;;;20;10;10;6;0;Éthologie;Compétences en présentation;Arts
-ET361;;;;11;19;19;12;2;Sémiotique;Résilience;Arts
-ET362;;;;17;14;14;14;20;Art thérapie;Adaptabilité;Adaptabilité
-ET363;;;;5;8;8;20;20;Soutien scolaire;Organisation;Organisation
-ET364;;;;11;20;20;15;20;Éthique des affaires;Gestion du temps;Arts
-ET365;;;;19;8;8;11;18;Éthique médicale;Esprit d'initiative;Esprit
-ET366;;;;14;15;15;13;12;Réalité augmentée;Capacité d'apprentissage rapide;Capacité
-ET367;;;;11;17;17;17;10;Ingénierie logicielle;Capacités analytiques;Capacités
-ET368;;;;5;9;9;16;8;Design de jeux;Compétences en recherche;Arts
-ET369;;;;18;17;17;12;20;Analyse de données;Compétences en gestion de projet;Arts
-ET370;;;;8;16;16;15;17;Marketing sensoriel;Programmation web;Programmation
-ET371;;;;11;20;20;7;8;Psychologie positive;Programmation mobile;Programmation
-ET372;;;;12;14;14;11;19;Analyse financière;Résolution de problèmes;Résolution
-ET374;;;;19;8;8;9;19;Nanotechnologie;Programmation informatique;Arts
-ET375;;;;6;10;10;14;5;Systèmes embarqués;Analyse statistique;Informatique
-ET376;;;;13;11;11;6;14;Économie de la santé;Créativité;Arts
-ET377;;;;15;14;14;13;10;Architecture de l'information;Communication écrite;Arts
-ET378;;;;15;6;6;8;13;Éthique des affaires;Communication orale;Arts
-ET379;;;;14;13;13;7;9;Éthique médicale;Gestion de projet;Gestion
-ET380;;;;8;7;7;14;6;Réalité augmentée;Travail d'équipe;Travail
-ET381;;;;15;8;8;18;13;Ingénierie logicielle;Leadership;Leadership
-ET382;;;;10;9;9;20;5;Design de jeux;Rédaction technique;Arts
-ET383;;;;10;18;18;12;19;Analyse de données;Conception graphique;Arts
-ET384;;;;20;18;18;15;15;Marketing sensoriel;langues étrangères;Langues
-ET385;;;;9;7;7;17;6;Psychologie positive;Compétences interculturelles;psychologie
-ET386;;;;12;5;5;13;7;Analyse financière;Pensée critique;Philosophie
-ET387;;;;11;11;11;16;15;Nanotechnologie;Compétences en recherche;Arts
-ET388;;;;14;17;17;18;20;Systèmes embarqués;Planification stratégique;Management
-ET389;;;;8;13;13;9;18;Économie de la santé;Compétences en négociation;economie
-ET390;;;;20;12;12;20;0;Architecture de l'information;marketing;Informatique
-ET391;;;;14;12;12;10;6;Informatique;vente;Marketing
-ET392;;;;13;18;18;19;5;Arts du Spectacle;relations publiques;Arts
-ET393;;;;15;19;19;20;12;Médecine;psychologie;medecine
-ET394;;;;18;18;18;19;10;Architecture;sciences sociales;Architecture
-ET395;;;;12;19;19;10;8;Économie;biologie;Biologie
-ET396;;;;17;13;13;6;6;Mathématiques;chimie;Mathematiques
-ET397;;;;16;6;6;18;1;Informatique;physique;Physique
-ET398;;;;19;7;7;12;2;Langues étrangères;mathématiques appliquées;Mathématiques
-ET399;;;;10;19;19;14;3;Marketing;informatique;Informatique
-ET400;;;;10;20;20;9;20;Physique;génie mécanique;Informatique
-ET401;;;;13;20;20;15;19;Psychologie;génie électrique;genie electrique
-ET402;;;;10;11;11;19;10;Musique;génie civil;genie civil
-ET403;;;;17;11;11;11;16;Génie civil;génie chimique;chimie
-ET404;;;;13;18;18;18;16;Philosophie;gestion des ressources humaines;GRH
-ET405;;;;14;15;15;18;18;Biologie;comptabilité;Comptabilité
-ET406;;;;5;14;14;18;7;Journalisme;finance;economie
-ET407;;;;16;11;11;12;15;Design graphique;droit;Droit
-ET408;;;;12;5;5;11;18;Génie électrique;médecine;Médecine
-ET409;;;;9;12;12;19;9;Anthropologie;informatique;Informatique
-ET410;;;;6;6;6;13;9;Histoire;chimie;Histoire
-ET411;;;;10;10;10;14;13;Sports;design d'intérieur;Design
-ET412;;;;16;19;19;0;5;Écologie;architecture;Architecture
-ET413;;;;16;12;12;0;20;Astronomie;journalisme;Journalisme
-ET414;;;;18;14;14;0;19;Cinéma;écriture créative;Arts
-ET415;;;;7;14;14;0;8;Gestion d'entreprise;production vidéo;Production
-ET456;;;;15;16;16;0;14;Relations internationales;vente;Vente
-ET417;;;;18;6;6;0;9;Droit;ecriture;Droit
-ET418;;;;9;6;6;0;15;Chimie;psychologie;medecine
-ET419;;;;9;19;19;0;19;Sociologie;cybersécurité;Informatique
-ET420;;;;13;14;14;8;11;Théâtre;développement web;Informatique
-ET421;;;;5;5;5;20;18;Mode;marketing numérique;Marketing
-ET422;;;;20;20;20;17;18;Nutrition;animation 3D;Medecine
-ET423;;;;19;13;13;8;18;Sciences politiques;Résolution de problèmes;Résolution
-ET424;;;;8;11;11;19;12;Photographie;Programmation informatique;Arts
-ET425;;;;20;7;7;19;11;Génie mécanique;Analyse statistique;Analyse
-ET426;;;;17;11;11;5;19;Éducation;Créativité;Arts
-ET427;;;;8;5;5;14;13;Intelligence artificielle;Rédaction;Informatique
-ET428;;;;19;18;7;10;14;Criminologie;Communication orale;Arts
-ET429;;;;19;11;15;13;15;Géologie;Travail d'équipe;Geologie
-ET490;;;;5;8;20;9;10;Animation;Pensée critique;Design
-ET431;;;;14;17;10;6;16;Danse;Conception graphique;Design
-ET432;;;;10;15;0;13;16;Marketing numérique;Leadership;Leadership
-ET433;;;;13;10;6;5;18;Génie chimique;Compétences interpersonnelles;chimie
-ET434;;;;9;9;5;19;7;Agriculture;Compétences en négociation;Agronomie
-ET435;;;;6;10;12;15;15;Science des données;Compétences en présentation;Mathématiques
-ET436;;;;13;7;10;6;18;Linguistique;Résilience;Littérature
-ET437;;;;5;17;8;7;9;Réseaux sociaux;Adaptabilité;Marketing
-ET438;;;;19;17;6;15;9;Robotique;Organisation;Informatique
-ET439;;;;15;14;1;20;13;Éthique;Gestion du temps;Management
-ET440;;;;6;13;2;18;5;Développement durable;Esprit d'initiative;Management
-ET441;;;;7;17;3;0;20;Astronomie;Capacité d'apprentissage rapide;Arts
-ET442;;;;15;10;20;6;19;Cinéma;Capacités analytiques;Arts
-ET443;;;;20;15;19;5;8;Éthique des affaires;Compétences en recherche;Commerce
-ET444;;;;18;9;18;12;20;Éthique médicale;Compétences en gestion de projet;Compétences
-ET445;;;;0;10;0;10;17;Réalité augmentée;Programmation web;Programmation
-ET446;;;;6;10;6;8;8;Ingénierie logicielle;Programmation mobile;Programmation
-ET447;;;;5;10;5;6;19;Design de jeux;Compétences en présentation;Design
-ET448;;;;12;17;12;1;19;Analyse de données;Résilience;Mathématiques
-ET449;;;;10;15;10;2;5;Marketing sensoriel;Adaptabilité;Adaptabilité
-ET450;;;;8;13;8;3;14;Psychologie positive;Organisation;Organisation
-ET451;;;;6;19;6;20;10;Analyse financière;Gestion du temps;Gestion
-ET452;;;;1;20;1;19;13;Nanotechnologie;Esprit d'initiative;Mathématiques
-ET453;;;;2;17;2;0;9;Systèmes embarqués;Capacité d'apprentissage rapide;Capacité
-ET454;;;;3;6;3;0;6;Économie de la santé;Capacités analytiques;Mathématiques
-ET455;;;;20;9;20;0;13;Architecture de l'information;Compétences en recherche;Informatique
-ET456;;;;19;16;19;0;5;Analyse de données;Compétences en gestion de projet;Mathématiques
-ET457;;;;16;20;20;6;8;Animation;Résolution de problèmes;Arts
-ET458;;;;7;20;6;7;20;Design graphique;Programmation informatique;Programmation
-ET459;;;;14;11;7;15;17;Finance;Analyse statistique;Arts
-ET460;;;;7;11;15;20;8;Développement durable;Créativité;design
-ET461;;;;9;18;20;18;19;Relations internationales;Communication écrite;Communication
-ET462;;;;5;15;18;0;19;Chimie;Communication orale;Arts
-ET463;;;;16;14;0;6;5;Physique;Gestion de projet;Management
-ET464;;;;15;11;6;5;14;Philosophie;Travail d'équipe;philisophie
-ET465;;;;17;5;5;12;10;Thérapie physique;Leadership;Leadership
-ET466;;;;16;12;12;10;13;Criminologie;Rédaction technique;Arts
-ET467;;;;13;6;10;8;9;Sciences politiques;Conception graphique;Conception
-ET468;;;;19;10;8;6;6;Agriculture;langues étrangères;Arts
-ET469;;;;5;19;6;1;13;Génie mécanique;Compétences interculturelles;Compétences
-ET470;;;;19;12;1;2;5;Éducation;Pensée critique;Arts
-ET471;;;;5;14;2;3;19;Biologie marine;Compétences en recherche;Compétences
-ET472;;;;5;14;3;20;15;Réalité virtuelle;Planification stratégique;Planification
-ET473;;;;13;16;20;19;6;Éthique;Compétences en négociation;Marketing
-ET474;;;;10;6;19;11;7;Volontariat;marketing;Marketing
-ET475;;;;15;6;11;17;15;Robotique;vente;Commerce
-ET476;;;;6;19;17;13;20;Énergie renouvelable;relations publiques;Relations
-ET477;;;;12;14;13;12;18;Écriture créative;psychologie;Psychologie
-ET478;;;;14;5;12;12;0;Études de genre;sciences sociales;Arts
-ET479;;;;20;20;12;18;6;Génie chimique;biologie;Biologie
-ET480;;;;15;13;18;19;5;Sports;chimie;Arts
-ET481;;;;11;11;19;18;12;Nutrition;physique;Arts
-ET482;;;;13;7;18;19;10;Mécatronique;mathématiques appliquées;Arts
-ET483;;;;17;11;19;13;8;Archéologie;informatique;Informatique
-ET484;;;;16;5;13;6;6;Intelligence artificielle;génie mécanique;Génie
-ET485;;;;12;18;6;7;1;Design d'intérieur;génie électrique;Génie
-ET486;;;;15;11;7;19;2;Gestion de projet;génie civil;Arts
-ET487;;;;7;8;19;20;3;Économie du numérique;génie chimique;Arts
-ET488;;;;11;17;20;20;20;Neurosciences;gestion des ressources humaines;Arts
-ET489;;;;9;15;20;11;19;Art numérique;comptabilité;Comptabilité
-ET490;;;;14;10;11;11;6;Urbanisme;finance;Arts
-ET491;;;;6;9;11;18;13;Muséologie;droit;Arts
-ET492;;;;13;10;18;15;5;Sécurité informatique;médecine;Médecine
-ET493;;;;8;7;15;14;19;Administration publique;informatique;Informatique
-ET494;;;;7;17;14;11;15;Animation 3D;chimie;Informatique
-ET495;;;;14;17;11;5;6;Marketing digital;design d'intérieur;Design
-ET496;;;;18;14;5;12;7;Études de marché;architecture;Arts
-ET497;;;;20;13;12;6;15;Design industriel;journalisme;Journalisme
-ET498;;;;12;17;6;10;20;Agroalimentaire;écriture créative;Arts
-ET499;;;;15;10;10;0;18;Animation japonaise;production vidéo;Arts
-ET500;;;;17;15;0;0;0;Relations publiques;vente;Vente
-ET501;;;;13;9;0;0;6;Santé publique;ecriture;Ecriture
-ET502;;;;16;10;0;0;5;Graphisme;psychologie;Arts
-ET503;;;;18;10;0;0;17;Jeux vidéo;cybersécurité;Cybersécurité
-ET504;;;;9;10;0;0;16;Biotechnologie;développement web;Informatique
-ET505;;;;20;17;0;0;13;Archiviste;marketing numérique;Médecine
-ET506;;;;10;15;0;0;19;Bio-informatique;animation 3D;Animation
-ET507;;;;19;13;0;0;5;Cryptographie;Résolution de problèmes;Mathématiques
-ET508;;;;20;19;0;0;19;Intelligence émotionnelle;Programmation informatique;Programmation
-ET509;;;;19;20;0;0;5;Intelligence collective;Analyse statistique;Informatique
-ET510;;;;10;17;0;5;5;Finance comportementale;Créativité;design
-ET511;;;;6;6;5;2;13;Intelligence d'affaires;Rédaction;Journalisme
-ET512;;;;18;9;2;2;10;Réseaux sociaux;Communication orale;Communication
-ET513;;;;12;6;2;2;15;Coaching;Travail d'équipe;Arts
-ET514;;;;14;7;2;5;6;Éthologie;Pensée critique;Arts
-ET515;;;;9;15;5;19;12;Sémiotique;Conception graphique;Design
-ET516;;;;15;20;19;8;14;Art thérapie;Leadership;Management
-ET517;;;;19;18;8;20;20;Soutien scolaire;Compétences interpersonnelles;sociologie
-ET518;;;;11;0;20;17;15;Éthique des affaires;Compétences en négociation;Arts
-ET519;;;;18;6;17;8;11;Éthique médicale;Compétences en présentation;Medecine
-ET520;;;;18;5;8;19;13;Réalité augmentée;Résilience;Finance
-ET521;;;;18;12;19;19;17;Ingénierie logicielle;Adaptabilité;Informatique
-ET522;;;;12;10;19;5;16;Design de jeux;Organisation;Arts
-ET523;;;;11;8;5;14;12;Analyse de données;Gestion du temps;Arts
-ET524;;;;19;6;14;10;15;Marketing sensoriel;Esprit d'initiative;Marketing
-ET525;;;;13;1;10;13;7;Psychologie positive;Capacité d'apprentissage rapide;Medecine
-ET526;;;;14;2;13;9;11;Analyse financière;Capacités analytiques;Finance
-ET527;;;;15;3;9;6;9;Nanotechnologie;Compétences en recherche;Arts
-ET528;;;;12;20;6;13;14;Systèmes embarqués;Compétences en gestion de projet;Informatique
-ET529;;;;17;19;13;5;6;Économie de la santé;Programmation web;Arts
-ET530;;;;14;11;5;19;13;Architecture de l'information;Programmation mobile;Arts
-ET531;;;;9;17;19;15;8;Éthique des affaires;Résolution de problèmes;Arts
-ET532;;;;18;13;15;6;7;Éthique médicale;Programmation informatique;Programmation
-ET533;;;;19;12;6;7;14;Réalité augmentée;Analyse statistique;Mathematiques
-ET534;;;;19;12;7;15;18;Ingénierie logicielle;Créativité;Informatique
-ET535;;;;17;18;15;20;20;Design de jeux;Communication écrite;Journalisme
-ET536;;;;9;19;20;18;12;Analyse de données;Communication orale;Arts
-ET537;;;;14;18;18;0;15;Marketing sensoriel;Gestion de projet;Gestion
-ET538;;;;8;19;0;6;17;Psychologie positive;Travail d'équipe;Travail
-ET539;;;;17;13;6;5;13;Analyse financière;Leadership;Finance
-ET540;;;;9;6;5;12;16;Nanotechnologie;Rédaction technique;Arts
-ET541;;;;20;7;12;10;18;Systèmes embarqués;Conception graphique;Informatique
-ET542;;;;17;19;10;8;9;Économie de la santé;langues étrangères;Arts
-ET543;;;;14;20;8;6;20;Architecture de l'information;Compétences interculturelles;Arts
-ET544;;;;13;20;6;1;10;Informatique;Pensée critique;philisophie
-ET545;;;;16;11;1;2;19;Arts du Spectacle;Compétences en recherche;Arts
-ET546;;;;16;11;2;3;20;Médecine;Planification stratégique;Arts
-ET547;;;;16;18;3;20;19;Architecture;Compétences en négociation;Commerce
-ET548;;;;17;15;20;19;10;Économie;marketing;Marketing
-ET549;;;;14;14;19;0;6;Mathématiques;vente;Commerce
-ET550;;;;19;11;0;14;18;Informatique;relations publiques;Informatique
-ET551;;;;7;5;14;20;12;Langues étrangères;psychologie;Psychologie
-ET552;;;;9;12;20;2;14;Marketing;sciences sociales;Arts
-ET553;;;;10;6;2;6;9;Physique;biologie;Biologie
-ET554;;;;7;10;6;18;15;Psychologie;chimie;Chimie
-ET555;;;;7;0;18;7;19;Musique;physique;Physique
-ET556;;;;17;0;7;5;11;Génie civil;mathématiques appliquées;Mathématiques
-ET557;;;;17;0;5;15;18;Philosophie;informatique;Arts
-ET558;;;;8;0;15;16;18;Biologie;génie mécanique;Arts
-ET559;;;;10;0;16;15;18;Journalisme;génie électrique;Arts
-ET560;;;;8;0;15;17;12;Design graphique;génie civil;Génie
-ET561;;;;5;0;17;16;11;Génie électrique;génie chimique;Génie
-ET562;;;;13;0;16;13;19;Anthropologie;gestion des ressources humaines;Arts
-ET563;;;;10;0;13;19;13;Histoire;comptabilité;Arts
-ET564;;;;12;0;19;5;14;Sports;finance;Finance
-ET565;;;;8;0;5;19;15;Écologie;droit;Droit
-ET566;;;;12;5;19;5;12;Astronomie;médecine;Medecine
-ET567;;;;12;2;5;5;12;Cinéma;informatique;Informatique
-ET568;;;;13;2;5;13;13;Gestion d'entreprise;chimie;Chimie
-ET569;;;;7;2;13;10;7;Relations internationales;design d'intérieur;Design
-ET570;;;;5;5;10;15;5;Droit;architecture;Architecture
-ET571;;;;16;19;15;6;16;Chimie;journalisme;Journalisme
-ET572;;;;10;8;6;12;10;Sociologie;écriture créative;sociologie
-ET573;;;;16;20;12;14;16;Théâtre;production vidéo;Arts
-ET574;;;;10;17;14;20;10;Mode;vente;Commerce
-ET575;;;;14;8;20;15;14;Nutrition;ecriture;Arts
-ET576;;;;12;19;15;11;12;Sciences politiques;psychologie;Psychologie
-ET577;;;;16;19;11;13;16;Photographie;cybersécurité;Arts
-ET578;;;;9;5;13;17;9;Génie mécanique;développement web;Développement
-ET579;;;;6;14;17;16;6;Éducation;marketing numérique;Arts
-ET580;;;;9;10;16;12;9;Intelligence artificielle;animation 3D;Animation
-ET581;;;;7;13;12;15;7;Criminologie;Résolution de problèmes;Arts
-ET582;;;;16;9;15;7;20;Géologie;Programmation informatique;Arts
-ET583;;;;11;6;7;11;17;Animation;Analyse statistique;Arts
-ET584;;;;20;13;11;9;8;Danse;Créativité;Arts
-ET585;;;;9;5;9;14;19;Marketing numérique;Rédaction;Journalisme
-ET586;;;;14;19;14;6;19;Génie chimique;Communication orale;Communication
-ET587;;;;15;15;6;13;5;Agriculture;Travail d'équipe;Arts
-ET588;;;;12;6;13;8;14;Science des données;Pensée critique;Arts
-ET589;;;;11;7;8;7;10;Linguistique;Conception graphique;Design
-ET590;;;;11;15;7;14;13;Réseaux sociaux;Leadership;Management
-ET591;;;;11;20;14;18;9;Robotique;Compétences interpersonnelles;Arts
-ET592;;;;16;18;18;20;6;Éthique;Compétences en négociation;Arts
-ET593;;;;19;0;20;12;13;Développement durable;Compétences en présentation;Informatique
-ET594;;;;19;6;12;15;5;Astronomie;Résilience;Mathematiques
-ET595;;;;11;5;15;17;19;Cinéma;Adaptabilité;Arts
-ET596;;;;11;12;17;13;15;Éthique des affaires;Organisation;Management
-ET597;;;;15;10;13;16;6;Éthique médicale;Gestion du temps;Gestion
-ET598;;;;12;8;16;18;7;Réalité augmentée;Esprit d'initiative;Informatique
-ET599;;;;14;6;18;9;15;Ingénierie logicielle;Capacité d'apprentissage rapide;Informatique
-ET600;;;;15;1;9;20;20;Design de jeux;Capacités analytiques;design
-ET601;;;;8;2;20;10;18;Analyse de données;Compétences en recherche;Mathematiques
-ET602;;;;15;3;10;19;0;Marketing sensoriel;Compétences en gestion de projet;Marketing
-ET603;;;;18;20;19;20;6;Psychologie positive;Programmation web;Programmation
-ET604;;;;5;19;20;19;5;Analyse financière;Programmation mobile;Programmation
-ET605;;;;18;0;19;10;12;Nanotechnologie;Résolution de problèmes;Arts
-ET606;;;;6;14;10;6;10;Systèmes embarqués;Programmation informatique;Programmation
-ET607;;;;16;20;6;18;8;Économie de la santé;Analyse statistique;Arts
-ET608;;;;16;2;18;12;6;Architecture de l'information;;Arts
-ET609;;;;19;6;12;14;1;Analyse de données;biologie;Mathematiques
-ET610;;;;17;18;14;9;2;Philosophie;chimie;Arts
-ET611;;;;9;7;9;15;3;Biologie;physique;Physique
-ET612;;;;13;5;15;19;20;Journalisme;mathématiques appliquées;Arts
-ET613;;;;10;15;19;11;19;Design graphique;informatique;Informatique
-ET614;;;;5;16;11;18;13;Génie électrique;génie mécanique;Genie mécanique
-ET615;;;;12;15;18;18;16;Anthropologie;génie électrique;genie electrique
-ET616;;;;8;17;18;18;18;Histoire;génie civil;genie civil
-ET617;;;;6;16;18;12;9;Sports;génie chimique;Chimie
-ET618;;;;14;13;12;11;20;Écologie;gestion des ressources humaines;Management
-ET619;;;;16;19;11;19;10;Astronomie;comptabilité;comptabilite
-ET620;;;;13;5;19;13;19;Cinéma;finance;Finance
-ET621;;;;13;19;13;14;20;Gestion d'entreprise;droit;Droit
-ET622;;;;10;5;14;15;19;Relations internationales;médecine;Médecine
-ET623;;;;19;5;15;7;10;Droit;informatique;Informatique
-ET624;;;;14;13;7;5;6;Chimie;chimie;Chimie
-ET625;;;;8;10;5;16;18;Sociologie;design d'intérieur;Design
-ET626;;;;20;15;16;10;12;Théâtre;architecture;Architecture
-ET627;;;;8;6;10;16;14;Mode;journalisme;Journalisme
-ET628;;;;15;12;16;10;9;Nutrition;écriture créative;Arts
-ET629;;;;17;14;10;14;15;Sciences politiques;production vidéo;sciences politique
-ET630;;;;9;20;14;12;19;Photographie;vente;Arts
-ET631;;;;17;15;12;16;11;Génie mécanique;ecriture;Journalisme
-ET632;;;;16;11;16;9;18;Éducation;psychologie;Arts
-ET633;;;;20;13;9;6;18;Intelligence artificielle;cybersécurité;Cybersécurité
-ET634;;;;14;17;6;9;18;Criminologie;développement web;Arts
-ET635;;;;8;16;9;7;12;Géologie;marketing numérique;Marketing
-ET636;;;;10;12;7;16;11;Animation;animation 3D;Arts
-ET637;;;;11;15;16;11;19;Danse;Résolution de problèmes;Arts
-ET638;;;;14;7;11;20;13;Marketing numérique;Programmation informatique;Informatique
-ET639;;;;6;11;20;9;14;Génie chimique;Analyse statistique;Chimie
-ET640;;;;13;9;9;14;15;Agriculture;Créativité;Arts
-ET641;;;;7;14;14;15;12;Science des données;Rédaction;Arts
-ET642;;;;8;6;15;12;17;Linguistique;Communication orale;Arts
-ET643;;;;9;13;12;11;14;Réseaux sociaux;Travail d'équipe;Management
-ET644;;;;18;8;11;11;11;Robotique;Pensée critique;philisophie
-ET645;;;;18;7;11;11;17;Éthique;Conception graphique;Arts
-ET646;;;;7;14;11;16;13;Développement durable;Leadership;ecologie
-ET647;;;;5;18;16;19;12;Biologie;Compétences interpersonnelles;Biologie
-ET648;;;;11;20;19;19;12;Mathématiques;Compétences en négociation;Commerce
-ET649;;;;17;12;19;11;18;Informatique;Compétences en présentation;Journalisme
-ET650;;;;13;15;11;11;19;Arts;Résilience;Arts
-ET651;;;;12;17;11;15;18;Littérature;Adaptabilité;Journalisme
-ET652;;;;12;13;15;12;19;Langues;Organisation;Management
-ET653;;;;18;16;12;14;13;Histoire;Gestion du temps;Management
-ET654;;;;19;18;14;15;6;Sciences sociales;Esprit d'initiative;Esprit
-ET655;;;;0;9;15;8;7;Sports;Capacité d'apprentissage rapide;Arts
-ET656;;;;19;20;8;12;19;Cuisine;Capacités analytiques;Arts
-ET657;;;;13;10;12;14;20;Musique;Compétences en recherche;Arts
-ET658;;;;6;19;14;15;20;Théâtre;Compétences en gestion de projet;Arts
-ET659;;;;7;20;15;8;11;Voyages;Programmation web;Arts
-ET660;;;;8;19;8;14;11;Sciences Politiques;Programmation mobile;Programmation
-ET661;;;;20;10;14;5;18;Design et Architecture;Compétences en présentation;Arts
-ET662;;;;17;6;5;5;15;Économie et Finance;Résilience;Finance
-ET663;;;;8;18;5;5;14;Environnement et Développement Durable;Adaptabilité;ecologie
-ET664;;;;19;12;5;5;11;Médecine;Organisation;medecine
-ET665;;;;19;14;5;5;5;Éducation ;Gestion du temps;Management
-ET666;;;;5;9;5;5;12;Droit et Justice;Esprit d'initiative;droit
-ET667;;;;14;15;5;20;6;Archéologie;Capacité d'apprentissage rapide;Arts
-ET668;;;;10;19;20;18;10;Sciences;Capacités analytiques;Mathematiques
-ET669;;;;13;11;18;15;15;Mathématiques;Compétences en recherche;Mathematiques
-ET670;;;;9;18;15;19;10;Informatique;Compétences en gestion de projet;Management
-ET671;;;;6;18;19;0;9;Économie;écriture créative;Economie
-ET672;;;;13;18;0;2;10;Arts plastiques;production vidéo;Production
-ET673;;;;5;12;2;20;7;Musique;vente;Commerce
-ET674;;;;19;11;20;20;17;Danse;ecriture;Arts
-ET675;;;;15;19;20;20;17;Théâtre;psychologie;Arts
-ET676;;;;6;13;20;18;14;Photographie;cybersécurité;Informatique
-ET677;;;;7;14;18;12;13;Journalisme;développement web;Informatique
-ET678;;;;15;15;12;10;17;Médecine;marketing numérique;Informatique
-ET679;;;;20;7;10;8;10;Psychologie;animation 3D;Informatique
-ET680;;;;18;5;8;20;15;Droit;Résolution de problèmes;droit
-ET681;;;;0;16;20;17;9;Linguistique;Programmation informatique;Informatique
-ET682;;;;6;10;17;8;10;Génie civil;Analyse statistique;Mathematiques
-ET683;;;;5;16;8;19;10;Génie électrique;Créativité;Arts
-ET684;;;;12;10;19;19;10;Architecture;Rédaction;Journalisme
-ET685;;;;10;14;19;5;17;Histoire de l'art;Communication orale;Histoire
-ET686;;;;8;12;5;14;15;Sociologie;Travail d'équipe;Management
-ET687;;;;6;16;14;10;13;Marketing;Pensée critique;Marketing
-ET688;;;;1;9;10;13;15;Géologie;Conception graphique;Arts
-ET689;;;;2;6;13;9;17;Astronomie;Leadership;Management
-ET690;;;;3;9;9;6;16;Anthropologie;Compétences interpersonnelles;Anthropologie
-ET691;;;;20;7;6;13;13;Cuisine;Compétences en négociation;cuisine
-ET692;;;;19;16;13;5;19;Mode;Compétences en présentation;mode
-ET693;;;;6;11;5;19;5;Écologie;Résilience;ecologie
-ET694;;;;13;20;19;15;19;Animation;Adaptabilité;Management
-ET695;;;;5;9;15;6;5;Design graphique;Organisation;Organisation
-ET696;;;;19;14;6;7;5;Finance;Gestion du temps;Finance
-ET697;;;;15;15;7;15;13;Développement durable;Esprit d'initiative;ecologie
-ET698;;;;6;12;15;20;10;Relations internationales;Capacité d'apprentissage rapide;Management
-ET699;;;;7;11;20;18;15;Chimie;Capacités analytiques;Chimie
-ET700;;;;15;11;18;0;6;Physique;Compétences en recherche;Physique
-ET701;;;;20;11;0;6;12;Philosophie;Compétences en gestion de projet;philosophie
-ET702;;;;18;16;6;5;14;Thérapie physique;Programmation web;Informatique
-ET703;;;;0;19;5;12;20;Criminologie;Programmation mobile;Arts
-ET704;;;;6;19;12;10;15;Sciences politiques;Résolution de problèmes;Résolution
-ET705;;;;5;11;10;8;11;Agriculture;Programmation informatique;Arts
-ET706;;;;17;11;8;6;13;Génie mécanique;Analyse statistique;Mathematiques
-ET707;;;;16;15;6;1;17;Éducation;informatique;Arts
-ET708;;;;13;12;1;2;16;Biologie marine;biologie;Biologie
-ET709;;;;0;14;2;3;12;Réalité virtuelle;chimie;Chimie
-ET710;;;;5;15;3;20;15;Éthique;physique;Arts
-ET711;;;;19;8;20;19;7;Volontariat;mathématiques appliquées;Arts
-ET712;;;;5;12;19;10;11;Robotique;informatique;Informatique
-ET713;;;;5;14;10;16;9;Énergie renouvelable;génie mécanique;Génie
-ET714;;;;13;15;16;16;14;Écriture créative;génie électrique;Génie
-ET715;;;;10;8;16;18;6;Études de genre;génie civil;Arts
-ET716;;;;15;14;18;7;13;Génie chimique;génie chimique;Génie
-ET717;;;;6;5;7;15;8;Sports;gestion des ressources humaines;Arts
-ET718;;;;12;5;15;18;7;Nutrition;comptabilité;Arts
-ET719;;;;14;5;18;9;14;Mécatronique;finance;Finance
-ET720;;;;20;5;9;9;18;Archéologie;droit;droit
-ET721;;;;15;5;9;13;20;Intelligence artificielle;médecine;Médecine
-ET722;;;;11;5;13;5;12;Design d'intérieur;informatique;Informatique
-ET723;;;;13;20;5;20;15;Gestion de projet;chimie;Arts
-ET724;;;;17;18;20;19;17;Économie du numérique;design d'intérieur;design
-ET725;;;;16;15;19;8;13;Neurosciences;architecture;Architecture
-ET726;;;;12;19;8;14;16;Art numérique;comptabilité;Comptabilité
-ET727;;;;15;0;14;9;18;Urbanisme;finance;Finance
-ET728;;;;7;2;9;15;9;Muséologie;droit;droit
-ET729;;;;11;20;15;19;20;Sécurité informatique;médecine;Médecine
-ET730;;;;9;20;19;11;10;Administration publique;informatique;Informatique
-ET731;;;;14;20;11;18;19;Animation 3D;chimie;Informatique
-ET732;;;;6;18;18;18;20;Marketing digital;design d'intérieur;Design
-ET733;;;;13;12;18;18;19;Études de marché;architecture;Arts
-ET734;;;;8;10;18;12;10;Design industriel;journalisme;Journalisme
-ET735;;;;7;8;12;11;6;Agroalimentaire;écriture créative;Arts
-ET736;;;;14;20;11;19;18;Animation japonaise;production vidéo;Production
-ET737;;;;18;17;19;13;12;Relations publiques;vente;Vente
-ET738;;;;20;8;13;14;14;Santé publique;ecriture;Ecriture
-ET739;;;;12;19;14;15;9;Graphisme;psychologie;Arts
-ET740;;;;15;19;15;10;15;Jeux vidéo;cybersécurité;Cybersécurité
-ET741;;;;17;5;10;16;19;Biotechnologie;développement web;Informatique
-ET742;;;;13;14;16;16;11;Archiviste;marketing numérique;Arts
-ET743;;;;16;10;16;18;18;Bio-informatique;animation 3D;Marketing
-ET744;;;;18;13;18;7;18;Cryptographie;Résolution de problèmes;Arts
-ET745;;;;9;9;7;15;18;Intelligence émotionnelle;Programmation informatique;Programmation
-ET746;;;;20;6;15;18;12;Intelligence collective;Analyse statistique;Informatique
-ET747;;;;10;13;18;9;11;Finance comportementale;Créativité;design
-ET748;;;;19;5;9;9;19;Intelligence d'affaires;Rédaction;Journalisme
-ET749;;;;20;19;9;18;13;Réseaux sociaux;Communication orale;Communication
-ET750;;;;19;15;13;12;14;Coaching;Travail d'équipe;Arts
-ET751;;;;10;6;17;11;15;Éthologie;Pensée critique;Arts
-ET752;;;;6;7;16;19;10;Sémiotique;Conception graphique;Design graphique
-ET753;;;;18;15;12;13;8;Art thérapie;Leadership;Leadership
-ET754;;;;12;20;15;14;5;Soutien scolaire;Compétences interpersonnelles;Sociologie
-ET755;;;;14;18;7;15;13;Éthique des affaires;Compétences en négociation;Commerce
-ET756;;;;9;0;11;12;10;Éthique médicale;Compétences en présentation;medecine
-ET757;;;;15;6;9;12;12;Réalité augmentée;Résilience;Informatique
-ET758;;;;19;5;14;13;8;Ingénierie logicielle;Adaptabilité;Marketing
-ET759;;;;11;12;6;7;12;Design de jeux;Organisation;Arts
-ET760;;;;18;10;13;5;12;Analyse de données;Gestion du temps;Management
-ET761;;;;18;8;8;16;13;Marketing sensoriel;Esprit d'initiative;Marketing
-ET762;;;;18;6;7;10;7;Psychologie positive;Capacité d'apprentissage rapide;Psychologie
-ET763;;;;12;1;14;16;5;Analyse financière;Capacités analytiques;Finance
-ET764;;;;11;2;18;10;16;Nanotechnologie;Compétences en recherche;Arts
-ET765;;;;19;3;20;14;10;Systèmes embarqués;Compétences en gestion de projet;Informatique
-ET766;;;;13;20;12;12;16;Économie de la santé;Programmation web;Informatique
-ET767;;;;14;19;15;16;10;Architecture de l'information;Programmation mobile;Informatique
-ET768;;;;15;10;17;9;14;Marketing;Résolution de problèmes;Mathematiques
-ET769;;;;12;16;13;6;12;Physique;Programmation informatique;Informatique
-ET770;;;;12;16;16;9;16;Psychologie;Analyse statistique;Mathematiques
-ET771;;;;13;18;18;7;9;Musique;Créativité;Arts
-ET772;;;;7;7;9;20;6;Génie civil;Communication écrite;Communication
-ET773;;;;5;15;20;17;9;Philosophie;Communication orale;Arts
-ET774;;;;16;18;10;8;7;Biologie;Gestion de projet;Management
-ET775;;;;10;9;19;19;16;Journalisme;Travail d'équipe;Arts
-ET776;;;;16;9;20;19;11;Design graphique;Leadership;design
-ET777;;;;10;13;19;5;20;Génie électrique;Rédaction technique;Journalisme
-ET778;;;;14;5;10;14;9;Anthropologie;Conception graphique;Design graphique
-ET779;;;;12;20;6;10;14;Histoire;langues étrangères;littérature
-ET780;;;;16;19;18;13;15;Sports;Compétences interculturelles;Arts
-ET781;;;;9;8;12;9;12;Écologie;Pensée critique;Arts
-ET782;;;;6;14;14;6;11;Astronomie;Compétences en recherche;Arts
-ET783;;;;9;9;9;13;11;Cinéma;Planification stratégique;Arts
-ET784;;;;7;15;15;5;11;Gestion d'entreprise;Compétences en négociation;Management
-ET785;;;;20;19;19;19;16;Relations internationales;marketing;Marketing
-ET786;;;;17;11;11;15;19;Droit;vente;Commerce
-ET787;;;;8;18;18;6;19;Chimie;relations publiques;Chimie
-ET788;;;;19;18;18;7;11;Sociologie;psychologie;Sociologie
-ET789;;;;19;18;18;15;11;Théâtre;sciences sociales;theatre
-ET790;;;;5;12;12;20;15;Mode;biologie;Biologie
-ET791;;;;14;11;11;18;12;Nutrition;chimie;Chimie
-ET792;;;;10;19;19;0;14;Sciences politiques;physique;Physique
-ET793;;;;13;13;13;6;15;Photographie;mathématiques appliquées;Arts
-ET794;;;;9;14;14;5;8;Génie mécanique;informatique;Informatique
-ET795;;;;6;15;15;12;15;Éducation;génie mécanique;Arts
-ET796;;;;13;10;12;10;18;Intelligence artificielle;génie électrique;Génie
-ET797;;;;5;16;12;8;5;Criminologie;génie civil;genie civil
-ET798;;;;19;16;13;6;18;Géologie;génie chimique;Chimie
-ET799;;;;15;18;7;1;6;Animation;gestion des ressources humaines;Informatique
-ET800;;;;6;7;5;2;16;Danse;comptabilité;comptabilite
-ET801;;;;7;15;16;3;16;Marketing numérique;finance;Finance
-ET802;;;;15;18;10;20;19;Génie chimique;droit;Droit
-ET803;;;;20;9;16;19;17;Agriculture;médecine;medecine
-ET804;;;;18;9;10;13;9;Science des données;informatique;Informatique
-ET805;;;;0;0;14;16;13;Linguistique;chimie;Arts
-ET806;;;;6;6;12;18;10;Réseaux sociaux;design d'intérieur;Design
-ET807;;;;5;5;16;9;5;Robotique;architecture;Arts
-ET808;;;;12;12;9;20;12;Éthique;journalisme;Arts
-ET809;;;;10;10;6;10;8;Développement durable;écriture créative;Écriture
-ET810;;;;8;8;9;19;6;Biologie;production vidéo;Arts
-ET811;;;;6;6;7;20;14;Mathématiques;vente;Commerce
-ET812;;;;1;1;20;19;16;Informatique;ecriture;Journalisme
-ET813;;;;2;2;17;10;13;Arts;psychologie;Psychologie
-ET814;;;;3;3;8;6;13;Littérature;cybersécurité;Informatique
-ET815;;;;20;20;19;18;10;Langues;développement web;Informatique
-ET816;;;;19;19;19;12;19;Sciences;marketing numérique;Informatique
-ET817;;;;13;13;5;14;14;Arts;animation 3D;Informatique
-ET818;;;;16;16;14;9;8;Musique;Résolution de problèmes;Mathematiques
-ET819;;;;18;18;10;15;20;Danse;Programmation informatique;Informatique
-ET820;;;;9;9;13;19;8;Théâtre;Analyse statistique;Mathematiques
-ET821;;;;20;20;9;11;15;Informatique;Créativité;Arts
-ET822;;;;10;10;6;18;17;Médecine;Rédaction;Arts
-ET823;;;;19;19;13;18;9;Droit;Communication orale;Journalisme
-ET824;;;;20;20;5;18;17;Économie;Travail d'équipe;Management
-ET825;;;;19;19;19;12;16;Mathématiques;Pensée critique;Mathematiques
-ET826;;;;10;10;15;11;20;Histoire;Conception graphique;Design graphique
-ET827;;;;6;6;6;19;14;Philosophie;Leadership;Arts
-ET828;;;;18;18;7;13;8;Psychologie;Compétences interpersonnelles;Arts
-ET829;;;;12;12;15;14;10;Écologie;Compétences en négociation;Arts
-ET830;;;;14;14;20;15;11;Design graphique;Compétences en présentation;Compétences
-ET831;;;;9;9;18;12;14;Programmation;Résilience;Arts
-ET832;;;;15;15;0;17;6;Développement web;Adaptabilité;Informatique
-ET833;;;;19;19;6;14;13;Photographie;Organisation;Management
-ET834;;;;11;11;5;11;7;Journalisme;Gestion du temps;Management
-ET835;;;;18;18;12;17;8;Marketing;Esprit d'initiative;Marketing
-ET836;;;;18;18;10;13;9;Cinéma;Capacité d'apprentissage rapide;Arts
-ET837;;;;18;18;8;12;18;Astronomie;Capacités analytiques;Arts
-ET838;;;;12;12;6;12;18;Linguistique;Compétences en recherche;Arts
-ET839;;;;11;11;1;18;7;Architecture;Compétences en gestion de projet;Arts
-ET840;;;;19;19;2;19;5;Anthropologie;Programmation web;Informatique
-ET841;;;;13;13;3;18;11;Sociologie;Programmation mobile;Informatique
-ET842;;;;14;14;20;19;17;Cuisine;Résolution de problèmes;Mathematiques
-ET843;;;;15;15;19;13;13;Voyages;Programmation informatique;Informatique
-ET844;;;;12;12;13;6;12;Sports;Analyse statistique;Mathematiques
-ET845;;;;17;17;16;7;12;Mode;Créativité;Arts
-ET846;;;;14;14;18;19;18;Automobile;Communication écrite;littérature
-ET847;;;;11;11;9;20;19;Aéronautique;Communication orale;Arts
-ET848;;;;17;17;20;20;18;Énergie renouvelable;Gestion de projet;Management
-ET849;;;;13;13;10;11;19;Politique;Travail d'équipe;droit
-ET850;;;;12;12;19;11;13;Développement durable;Leadership;ecologie
-ET851;;;;12;12;20;18;6;Sciences de la terre;Rédaction technique;Sciences naturelle
-ET852;;;;18;18;19;15;7;Géopolitique;Conception graphique;Design graphique
-ET853;;;;19;19;10;14;19;Muséologie;langues étrangères;littérature
-ET854;;;;18;18;6;11;20;Génie civil;Compétences interculturelles;genie civil
-ET855;;;;19;19;18;5;20;Neurosciences;Pensée critique;Arts
-ET856;;;;13;13;12;12;11;Intelligence artificielle;Compétences en recherche;Informatique
-ET857;;;;6;6;14;6;11;Blockchain;Planification stratégique;Arts
-ET858;;;;7;7;9;10;18;Réseaux sociaux;Compétences en négociation;Informatique
-ET859;;;;19;19;15;15;15;Éthique;marketing;Arts
-ET860;;;;20;20;19;10;14;Humanités numériques;vente;Vente
-ET861;;;;20;20;11;9;11;Géographie;relations publiques;Arts
-ET862;;;;11;11;18;10;5;Santé publique;psychologie;Psychologie
-ET863;;;;11;11;18;7;12;Réalité virtuelle;sciences sociales;Sciences
-ET864;;;;18;18;18;17;6;Intelligence émotionnelle;biologie;Biologie
-ET865;;;;15;15;12;17;10;Robotique;chimie;Arts
-ET866;;;;14;14;11;14;19;Sciences;physique;Arts
-ET867;;;;11;11;19;13;12;Mathématiques;mathématiques appliquées;Mathematiques
-ET868;;;;5;5;13;17;14;Informatique;informatique;Informatique
-ET869;;;;12;12;14;10;14;Économie;génie mécanique;genie mecanique
-ET870;;;;6;6;15;15;16;Arts plastiques;génie électrique;Genie electrique
-ET871;;;;10;10;12;9;6;Musique;génie civil;genie civil
-ET872;;;;15;15;17;10;6;Danse;génie chimique;Chimie
-ET873;;;;10;10;14;10;19;Théâtre;gestion des ressources humaines;Management
-ET874;;;;9;9;11;10;14;Photographie;comptabilité;comptabilite
-ET875;;;;10;10;17;17;5;Journalisme;finance;Finance
-ET876;;;;7;7;13;15;20;Médecine;droit;droit
-ET877;;;;17;17;12;13;13;Psychologie;médecine;medecine
-ET878;;;;17;17;12;15;11;Droit;informatique;Informatique
-ET879;;;;14;14;18;17;7;Linguistique;chimie;Chimie
-ET880;;;;13;13;19;16;11;Génie civil;design d'intérieur;Design
-ET881;;;;17;17;18;13;5;Génie électrique;architecture;Architecture
-ET882;;;;10;10;19;19;7;Architecture;journalisme;Journalisme
-ET883;;;;15;15;13;5;15;Histoire de l'art;écriture créative;Arts
-ET884;;;;9;9;6;19;20;Sociologie;production vidéo;Arts
-ET885;;;;10;10;7;5;18;Marketing;vente;Marketing
-ET886;;;;10;10;19;5;0;Géologie;ecriture;Journalisme
-ET887;;;;10;10;20;13;6;Astronomie;psychologie;Mathematiques
-ET888;;;;17;17;20;10;5;Anthropologie;cybersécurité;Informatique
-ET889;;;;15;15;11;15;12;Cuisine;développement web;Informatique
-ET890;;;;13;13;11;6;10;Mode;marketing numérique;Marketing
-ET891;;;;15;15;18;12;8;Écologie;animation 3D;Informatique
-ET892;;;;17;17;15;14;6;Animation;Résolution de problèmes;Informatique
-ET893;;;;16;16;14;20;1;Design graphique;Programmation informatique;Design graphique
-ET894;;;;13;13;11;15;2;Finance;Analyse statistique;Economie
-ET895;;;;19;19;5;11;3;Développement durable;Créativité;Design graphique
-ET896;;;;5;5;12;13;20;Relations internationales;Rédaction;Rédaction
-ET897;;;;19;19;6;17;19;Chimie;Communication orale;Arts
-ET898;;;;5;5;10;16;18;Physique;Travail d'équipe;physique
-ET899;;;;5;5;15;12;0;Philosophie;Pensée critique;philosophie
-ET900;;;;13;13;10;15;6;Thérapie physique;Conception graphique;Conception
-ET901;;;;10;10;9;7;5;Criminologie;Leadership;Informatique
-ET902;;;;15;15;10;11;12;Sciences politiques;Compétences interpersonnelles;droit
-ET903;;;;6;6;7;9;10;Agriculture;Compétences en négociation;Agronomie
-ET904;;;;12;12;17;14;8;Génie mécanique;Compétences en présentation;Mecanique
-ET905;;;;14;14;17;6;6;Éducation;Résilience;Arts
-ET906;;;;20;20;14;13;1;Biologie marine;Adaptabilité;Biologie
-ET907;;;;15;15;13;8;2;Réalité virtuelle;Organisation;Informatique
-ET908;;;;11;11;17;7;3;Éthique;Gestion du temps;Management
-ET909;;;;13;13;10;14;20;Volontariat;Esprit d'initiative;Sociologie
-ET910;;;;17;17;15;18;19;Robotique;Capacité d'apprentissage rapide;Informatique
-ET911;;;;16;16;9;20;20;Énergie renouvelable;Capacités analytiques;Capacités
-ET912;;;;12;12;10;12;6;Écriture créative;Compétences en recherche;Compétences
-ET913;;;;15;15;10;15;7;Études de genre;Compétences en gestion de projet;Arts
-ET914;;;;7;7;10;17;15;Génie chimique;Programmation web;Programmation
-ET915;;;;11;11;17;13;20;Sports;Programmation mobile;Informatique
-ET916;;;;9;9;15;16;18;Nutrition;Compétences en présentation;Arts
-ET917;;;;14;14;13;18;0;Mécatronique;Résilience;Informatique
-ET918;;;;6;6;15;9;6;Archéologie;Adaptabilité;Arts
-ET919;;;;13;13;17;20;5;Intelligence artificielle;Organisation;Organisation
-ET920;;;;8;8;16;10;12;Design d'intérieur;Gestion du temps;Gestion
-ET921;;;;7;7;13;19;10;Gestion de projet;Esprit d'initiative;Management
-ET922;;;;14;14;19;20;8;Économie du numérique;Capacité d'apprentissage rapide;Economie
-ET923;;;;18;18;5;19;6;Neurosciences;Capacités analytiques;Mathematiques
-ET924;;;;20;20;19;10;1;Art numérique;Compétences en recherche;Compétences
-ET925;;;;12;12;5;6;2;Urbanisme;Compétences en gestion de projet;Management
-ET926;;;;15;15;5;18;3;Muséologie;Résolution de problèmes;Arts
-ET927;;;;17;17;13;12;20;Sécurité informatique;Programmation informatique;Programmation
-ET928;;;;13;13;10;14;19;Administration publique;Analyse statistique;Mathematiques
-ET929;;;;16;16;15;9;11;Animation 3D;Créativité;Informatique
-ET930;;;;18;18;6;15;17;Marketing digital;Communication écrite;Communication
-ET931;;;;9;9;12;19;13;Études de marché;Communication orale;Arts
-ET932;;;;20;20;14;11;12;Design industriel;Gestion de projet;Gestion
-ET933;;;;10;10;20;18;12;Agroalimentaire;Travail d'équipe;Management
-ET934;;;;19;19;15;18;18;Animation japonaise;Leadership;Arts
-ET935;;;;20;20;11;18;19;Relations publiques;Rédaction technique;Rédaction
-ET936;;;;19;19;13;12;18;Santé publique;Conception graphique;Conception
-ET937;;;;10;10;17;11;19;Graphisme;langues étrangères;Arts
-ET938;;;;6;6;16;19;13;Jeux vidéo;Compétences interculturelles;Compétences
-ET939;;;;18;18;12;13;6;Biotechnologie;Pensée critique;Arts
-ET940;;;;12;12;15;14;7;Archiviste;Compétences en recherche;Arts
-ET941;;;;14;14;7;15;19;Bio-informatique;Planification stratégique;Informatique
-ET942;;;;9;9;11;10;20;Cryptographie;Compétences en négociation;Mathematiques
-ET943;;;;15;15;9;8;20;Intelligence émotionnelle;marketing;Marketing
-ET944;;;;19;19;14;5;11;Intelligence collective;vente;Vente
-ET945;;;;11;11;6;13;11;Finance comportementale;relations publiques;Relations
-ET946;;;;18;18;13;10;18;Intelligence d'affaires;psychologie;Psychologie
-ET947;;;;18;18;8;12;15;Réseaux sociaux;sciences sociales;Sciences
-ET948;;;;18;18;7;8;14;Coaching;biologie;Biologie
-ET949;;;;12;12;14;12;11;Éthologie;chimie;Chimie
-ET950;;;;11;11;18;12;5;Sémiotique;physique;physique
-ET951;;;;19;19;20;13;12;Art thérapie;mathématiques appliquées;Mathématiques
-ET952;;;;13;13;12;7;6;Soutien scolaire;informatique;Informatique
-ET953;;;;14;14;15;5;10;Éthique des affaires;génie mécanique;Arts
-ET954;;;;15;15;17;16;0;Éthique médicale;génie électrique;Genie electrique
-ET955;;;;10;10;13;10;0;Réalité augmentée;génie civil;genie civil
-ET956;;;;8;8;16;16;0;Ingénierie logicielle;génie chimique;Chimie
-ET957;;;;5;5;18;10;0;Design de jeux;gestion des ressources humaines;Arts
-ET958;;;;13;13;9;14;0;Analyse de données;comptabilité;comptabilite
-ET959;;;;10;10;20;12;0;Marketing sensoriel;finance;Finance
-ET960;;;;12;12;10;16;0;Psychologie positive;droit;Droit
-ET961;;;;8;8;19;9;0;Analyse financière;médecine;Médecine
-ET962;;;;12;12;20;6;0;Nanotechnologie;informatique;Arts
-ET963;;;;12;12;19;9;0;Systèmes embarqués;chimie;Chimie
-ET964;;;;13;13;10;7;0;Économie de la santé;design d'intérieur;design
-ET965;;;;7;7;6;16;5;Architecture de l'information;architecture;Architecture
-ET966;;;;5;5;18;11;2;Éthique des affaires;journalisme;Journalisme
-ET967;;;;16;16;12;20;2;Éthique médicale;écriture créative;Écriture
-ET968;;;;10;10;14;9;2;Réalité augmentée;production vidéo;Production
-ET969;;;;16;16;9;14;5;Ingénierie logicielle;vente;Vente
-ET970;;;;10;10;15;15;19;Design de jeux;ecriture;Journalisme
-ET971;;;;14;14;19;12;8;Analyse de données;psychologie;Psychologie
-ET972;;;;12;12;11;11;20;Marketing sensoriel;cybersécurité;Cybersécurité
-ET973;;;;16;16;18;11;17;Psychologie positive;développement web;Développement
-ET974;;;;9;9;18;11;8;Analyse financière;marketing numérique;Marketing
-ET975;;;;6;6;18;16;19;Nanotechnologie;animation 3D;Arts
-ET976;;;;9;9;12;19;19;Systèmes embarqués;Résolution de problèmes;Informatique
-ET977;;;;7;7;11;19;5;Économie de la santé;Programmation informatique;Informatique
-ET978;;;;16;16;19;11;14;Architecture de l'information;Analyse statistique;Mathematiques
-ET979;;;;11;11;13;11;10;Informatique;Créativité;Arts
-ET980;;;;20;20;14;15;13;Arts du Spectacle;Rédaction;Journalisme
-ET981;;;;9;9;15;12;9;Médecine;Communication orale;Journalisme
-ET982;;;;14;14;10;14;6;Architecture;Travail d'équipe;Management
-ET983;;;;15;15;8;15;13;Économie;Pensée critique;Economie
-ET984;;;;12;12;5;8;5;Mathématiques;Conception graphique;Design graphique
-ET985;;;;11;11;13;15;19;Informatique;Leadership;Management
-ET986;;;;11;11;10;18;15;Langues étrangères;Compétences interpersonnelles;littérature
-ET987;;;;11;11;12;5;6;Marketing;Compétences en négociation;Marketing
-ET988;;;;16;16;8;18;7;Physique;Compétences en présentation;Journalisme
-ET989;;;;19;19;12;6;15;Psychologie;Résilience;Psychologie
-ET990;;;;19;19;12;16;20;Musique;Adaptabilité;Arts
-ET991;;;;11;11;13;16;18;Génie civil;Organisation;genie civil
-ET992;;;;11;11;7;19;0;Philosophie;Gestion du temps;Management
-ET993;;;;15;15;5;17;6;Biologie;Esprit d'initiative;Biologie
-ET994;;;;12;12;16;9;5;Journalisme;Capacité d'apprentissage rapide;Journalisme
-ET995;;;;14;14;10;13;12;Design graphique;Capacités analytiques;Design graphique
-ET996;;;;15;15;16;10;10;Génie électrique;Compétences en recherche;Genie electrique
-ET997;;;;8;8;10;5;8;Anthropologie;Compétences en gestion de projet;Arts
-ET998;;;;15;15;14;12;6;Histoire;Programmation web;Informatique
-ET999;;;;18;18;12;8;1;Sports;Programmation mobile;Informatique
-ET1000;;;;5;5;16;6;2;Écologie;Résolution de problèmes;Arts
-ET1001;;;;18;18;9;14;3;Astronomie;Programmation informatique;ecologie
-ET1002;;;;6;6;6;16;20;Cinéma;Analyse statistique;Mathematiques
-ET1003;;;;16;16;9;13;19;Gestion d'entreprise;Créativité;Management
-ET1004;;;;16;16;7;13;0;Relations internationales;Communication écrite;Communication
-ET1005;;;;19;19;16;10;14;Droit;Communication orale;Arts
-ET1006;;;;17;17;11;19;20;Chimie;Gestion de projet;Management
-ET1007;;;;9;9;20;14;2;Sociologie;Travail d'équipe;Management
-ET1008;;;;13;13;9;8;6;Théâtre;Leadership;Arts
-ET1009;;;;10;10;14;20;18;Mode;Rédaction technique;Arts
-ET1010;;;;5;5;15;8;7;Nutrition;Conception graphique;Design graphique
-ET1011;;;;12;12;12;15;5;Sciences politiques;langues étrangères;Langues
-ET1012;;;;8;8;11;17;15;Photographie;Compétences interculturelles;Arts
-ET1013;;;;6;6;11;9;16;Génie mécanique;Pensée critique;genie mecanique
-ET1014;;;;14;14;11;17;15;Éducation;Compétences en recherche;Arts
-ET1015;;;;16;16;16;16;17;Intelligence artificielle;Planification stratégique;Informatique
-ET1016;;;;13;13;19;20;16;Criminologie;Compétences en négociation;Management
-ET1017;;;;13;13;19;14;13;Géologie;marketing;Marketing
-ET1018;;;;10;10;11;8;19;Animation;vente;Commerce
-ET1019;;;;19;19;11;10;5;Danse;relations publiques;Arts
-ET1020;;;;14;14;15;11;19;Marketing numérique;psychologie;Psychologie
-ET1021;;;;8;8;12;14;5;Génie chimique;sciences sociales;Chimie
-ET1022;;;;20;20;14;6;5;Agriculture;biologie;Biologie
-ET1023;;;;8;8;15;13;13;Science des données;chimie;Chimie
-ET1024;;;;15;15;8;7;10;Linguistique;physique;littérature
-ET1025;;;;17;17;15;8;15;Réseaux sociaux;mathématiques appliquées;Mathématiques
-ET1026;;;;9;9;18;9;6;Economie;informatique;Informatique
-ET1027;;;;17;17;5;18;12;Art;génie mécanique;genie mecanique
-ET1028;;;;16;16;18;18;14;Sciences;génie électrique;Genie electrique
-ET1029;;;;20;20;6;7;20;Informatique;génie civil;genie civil
-ET1030;;;;14;14;16;5;15;Lettres;génie chimique;Chimie
-ET1031;;;;8;8;16;11;11;Chimie;gestion des ressources humaines;Management
-ET1032;;;;10;10;19;17;13;Informatique;comptabilité;comptabilite
-ET1033;;;;11;11;17;13;17;Arts du Spectacle;finance;Finance
-ET1034;;;;14;14;9;12;16;Médecine;droit;Droit
-ET1035;;;;6;6;13;12;12;Architecture;médecine;Medecine
-ET1036;;;;13;13;10;18;15;Économie;informatique;Informatique
-ET1037;;;;7;7;5;19;7;Mathématiques;chimie;Mathematiques
-ET1038;;;;8;8;12;18;11;Informatique;design d'intérieur;Informatique
-ET1039;;;;9;9;8;19;9;Langues étrangères;architecture;Architecture
-ET1040;;;;18;18;6;13;14;Marketing;journalisme;Journalisme
-ET1041;;;;18;18;14;6;6;Physique;écriture créative;Arts
-ET1042;;;;7;7;16;7;13;Psychologie;production vidéo;Arts
-ET1043;;;;5;5;13;19;8;Musique;vente;Commerce
-ET1044;;;;11;11;13;20;7;Génie civil;ecriture;Mathematiques
-ET1045;;;;17;17;10;20;14;Philosophie;psychologie;philosophie
-ET1046;;;;13;13;19;11;18;Biologie;cybersécurité;Informatique
-ET1047;;;;12;12;14;11;20;Journalisme;développement web;Informatique
-ET1048;;;;12;12;8;18;12;Design graphique;marketing numérique;Marketing
-ET1049;;;;18;18;20;15;15;Génie électrique;animation 3D;Animation
-ET1050;;;;19;19;8;14;17;Anthropologie;Résolution de problèmes;Arts
-ET1051;;;;18;18;15;11;13;Histoire;Programmation informatique;Informatique
-ET1052;;;;19;19;17;5;16;Sports;Analyse statistique;Mathematiques
-ET1053;;;;13;13;9;12;18;Écologie;Créativité;Arts
-ET1054;;;;6;6;17;6;9;Astronomie;Rédaction;Journalisme
-ET1055;;;;7;7;16;10;20;Cinéma;Communication orale;Journalisme
-ET1056;;;;19;19;20;19;10;Gestion d'entreprise;Travail d'équipe;Travail
-ET1057;;;;20;20;14;12;19;Relations internationales;Pensée critique;Pensée
-ET1058;;;;20;20;8;14;20;Droit;Conception graphique;Design graphique
-ET1059;;;;11;11;10;14;19;Chimie;Leadership;Management
-ET1060;;;;11;11;11;16;10;Sociologie;Compétences interpersonnelles;Sociologie
-ET1061;;;;18;18;14;6;6;Théâtre;Compétences en négociation;Management
-ET1062;;;;15;15;6;6;18;Mode;Compétences en présentation;Arts
-ET1063;;;;14;14;13;19;12;Nutrition;Résilience;medecine
-ET1064;;;;11;11;7;14;14;Sciences politiques;Adaptabilité;Adaptabilité
-ET1065;;;;5;5;8;5;9;Photographie;Organisation;Arts
-ET1066;;;;12;12;9;20;15;Génie mécanique;Gestion du temps;genie mecanique
-ET1067;;;;6;6;18;13;19;Éducation;Esprit d'initiative;Arts
-ET1068;;;;10;10;18;11;11;Intelligence artificielle;Capacité d'apprentissage rapide;Capacité
-ET1069;;;;19;19;7;7;18;Criminologie;Capacités analytiques;Management
-ET1070;;;;12;12;5;11;18;Géologie;Compétences en recherche;Arts
-ET1071;;;;14;14;11;5;18;Animation;Compétences en gestion de projet;Arts
-ET1072;;;;14;14;17;7;12;Danse;Programmation web;Arts
-ET1073;;;;16;16;13;15;11;Marketing numérique;Programmation mobile;Programmation
-ET1074;;;;6;6;12;20;19;Génie chimique;Résolution de problèmes;Résolution
-ET1075;;;;6;6;12;18;13;Agriculture;Programmation informatique;Arts
-ET1076;;;;19;19;18;0;14;Science des données;Analyse statistique;Arts
-ET1077;;;;14;14;19;6;15;Linguistique;;Arts
-ET1078;;;;5;5;18;5;7;Réseaux sociaux;biologie;Biologie
-ET1079;;;;20;20;19;12;5;Robotique;chimie;Arts
-ET1080;;;;13;13;13;10;16;Éthique;physique;Arts
-ET1081;;;;11;11;6;8;10;Développement durable;mathématiques appliquées;Mathématiques
-ET1082;;;;7;7;7;6;16;Biologie;informatique;Informatique
-ET1083;;;;11;11;19;1;10;Mathématiques;génie mécanique;genie mecanique
-ET1084;;;;5;5;20;2;14;Informatique;génie électrique;Informatique
-ET1085;;;;7;7;20;3;12;Arts;génie civil;Arts
-ET1086;;;;15;15;11;20;16;Littérature;génie chimique;littérature
-ET1087;;;;20;20;11;19;9;Langues;gestion des ressources humaines;littérature
-ET1088;;;;18;18;18;18;6;Histoire;comptabilité;Comptabilité
-ET1089;;;;0;0;15;0;9;Sciences sociales;finance;Finance
-ET1090;;;;6;6;14;6;7;Sports;droit;Droit
-ET1091;;;;5;5;11;5;16;Cuisine;médecine;medecine
-ET1092;;;;12;12;5;12;11;Musique;informatique;Informatique
-ET1093;;;;10;10;12;10;20;Théâtre;chimie;Chimie
-ET1094;;;;8;8;6;8;9;Voyages;design d'intérieur;design
-ET1095;;;;6;6;10;6;14;Sciences Politiques;architecture;Architecture
-ET1096;;;;1;1;19;1;15;Design et Architecture;journalisme;Journalisme
-ET1097;;;;2;2;12;2;12;Économie et Finance;écriture créative;Economie
-ET1098;;;;3;3;14;3;11;Environnement et Développement Durable;production vidéo;Informatique
-ET1099;;;;20;20;14;20;11;Médecine;vente;Pharmacie
-ET1100;;;;19;19;16;19;11;Éducation ;ecriture;Sociologie
-ET1101;;;;18;18;6;20;16;Droit et Justice;psychologie;Droit
-ET1102;;;;0;0;6;11;19;Archéologie;cybersécurité;Informatique
-ET1103;;;;6;6;19;7;19;Sciences;développement web;Informatique
-ET1104;;;;5;5;14;11;11;Mathématiques;marketing numérique;Mathematiques
-ET1105;;;;12;12;5;5;11;Informatique;animation 3D;Informatique
-ET1106;;;;10;10;20;7;15;Économie;Résolution de problèmes;Economie
-ET1107;;;;8;8;13;15;12;Arts plastiques;Programmation informatique;Design graphique
-ET1108;;;;6;6;11;20;14;Musique;Analyse statistique;Musique
-ET1109;;;;1;1;7;18;15;Danse;Créativité;Danse
-ET1110;;;;2;2;11;0;8;Théâtre;Rédaction;Theatre
-ET1111;;;;3;3;5;6;12;Photographie;Communication orale;Arts 
-ET1112;;;;20;20;7;5;14;Journalisme;Travail d'équipe;Journalisme
-ET1113;;;;19;19;15;12;15;Médecine;Pensée critique;Medecine
-ET1114;;;;20;20;20;10;8;Psychologie;Conception graphique;Design graphique
-ET1115;;;;11;11;18;8;14;Droit;Leadership;Droit
-ET1116;;;;7;7;0;6;5;Linguistique;Compétences interpersonnelles;Anglais
-ET1117;;;;11;11;6;1;5;Génie civil;Compétences en négociation;Genie civil
-ET1118;;;;5;5;5;2;5;Génie électrique;Compétences en présentation;Genie electrique
-ET1119;;;;7;7;12;3;5;Architecture;Résilience;Architecture
-ET1120;;;;15;15;10;20;5;Histoire de l'art;Adaptabilité;Histoire
-ET1121;;;;20;20;8;19;5;Sociologie;Organisation;Sociologie
-ET1122;;;;18;18;6;18;20;Marketing;Gestion du temps;marketing
-ET1123;;;;0;0;1;0;18;Géologie;Esprit d'initiative;Geologie
-ET1124;;;;6;6;2;6;15;Astronomie;Capacité d'apprentissage rapide;Astronomie
-ET1125;;;;5;5;3;5;19;Anthropologie;Capacités analytiques;Anthropologie
-ET1126;;;;12;12;20;12;0;Cuisine;Compétences en recherche;Arts culinaires
-ET1127;;;;10;10;19;10;2;Mode;Compétences en gestion de projet;Management
-ET1128;;;;8;8;18;8;20;Écologie;Programmation web;Informatique
-ET1129;;;;6;6;0;6;20;Animation;Programmation mobile;Informatique
-ET1130;;;;1;1;6;1;20;Design graphique;Compétences en présentation;Design graphique
-ET1131;;;;2;2;5;2;18;Finance;Résilience;Economie
-ET1132;;;;3;3;12;3;12;Développement durable;Adaptabilité;Science naturelle
-ET1133;;;;20;20;10;20;10;Relations internationales;Organisation;Science politique
-ET1134;;;;19;19;8;19;8;Chimie;Gestion du temps;Chimie
-ET1135;;;;18;18;6;20;20;Physique;Esprit d'initiative;Chimie
-ET1136;;;;0;0;1;12;17;Philosophie;Capacité d'apprentissage rapide;philosophie
-ET1137;;;;6;6;2;10;8;Thérapie physique;Capacités analytiques;Mathematiques
-ET1138;;;;5;5;3;8;19;Criminologie;Compétences en recherche;Science naturelle
-ET1139;;;;12;12;20;6;19;Sciences politiques;Compétences en gestion de projet;Management
-ET1140;;;;10;10;19;1;5;Agriculture;écriture créative;littérature
-ET1141;;;;8;8;20;2;14;Génie mécanique;production vidéo;Mecanique
-ET1142;;;;6;6;6;3;10;Éducation;vente;marketing
-ET1143;;;;1;1;1;20;13;Biologie marine;ecriture;Science naturelle
-ET1144;;;;2;2;2;19;9;Réalité virtuelle;psychologie;Intelligence artificielle
-ET1145;;;;3;3;3;18;6;Éthique;cybersécurité;Cybersécurité
-ET1146;;;;20;20;20;0;13;Volontariat;mathématiques ;Sociologie
-ET1147;;;;19;19;5;6;5;Robotique;chimie;Intelligence artificielle
-ET1148;;;;20;20;17;5;19;Mathématiques;architecture;Architecture
-ET1149;;;;20;20;20;20;20;Écriture créative;Dessin;Peinture
+ID_ETUDIANT;Sexe;MoyenneBac;Orientation;NotesMaths;NotesFrançais;NotesPhysiques;NotesChimie;NotesAnglais;Interets1;Interets2;choixOrientation
+ET001;F;15;L;16;16;12.75;8;6;Biologie;Biosciences;Biosciences
+ET002;F;10.00;S;7;15;20;20;13;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET003;F;10.00;S;14;17;17;17;9;Physiques;Biosciences;Biosciences
+ET004;F;15;S;7;16;12.75;8;19;Informatique;Genie Logiciel;Informatique
+ET005;F;12;S;9;13;19;19;15;Informatique;Genie Logiciel;Genie Logiciel
+ET006;M;15;S;10;19;19;19;6;Mathematiques;Genie Logiciel;Informatique
+ET007;M;12;S;16;10.5;10;13.50;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Business Administration
+ET008;F;11;L;15;19;14;14;15;Finance / Comptabilité / Statistiques;Mathematiques;Comptabilité et Finance
+ET009;M;16;L;17;10.5;10;10;18;Mathematiques;Mathematiques;Genie Electrique
+ET010;M;14;S;16;10.5;13;13;18;Informatique;Genie Logiciel;Biosciences
+ET011;F;10.00;S;13;13;9;9;12;Biologie;Biosciences;Biosciences
+ET012;F;10.00;S;19;10;8.5;12.25;6;Biologie;Psychologie;Psychologie
+ET013;M;14;S;10;15;13;13;9;Physiques;Psychologie;Genie Electrique
+ET014;M;10.00;S;19;13;10;13.50;17;Mathematiques;Mathematiques;Mathematiques
+ET015;M;14;L;10;12;19;19;16;Finance / Comptabilité / Statistiques;Business Administration;Comptabilité et Finance
+ET016;F;14;S;10;14;15;15;13;Informatique;Genie Civil;Informatique
+ET017;F;13;S;13;20;8.5;12.25;19;Mathematiques;Anglais;Anglais
+ET018;F;17;S;10;15;10.5;7;9;Mathematiques;Comptabilité et Finance;Comptabilité et Finance
+ET019;M;10.00;S;15;11;15;15;19;Informatique;Informatique;Informatique
+ET020;M;10.00;S;6;13;20;20;9;Informatique;Genie Logiciel;Genie Logiciel
+ET021;M;13;S;12;17;18;18;9;Informatique;Genie Logiciel;Genie Logiciel
+ET022;M;12;S;14;16;10;8;13;Finance / Comptabilité / Statistiques;Business Administration;Comptabilité et Finance
+ET023;M;15;S;20;12;8.5;12.25;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET024;M;13;S;15;15;10;13.50;15;Mathematiques;Mathematiques;Genie Logiciel
+ET025;F;10.00;S;11;12.5;12;12;6;Mathematiques;Genie Mecanique;Genie Mecanique
+ET026;F;11;S;13;11;10;10;12;Mathematiques;Genie Civil;Genie Mecanique
+ET027;M;12;S;15;9;12.75;8;14;Mathematiques;Psychologie;Psychologie
+ET028;M;15;S;16;14;8.5;12.25;18;Mathematiques;Mathematiques;Mathematiques
+ET029;M;11;L;12;13;10;11;15;Finance / Comptabilité / Statistiques;Mathematiques;Business Administration
+ET030;M;10.00;S;15;13;9;9;11;Informatique;Informatique;Informatique
+ET031;M;10.00;S;7;8;14;12;13;Mathematiques;Genie Civil;Genie Civil
+ET032;M;17;S;11;12.5;20;20;17;Informatique;Genie Logiciel;Genie Logiciel
+ET033;M;17;S;9;14;19;19;16;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET034;M;11;S;14;18;8.5;12.25;12;Informatique;Mathematiques;Informatique
+ET035;M;12;S;6;20;13;13;15;Biologie;Psychologie;Biosciences
+ET036;F;10.00;S;13;12;10;13.50;11;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET037;M;15;S;8;15;19;19;11;Informatique;Informatique;Informatique
+ET038;M;15;L;7;17;15;15;9;Mathematiques;Mathematiques;Mathematiques
+ET039;F;12;S;14;13;8.5;12.25;14;Biologie;Biosciences;Biosciences
+ET040;F;14;S;18;16;10.5;7;6;Finance / Comptabilité / Statistiques;Mathematiques;Business Administration
+ET041;F;12;S;20;18;15;15;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Business Administration
+ET042;M;12;S;12;9;20;20;14;Biologie;Biosciences;Biosciences
+ET043;M;15.32;S;15;20;18;18;11;Mathematiques;Genie Civil;Genie Mecanique
+ET044;M;10.00;S;15;10;9;12.25;14;Anglais;Anglais;Anglais
+ET045;F;10.00;S;13;19;8.5;12.25;18;Informatique;Informatique;Informatique
+ET046;F;12;L;16;20;10;13.50;18;Physiques;Genie Mecanique;Genie Mecanique
+ET047;F;11;L;18;19;17;12;12;Anglais;Anglais;Anglais
+ET048;M;17.5;S;9;10;16;12;15;Chimie;Genie Logiciel;Genie Logiciel
+ET049;M;15;S;20;13;13;12;17;Finance / Comptabilité / Statistiques;Business Administration;Comptabilité et Finance
+ET050;F;12;S;10;18;19;13.50;13;Mathematiques;Genie Civil;Genie Civil
+ET051;F;12;S;19;12;10;12.25;16;Mathematiques;Genie Civil;Genie Civil
+ET052;F;11;S;20;14;19;7;18;Biologie;Psychologie;Biosciences
+ET053;M;11;L;19;9;10;8;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Business Administration
+ET054;F;11;S;10;15;10;12;18;Informatique;Informatique;Genie Logiciel
+ET055;F;10.00;L;6;19;13;14;10;Informatique;Genie Logiciel;Genie Logiciel
+ET056;F;11;L;18;11;10;17;19;Chimie;Psychologie;Psychologie
+ET057;F;14;L;12;18;15;7;18;Mathematiques;Mathematiques;Mathematiques
+ET058;M;14;S;14;18;8.5;8;19;Physiques;Genie Mecanique;Genie Mecanique
+ET059;M;13;S;9;18;12;9;10;Biologie;Biosciences;Biosciences
+ET060;F;15;S;15;12;14;15;6;Physiques;Genie Civil;Genie Civil
+ET061;F;10.00;S;19;11;20;13.50;18;Informatique;Genie Logiciel;Informatique
+ET062;F;10.00;S;11;19;15;9;12;Mathematiques;Genie Logiciel;Genie Logiciel
+ET063;F;15;S;18;13;11;12;14;Anglais;Genie Logiciel;Genie Logiciel
+ET064;F;10.00;S;18;14;13;13;9;Chimie;Biosciences;Biosciences
+ET065;F;10.00;S;10;9;10.5;12;12;Biologie;Psychologie;Psychologie
+ET066;F;16;S;12;12.5;16;11;19;Informatique;Informatique;Genie Logiciel
+ET067;M;13;L;11;11;12;10;11;Informatique;Genie Logiciel;Informatique
+ET068;F;15;S;19;9;15;10;18;Biologie;Biosciences;Biosciences
+ET069;F;12;S;13;14;10.5;10;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Business Administration
+ET070;F;16;S;14;13;11;15;18;Biologie;Genie Logiciel;Informatique
+ET071;M;13;S;15;13;9;14;12;Mathematiques;Genie Logiciel;Genie Logiciel
+ET072;M;10.00;S;12;8;14;18;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET073;F;12;S;17;12.5;8.5;19;19;Anglais;Business Administration;Business Administration
+ET074;M;12;S;14;14;13;20;13;Informatique;Informatique;Informatique
+ET075;F;11;S;9;18;12.75;20;14;Physiques;Psychologie;Psychologie
+ET076;M;14;S;18;20;10.5;12;15;Biologie;Genie Logiciel;Genie Logiciel
+ET077;M;11;S;19;12;14;11;13;Physiques;Genie Mecanique;Genie Mecanique
+ET078;F;11;S;19;15;18;7;16;Biologie;Biosciences;Biosciences
+ET079;M;15;S;17;17;20;9;18;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET080;F;11;S;9;13;12;12.25;9;Biologie;Psychologie;Biosciences
+ET081;M;10.00;S;14;16;15;20;18;Mathematiques;Comptabilité et Finance;Business Administration
+ET082;M;11;S;8;18;17;18;10;Biologie;Psychologie;Psychologie
+ET083;F;15;S;17;9;13;18;19;Informatique;Genie Logiciel;Mathematiques
+ET084;M;15;S;9;20;16;18;18;Mathematiques;Anglais;Mathematiques
+ET085;F;15;S;20;10;18;7;19;Anglais;Anglais;Anglais
+ET086;F;15;S;17;19;9;13.50;10;Finance / Comptabilité / Statistiques;Business Administration;Comptabilité et Finance
+ET087;F;15;S;14;20;20;11;6;Anglais;Business Administration;Business Administration
+ET088;F;13;S;13;19;10;17;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET089;M;11;S;16;10;19;13;12;Informatique;Informatique;Informatique
+ET090;M;14;L;16;13;20;12;14;Anglais;Business Administration;Business Administration
+ET091;F;15;S;16;18;19;12;9;Anglais;Business Administration;Business Administration
+ET092;F;16;S;17;12;10;18;15;Informatique;Informatique;Informatique
+ET093;F;13;S;14;14;8.5;19;19;Biologie;Psychologie;Psychologie
+ET094;F;11;S;19;9;18;18;11;Finance / Comptabilité / Statistiques;Biosciences;Anglais
+ET095;M;11;S;7;15;12;19;18;Biologie;Biosciences;Psychologie
+ET096;F;11;S;9;19;14;13;18;Mathematiques;Genie Electrique;Genie Electrique
+ET097;M;11;S;10;11;9;12.25;18;Anglais;Anglais;Anglais
+ET098;F;10.00;S;7;18;15;7;12;Anglais;Anglais;Anglais
+ET099;F;11;S;7;18;19;19;11;Anglais;Anglais;Anglais
+ET100;F;12;S;17;18;11;20;19;Biologie;Mathematiques;Psychologie
+ET101;M;12;S;17;12;18;20;13;Biologie;Psychologie;Psychologie
+ET102;M;16;S;8;11;18;11;14;Physiques;Psychologie;Comptabilité et Finance
+ET103;M;10.00;S;10;19;18;13;15;Mathematiques;Informatique;Informatique
+ET104;F;12;S;8;13;12;16;12;Mathematiques;Anglais;Anglais
+ET105;M;16;L;10;14;11;18;17;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET106;F;10.00;L;13;15;19;9;14;Physiques;Biosciences;Biosciences
+ET107;F;10.00;S;10;12;13;20;12;Mathematiques;Mathematiques;Psychologie
+ET108;M;16;S;12;17;14;10;12;Informatique;Psychologie;Psychologie
+ET109;M;10.00;S;8;14;15;19;13;Biologie;Biosciences;Biosciences
+ET110;F;14;S;12;9;12;20;11;Biologie;Biosciences;Biosciences
+ET111;M;18;L;12;18;12;19;9;Mathematiques;Psychologie;Psychologie
+ET112;F;13;S;13;19;13;10;16;Biologie;Psychologie;Psychologie
+ET113;F;10.00;S;7;19;10.5;12.25;10;Informatique;Genie Logiciel;Genie Logiciel
+ET114;M;16;S;10;17;10;18;16;Biologie;Biosciences;Biosciences
+ET115;M;12;S;16;9;16;12;10;Mathematiques;Mathematiques;Business Administration
+ET116;M;15;S;10;14;10;14;14;Informatique;Genie Logiciel;Informatique
+ET117;M;11;S;16;8;16;9;12;Chimie;Business Administration;Biosciences
+ET118;M;13;S;10;17;10;15;16;Mathematiques;Genie Logiciel;Genie Logiciel
+ET119;M;13;S;14;9;14;19;9;Biologie;Biosciences;Biosciences
+ET120;M;14;S;12;20;12;11;6;Biologie;Biosciences;Biosciences
+ET121;F;16;S;16;17;16;18;9;Informatique;Anglais;Anglais
+ET122;M;16;S;9;14;9;18;11;Anglais;Business Administration;Anglais
+ET123;F;13;S;6;12.25;8.5;18;16;Physiques;Mathematiques;Mathematiques
+ET124;M;14;S;9;12;9;12;11;Biologie;Biosciences;Biosciences
+ET125;F;10.00;S;7;8;10.5;11;18;Biologie;Psychologie;Psychologie
+ET126;M;13;S;16;20;20;19;9;Mathematiques;Mathematiques;Mathematiques
+ET127;F;13;L;11;17;17;13;14;Informatique;Informatique;Informatique
+ET128;F;14;S;20;8;12.75;14;15;Mathematiques;Informatique;Informatique
+ET129;M;15;S;9;19;19;15;14;Informatique;Informatique;Anglais
+ET130;M;17.5;S;14;19;19;12;18;Biologie;Psychologie;Psychologie
+ET131;F;12;S;15;10.5;10;17;17;Informatique;Genie Logiciel;Genie Logiciel
+ET132;F;13;S;12;14;14;14;14;Anglais;Psychologie;Anglais
+ET133;F;10.00;S;11;10;10;11;19;Biologie;Biosciences;Biosciences
+ET134;F;12;L;11;13;13;17;19;Anglais;Psychologie;Psychologie
+ET135;M;10.00;S;11;9;9;13;9;Biologie;Biosciences;Biosciences
+ET136;F;11;S;16;13;8.5;12;14;Physiques;Genie Mecanique;Genie Mecanique
+ET137;M;10.00;S;19;13;13;12;10;Mathematiques;Mathematiques;Mathematiques
+ET138;F;12;L;19;10.5;10;18;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET139;M;14;S;11;19;19;19;9;Mathematiques;Genie Logiciel;Genie Logiciel
+ET140;F;16;S;11;15;15;18;6;Mathematiques;Genie Mecanique;Genie Logiciel
+ET141;M;13;S;15;13;8.5;19;13;Biologie;Biosciences;Biosciences
+ET142;M;11;S;12;12.5;10.5;13;9;Biologie;Biosciences;Biosciences
+ET142;F;14;S;14;15;15;12.25;19;Biologie;Psychologie;Psychologie
+ET143;F;14;S;15;20;20;7;15;Informatique;Informatique;Informatique
+ET144;M;12;S;8;18;18;19;6;Informatique;Informatique;Informatique
+ET145;F;10.00;S;15;10.5;8.5;20;11;Biologie;Psychologie;Psychologie
+ET146;F;10.00;S;18;13;8.5;20;15;Biologie;Biosciences;Biosciences
+ET147;F;10.00;S;10;10.5;10;11;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Business Administration
+ET148;M;15;S;18;12;12;11;18;Mathematiques;Anglais;Anglais
+ET149;M;10.00;L;6;10;10;18;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET150;M;16;S;16;8;12.75;15;6;Informatique;Informatique;Informatique
+ET151;M;12;S;16;13;8.5;14;9;Biologie;Biosciences;Biosciences
+ET152;F;10.00;S;19;8;10;11;12;Biologie;Psychologie;Psychologie
+ET153;M;12;S;17;12.25;9;13.50;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET154;F;11;S;9;13.5;14;12;14;Biologie;Biosciences;Biosciences
+ET155;M;11;S;13;20;20;12.25;6;Biologie;Biosciences;Biosciences
+ET156;M;16;S;10;19;19;10;11;Informatique;Informatique;Informatique
+ET157;F;13;S;10;13;13;19;11;Biologie;Anglais;Biosciences
+ET158;M;17;S;12;16;16;19;12;Chimie;Mathematiques;Biosciences
+ET159;M;10.00;S;8;18;18;13.50;18;Chimie;Mathematiques;Biosciences
+ET160;M;10.00;S;6;9;9;14;19;Chimie;Mathematiques;Biosciences
+ET161;M;14;S;14;20;20;10;11;Chimie;Mathematiques;Biosciences
+ET162;M;14;S;16;10;10;13;17;Mathematiques;Genie Mecanique;Genie Electrique
+ET163;M;10.00;S;13;19;19;9;13;Informatique;Genie Mecanique;Genie Mecanique
+ET164;M;14;S;13;20;20;12.25;12;Mathematiques;Genie Mecanique;Genie Logiciel
+ET165;M;12;S;10;19;19;13;12;Informatique;Informatique;Genie Logiciel
+ET166;M;10.00;S;19;10;10;13.50;18;Physiques;Genie Civil;Genie Civil
+ET167;F;14;S;14;13;8.5;19;19;Chimie;Biosciences;Biosciences
+ET168;F;10.00;S;8;18;18;15;18;Chimie;Biosciences;Biosciences
+ET169;F;14;S;20;12;12;12.25;19;Chimie;Biosciences;Biosciences
+ET170;M;12;S;8;14;14;7;13;Chimie;Biosciences;Biosciences
+ET171;M;13;S;15;9;9;15;6;Chimie;Biosciences;Biosciences
+ET172;M;13;S;17;15;15;20;11;Chimie;Biosciences;Biosciences
+ET173;F;12;S;9;19;19;18;19;Chimie;Biosciences;Biosciences
+ET174;F;10.00;S;17;11;11;12;18;Chimie;Biosciences;Biosciences
+ET175;M;10.00;S;16;18;18;12.25;18;Chimie;Biosciences;Biosciences
+ET176;F;13;S;20;18;18;13.50;11;Chimie;Biosciences;Biosciences
+ET177;M;14;S;14;18;18;12;11;Chimie;Biosciences;Biosciences
+ET178;M;10.00;S;8;12;12;10;18;Chimie;Biosciences;Biosciences
+ET179;M;10.00;S;10;11;11;8;15;Chimie;Biosciences;Biosciences
+ET180;M;14;S;11;19;19;12.25;14;Chimie;Biosciences;Biosciences
+ET181;M;12;S;14;13;13;11;11;Chimie;Biosciences;Biosciences
+ET182;F;16;S;6;14;14;9;9;Chimie;Biosciences;Biosciences
+ET183;F;14;S;13;15;15;12;12;Chimie;Biosciences;Biosciences
+ET184;F;12;S;7;12;12;20;6;Chimie;Biosciences;Biosciences
+ET185;M;12;S;8;17;17;19;10;Chimie;Biosciences;Biosciences
+ET186;M;11;S;9;14;14;13;14;Chimie;Biosciences;Biosciences
+ET187;M;15;S;18;11;11;16;12;Chimie;Biosciences;Biosciences
+ET188;F;12;L;18;17;17;18;14;Informatique;Psychologie;Psychologie
+ET189;M;12;S;7;13;13;9;9;Anglais;Psychologie;Psychologie
+ET190;F;11;S;10;12;12;20;12;Mathematiques;Genie Civil;Genie Civil
+ET191;F;10.00;S;11;12;12;10;14;Anglais;Anglais;Anglais
+ET192;M;15;S;17;18;18;19;11;Physiques;Informatique;Business Administration
+ET193;M;14;S;13;19;19;20;9;Mathematiques;Genie Civil;Genie Civil
+ET194;M;13;S;12;18;18;19;10;Informatique;Comptabilité et Finance;Comptabilité et Finance
+ET195;F;14;S;12;19;19;10;9;Mathematiques;Informatique;Informatique
+ET196;M;17;S;18;13;13;15;14;Mathematiques;Genie Logiciel;Genie Logiciel
+ET197;M;14;S;19;13;8.5;10;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Business Administration
+ET198;F;15.5;S;18;12.5;10.5;9;11;Anglais;Comptabilité et Finance;Comptabilité et Finance
+ET199;F;15;S;19;19;19;10;11;Mathematiques;Mathematiques;Mathematiques
+ET200;F;16;S;13;20;20;7;11;Informatique;Informatique;Informatique
+ET201;F;15;S;6;20;20;17;9;Chimie;Informatique;Informatique
+ET202;F;10.00;S;7;11;11;17;19;Informatique;Informatique;Informatique
+ET203;F;11;S;19;11;11;14;14;Informatique;Genie Logiciel;Genie Logiciel
+ET204;F;10.00;S;20;18;18;13;18;Anglais;Anglais;Genie Civil
+ET205;F;10.00;S;20;15;15;17;17;Physiques;Genie Logiciel;Genie Logiciel
+ET206;F;10.00;L;11;14;14;10;14;Informatique;Informatique;Informatique
+ET207;F;11;S;11;11;11;15;19;Finance / Comptabilité / Statistiques;Anglais;Anglais
+ET208;F;12;S;18;10.5;10;9;19;Informatique;Informatique;Informatique
+ET209;F;12;S;15;12;12;10;9;Finance / Comptabilité / Statistiques;Genie Electrique;Genie Electrique
+ET210;F;10.00;S;14;13;8.5;10;14;Anglais;Anglais;Anglais
+ET211;M;12;S;11;10;10;10;10;Anglais;Anglais;Anglais
+ET212;F;12;L;10;15;15;17;13;Informatique;Informatique;Informatique
+ET213;M;11;S;12;10;10;15;9;Chimie;Genie Civil;Genie Mecanique
+ET214;F;10.00;S;12;9;9;13;6;Informatique;Informatique;Informatique
+ET215;F;14;S;10;10;10;12;13;Finance / Comptabilité / Statistiques;Genie Electrique;Mathematiques
+ET216;F;13;S;19;12.5;10.5;11;9;Biologie;Biosciences;Biosciences
+ET217;M;12;S;12;17;17;10;19;Mathematiques;Genie Civil;Genie Civil
+ET218;F;13;S;14;17;17;9;15;Physiques;Genie Mecanique;Genie Mecanique
+ET219;F;13;S;14;14;14;13.50;6;Chimie;Genie Mecanique;Genie Mecanique
+ET220;F;14;S;16;13;13;12.25;11;Biologie;Psychologie;Biosciences
+ET221;F;12;S;6;17;17;7;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET222;F;16;S;6;10;10;8;18;Biologie;Biosciences;Biosciences
+ET223;M;12;S;19;15;15;9;18;Biologie;Biosciences;Biosciences
+ET224;F;13;S;14;9;9;9;9;Biologie;Biosciences;Biosciences
+ET225;F;10.00;S;10;9;10;12;6;Mathematiques;Genie Logiciel;Genie Logiciel
+ET226;F;16;S;20;10;10;10;9;Anglais;Genie Logiciel;Biosciences
+ET227;M;12;S;13;10;10;9;12;Anglais;Anglais;Anglais
+ET228;M;10.00;S;11;17;17;20;10;Mathematiques;Genie Logiciel;Genie Logiciel
+ET229;F;12;L;7;15;15;19;14;Mathematiques;Genie Logiciel;Genie Logiciel
+ET230;F;13;S;11;13;13;12.25;6;Mathematiques;Genie Logiciel;Genie Logiciel
+ET231;M;11;S;10;15;15;8;11;Mathematiques;Genie Logiciel;Genie Logiciel
+ET232;M;11;S;10;17;17;16;11;Mathematiques;Genie Logiciel;Genie Logiciel
+ET233;M;14;S;11;16;16;15;12;Mathematiques;Genie Logiciel;Genie Logiciel
+ET234;M;10.00;S;8;13;13;17;18;Mathematiques;Genie Logiciel;Genie Logiciel
+ET235;M;11;S;17;19;19;16;19;Mathematiques;Genie Logiciel;Genie Logiciel
+ET236;M;14;S;15;10.5;10;13;6;Chimie;Mathematiques;Genie Electrique
+ET237;F;13;S;10;19;19;15.50;14;Informatique;Informatique;Informatique
+ET238;F;13;S;9;10.5;10;13.50;18;Biologie;Mathematiques;Genie Civil
+ET239;M;10.00;S;10;10.5;10;19;11;Biologie;Informatique;Mathematiques
+ET240;M;12;S;7;13;13;13.50;6;Physiques;Genie Civil;Mathematiques
+ET241;M;10.00;L;17;10;10;13.50;18;Informatique;Informatique;Informatique
+ET242;M;13;S;17;15;15;13;11;Informatique;Informatique;Informatique
+ET243;M;13;S;14;13;8.5;10;9;Informatique;Informatique;Informatique
+ET244;F;13;S;13;12;12;15;15;Informatique;Informatique;Informatique
+ET245;M;13.25;S;17;14;14;12.25;16;Informatique;Informatique;Informatique
+ET246;M;12;S;10;20;20;12;15;Informatique;Informatique;Informatique
+ET247;M;13;S;15;15;15;14;17;Informatique;Informatique;Informatique
+ET248;M;10.00;S;9;11;11;20;16;Informatique;Informatique;Informatique
+ET249;M;13;S;10;13;13;15;13;Informatique;Informatique;Informatique
+ET250;M;10.00;S;10;17;17;11;13.50;Informatique;Informatique;Informatique
+ET251;M;11;S;10;16;16;13;9;Informatique;Informatique;Informatique
+ET252;M;13;S;17;12;12;17;19;Informatique;Informatique;Informatique
+ET253;M;14;S;15;15;15;16;9;Informatique;Informatique;Informatique
+ET254;M;11;S;13;12.5;10.5;12;9;Informatique;Business Administration;Business Administration
+ET255;M;13;S;19;11;11;15;13;Informatique;Informatique;Informatique
+ET256;F;13;S;20;9;9;7;10;Informatique;Informatique;Informatique
+ET257;M;11;L;17;14;14;11;15;Informatique;Informatique;Informatique
+ET258;M;15;S;6;13;8.5;9;6;Informatique;Informatique;Informatique
+ET259;F;10.00;S;9;13;13;14;12;Informatique;Informatique;Informatique
+ET260;F;16.25;S;16;8;12.75;12.25;14;Informatique;Informatique;Informatique
+ET261;M;13;S;18;12.5;10.5;13;18;Informatique;Informatique;Informatique
+ET262;M;13;S;12;14;14;8;15;Informatique;Informatique;Informatique
+ET263;F;10.00;S;6;18;18;7;11;Informatique;Informatique;Informatique
+ET264;F;13;S;14;20;20;14;13;Informatique;Informatique;Informatique
+ET265;M;17;L;12;12;12;18;17;Chimie;Genie Electrique;Business Administration
+ET266;M;13;S;6;15;15;20;16;Biologie;Biosciences;Biosciences
+ET267;F;12;S;14;17;17;12;12;Mathematiques;Mathematiques;Mathematiques
+ET268;M;10.00;S;19;13;13;15;15;Chimie;Genie Mecanique;Genie Mecanique
+ET269;F;13;S;12;16;16;17;11;Chimie;Genie Electrique;Genie Electrique
+ET270;F;14;S;15;18;18;13;11;Finance / Comptabilité / Statistiques;Genie Civil;Genie Civil
+ET271;F;15;S;6;9;9;16;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Genie Civil
+ET272;F;11;S;11;20;20;18;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET273;M;15;S;20;10;10;9;6;Physiques;Business Administration;Psychologie
+ET274;F;10.00;S;17;13.50;19;20;13;Informatique;Anglais;Anglais
+ET275;F;12;S;18;20;20;10;14;Physiques;Psychologie;Psychologie
+ET276;F;10.00;L;7;13.75;19;19;11;Physiques;Psychologie;Psychologie
+ET278;M;12;S;18;10;10;20;14;Informatique;Genie Logiciel;Genie Logiciel
+ET279;F;10.00;S;12;13;8.5;19;18;Informatique;Informatique;Informatique
+ET280;M;10.00;S;6;18;18;10;18;Mathematiques;Genie Logiciel;Genie Logiciel
+ET281;M;14;L;19;12;12;12.25;12;Biologie;Biosciences;Biosciences
+ET282;M;11;L;20;14;14;18;15;Anglais;Anglais;Anglais
+ET283;F;12;S;20;9;9;12;17;Biologie;Biosciences;Biosciences
+ET284;F;13;S;14;15;15;14;13;Physiques;Psychologie;Psychologie
+ET285;F;10.00;S;10;19;19;9;16;Informatique;Genie Mecanique;Genie Mecanique
+ET286;M;12;S;20;11;11;15;18;Biologie;Biosciences;Biosciences
+ET287;F;17.2;S;14;18;18;19;9;Biologie;Genie Electrique;Psychologie
+ET288;F;13;S;14;18;18;11;18;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET289;M;15;S;14;18;18;18;10;Informatique;Informatique;Informatique
+ET290;M;15;L;8;12;12;18;19;Anglais;Anglais;Anglais
+ET291;M;12;S;7;11;11;18;18;Mathematiques;Comptabilité et Finance;Business Administration
+ET292;F;15;S;12;13.75;19;12;14.75;Mathematiques;Genie Civil;Genie Civil
+ET293;F;12;S;16;13;13;11;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET294;F;15.3;S;10;14;14;19;6;Informatique;Informatique;Informatique
+ET295;M;14;S;9;15;15;13;18;Informatique;Informatique;Informatique
+ET296;M;14;S;6;10;10;14;12;Informatique;Informatique;Informatique
+ET297;F;10.00;S;15;8;12.75;15;14;Informatique;Informatique;Informatique
+ET298;F;10.00;S;20;10.5;10;7;9;Mathematiques;Comptabilité et Finance;Comptabilité et Finance
+ET299;F;14;S;10;13;13;13.50;15;Mathematiques;Informatique;Genie Mecanique
+ET300;M;16;S;13;10;10;16;19;Physiques;Business Administration;Business Administration
+ET301;F;12;L;9;12;12;10;11;Mathematiques;Business Administration;Business Administration
+ET302;M;11;S;9;8;12.75;16;18;Mathematiques;Comptabilité et Finance;Comptabilité et Finance
+ET303;F;15;S;9;12;12;10;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET304;F;17;S;8;12;12;14;18;Informatique;Informatique;Informatique
+ET305;M;15;S;13;13;13;12;12;Biologie;Biosciences;Biosciences
+ET306;F;14;S;7;12.5;10.5;16;11;Biologie;Biosciences;Biosciences
+ET307;M;17;L;10;10.5;10;9;19;Informatique;Informatique;Informatique
+ET308;M;14;S;20;16;16;12.25;13;Mathematiques;Genie Logiciel;Genie Logiciel
+ET309;M;15;S;19;10;10;9;14;Informatique;Informatique;Informatique
+ET310;F;12;S;14;16;16;7;15;Chimie;Informatique;Biosciences
+ET311;F;10.00;S;10;10;10;16;11;Informatique;Informatique;Genie Mecanique
+ET312;F;14;S;7;14;14;11;9;Chimie;Biosciences;Biosciences
+ET313;M;13;S;7;12;12;20;16;Biologie;Biosciences;Biosciences
+ET314;F;13;S;8;16;16;9;10;Informatique;Informatique;Informatique
+ET315;F;15;S;19;9;9;14;16;Physiques;Biosciences;Biosciences
+ET316;F;13;S;6;13;8.5;15;10;Anglais;Anglais;Anglais
+ET317;F;12;S;12;9;9;12;14;Biologie;Biosciences;Biosciences
+ET318;F;13;S;15;12.5;10.5;11;12;Biologie;Biosciences;Biosciences
+ET319;F;11;S;17;16;16;11;16;Mathematiques;Business Administration;Business Administration
+ET320;F;11;S;12;11;11;11;9;Mathematiques;Genie Civil;Genie Civil
+ET321;F;13;L;16;20;20;16;6;Mathematiques;Genie Civil;Genie Civil
+ET322;F;11;S;16;9;9;19;9;Informatique;Comptabilité et Finance;Comptabilité et Finance
+ET323;F;11;S;7;14;14;19;11;Informatique;Genie Electrique;Genie Electrique
+ET324;F;12;S;12;15;15;11;16;Mathematiques;Genie Logiciel;Genie Logiciel
+ET325;F;16;S;8;12;12;11;11;Chimie;Biosciences;Biosciences
+ET326;M;13;S;20;11;11;15;18;Informatique;Informatique;Informatique
+ET327;M;14;S;15;11;11;12;9;Informatique;Informatique;Informatique
+ET328;M;11;S;11;11;11;14;14;Informatique;Informatique;Informatique
+ET329;F;10.00;S;15;16;16;15;15;Informatique;Comptabilité et Finance;Business Administration
+ET330;F;14;S;10;19;19;8;12;Biologie;Biosciences;Biosciences
+ET331;M;13;S;14;19;19;15;11;Biologie;Biosciences;Biosciences
+ET332;F;12;S;18;11;11;12;11;Biologie;Biosciences;Biosciences
+ET333;F;13;S;20;11;11;11;11;Biologie;Biosciences;Biosciences
+ET334;F;13;S;13;15;15;10;16;Biologie;Biosciences;Biosciences
+ET335;F;10.00;S;17;12;12;13;19;Biologie;Biosciences;Biosciences
+ET336;F;16;S;17;14;14;16;19;Informatique;Genie Civil;Genie Civil
+ET337;F;14;L;12;15;15;18;11;Informatique;Informatique;Informatique
+ET338;F;10.00;S;10;8;12.75;12;11;Informatique;Genie Logiciel;Genie Logiciel
+ET339;F;16;S;10;15;15;9;15;Biologie;Biosciences;Biosciences
+ET340;F;10.00;L;10;18;18;11;12;Anglais;Anglais;Anglais
+ET341;F;11;S;19;10.5;10;15;14;Informatique;Comptabilité et Finance;Genie Mecanique
+ET342;M;10.00;S;10;18;14;13.50;15;Physiques;Biosciences;Biosciences
+ET343;M;16;S;9;13;8.5;12.25;14;Physiques;Mathematiques;Genie Logiciel
+ET345;F;14;L;12;16;16;7;12;Anglais;Comptabilité et Finance;Business Administration
+ET346;F;11;S;12;16;16;8;14;Biologie;Biosciences;Biosciences
+ET347;F;13;S;13;19;19;9;15;Physiques;Genie Civil;Genie Mecanique
+ET348;M;16;S;8;17;17;15;14;Physiques;Psychologie;Genie Mecanique
+ET349;M;10.00;S;10;9;9;17;14;Mathematiques;Genie Logiciel;Genie Logiciel
+ET350;F;13;S;13;13;13;16;9;Mathematiques;Informatique;Informatique
+ET351;M;11;S;20;10;10;13;9;Mathematiques;Informatique;Informatique
+ET352;M;12;S;20;10.5;10;19;9;Informatique;Informatique;Informatique
+ET353;M;13;S;16;12;12;13.50;9;Biologie;Biosciences;Biosciences
+ET354;M;10.00;S;10;8;12.75;19;9;Mathematiques;Comptabilité et Finance;Comptabilité et Finance
+ET355;M;14;S;16;13;8.5;13.50;9;Biologie;Biosciences;Biosciences
+ET356;M;13;S;10;14;14;13.50;18;Anglais;Anglais;Anglais
+ET357;F;10.00;S;10;16;16;13;18;Biologie;Biosciences;Biosciences
+ET358;F;12;S;10;13;13;10;15;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET359;F;12;L;12;13;13;15;19;Physiques;Psychologie;Psychologie
+ET360;M;10.00;S;20;10;10;12.25;10;Physiques;Biosciences;Business Administration
+ET361;F;18;S;11;19;14;12;12;Anglais;Anglais;Anglais
+ET362;F;13;L;17;14;14;14;18;Chimie;Genie Logiciel;Psychologie
+ET363;M;13;S;10;8;12.75;17;18;Informatique;Informatique;Informatique
+ET364;F;11;S;11;16;20;15;18;Mathematiques;Mathematiques;Mathematiques
+ET365;F;16;S;19;8;12.75;11;18;Mathematiques;Biosciences;Biosciences
+ET366;F;12;S;14;15;15;13;12;Chimie;Biosciences;Biosciences
+ET367;M;10.00;S;11;17;17;17;10;Biologie;Biosciences;Biosciences
+ET368;M;13;S;10;9;9;16;14;Biologie;Biosciences;Biosciences
+ET369;F;14;S;18;17;17;12;18;Informatique;Informatique;Informatique
+ET370;F;11;S;8;16;16;15;17;Informatique;Informatique;Informatique
+ET371;F;14;S;11;20;20;7;14;Anglais;Anglais;Anglais
+ET372;F;12;S;12;14;14;11;19;Mathematiques;Informatique;Informatique
+ET374;M;14;S;19;8;12.75;9;19;Informatique;Informatique;Informatique
+ET375;F;13;S;6;10;10;14;9;Informatique;Informatique;Informatique
+ET376;F;11;S;13;11;11;12.25;14;Biologie;Biosciences;Biosciences
+ET377;F;14.50;S;15;14;14;13;10;Anglais;Anglais;Anglais
+ET378;F;10.00;S;15;13;8.5;8;13;Informatique;Informatique;Informatique
+ET379;F;15;S;14;13;13;7;9;Biologie;Biosciences;Biosciences
+ET380;F;10.00;S;8;10;10.5;14;6;Biologie;Business Administration;Business Administration
+ET381;F;15;S;15;8;12.75;18;13;Mathematiques;Genie Mecanique;Genie Mecanique
+ET382;F;10.00;S;10;9;9;20;9;Informatique;Genie Logiciel;Informatique
+ET383;M;15;S;10;18;18;12;19;Biologie;Biosciences;Biosciences
+ET384;M;13;S;20;18;18;15;15;Informatique;Genie Civil;Genie Civil
+ET385;M;11;S;9;12.5;10.5;17;6;Chimie;Biosciences;Biosciences
+ET386;M;10.00;S;12;10.5;10;13;11;Anglais;Anglais;Anglais
+ET387;M;10.00;S;11;11;11;16;15;Chimie;Biosciences;Biosciences
+ET388;F;10.00;S;14;17;17;18;18;Physiques;Psychologie;Psychologie
+ET389;F;11;S;8;13;13;9;18;Informatique;Informatique;Informatique
+ET390;F;13;S;20;12;12;20;18;Informatique;Informatique;Informatique
+ET391;F;12;S;14;12;12;10;6;Informatique;Genie Civil;Genie Civil
+ET392;F;12;S;13;18;18;19;9;Anglais;Anglais;Anglais
+ET393;M;14;L;15;19;19;20;12;Informatique;Business Administration;Business Administration
+ET394;M;14;S;18;18;18;19;10;Informatique;Business Administration;Business Administration
+ET395;M;10.00;S;12;19;19;10;14;Informatique;Genie Electrique;Genie Electrique
+ET396;M;11;S;17;13;13;12.25;6;Anglais;Biosciences;Biosciences
+ET397;M;13;S;16;13;8.5;18;11;Biologie;Biosciences;Biosciences
+ET398;F;15;L;19;12.5;10.5;12;11;Anglais;Biosciences;Biosciences
+ET399;F;10.00;S;10;19;19;14;12;Biologie;Business Administration;Biosciences
+ET400;F;10.00;S;10;20;20;9;18;Biologie;Business Administration;Biosciences
+ET401;F;15;S;13;20;20;15;19;Biologie;Business Administration;Biosciences
+ET402;F;12;S;10;11;11;19;10;Anglais;Anglais;Anglais
+ET403;M;15;S;17;11;11;11;16;Chimie;Business Administration;Business Administration
+ET404;M;12;S;13;18;18;18;16;Biologie;Biosciences;Biosciences
+ET405;F;11;L;14;15;15;18;18;Biologie;Biosciences;Biosciences
+ET406;M;16;L;10;14;14;18;11;Chimie;Mathematiques;Genie Electrique
+ET407;M;14;S;16;11;11;12;15;Chimie;Genie Electrique;Genie Civil
+ET408;F;10.00;S;12;10.5;10;11;18;Chimie;Genie Civil;Genie Civil
+ET409;F;10.00;S;9;12;12;19;9;Biologie;Biosciences;Biosciences
+ET410;M;14;S;6;13;8.5;13;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Mathematiques
+ET411;M;10.00;S;10;10;10;14;13;Anglais;Informatique;Informatique
+ET412;M;14;L;16;19;19;10;9;Biologie;Biosciences;Biosciences
+ET413;F;14;S;16;12;12;16;18;Anglais;Genie Mecanique;Genie Electrique
+ET414;F;13;S;18;14;14;12;19;Informatique;Informatique;Informatique
+ET415;F;17;S;7;14;14;11;14;Physiques;Psychologie;Psychologie
+ET456;M;10.00;S;15;16;16;13;14;Physiques;Biosciences;Biosciences
+ET417;M;10.00;S;18;13;8.5;17;9;Physiques;Psychologie;Psychologie
+ET418;M;13;S;9;13;8.5;12;15;Biologie;Biosciences;Biosciences
+ET419;M;12;S;9;19;19;10;19;Anglais;Genie Civil;Genie Logiciel
+ET420;M;15;S;13;14;14;8;11;Mathematiques;Genie Logiciel;Genie Logiciel
+ET421;M;13;S;10;10.5;10;20;18;Biologie;Mathematiques;Genie Mecanique
+ET422;F;10.00;S;20;20;20;17;18;Mathematiques;Genie Mecanique;Informatique
+ET423;F;11;S;19;13;13;8;18;Biologie;Genie Electrique;Genie Electrique
+ET424;M;12;S;8;11;11;19;12;Mathematiques;Informatique;Informatique
+ET425;M;15;S;20;12.5;10.5;19;11;Biologie;Biosciences;Biosciences
+ET426;M;11;L;17;11;11;13.50;19;Chimie;Mathematiques;Genie Electrique
+ET427;M;10.00;S;8;10.5;10;14;13;Chimie;Mathematiques;Genie Mecanique
+ET428;M;10.00;S;19;18;10.5;10;14;Biologie;Biosciences;Biosciences
+ET429;M;17;S;19;11;15;13;15;Anglais;Comptabilité et Finance;Genie Electrique
+ET490;M;17;S;10;8;20;9;10;Biologie;Biosciences;Biosciences
+ET431;M;11;S;14;17;10;12.25;16;Informatique;Informatique;Informatique
+ET432;M;12;S;10;15;13;13;16;Mathematiques;Genie Logiciel;Genie Logiciel
+ET433;F;10.00;S;13;10;8.5;13.50;18;Finance / Comptabilité / Statistiques;Business Administration;Comptabilité et Finance
+ET434;M;15;S;9;9;10;19;11;Biologie;Biosciences;Biosciences
+ET435;M;15;L;6;10;12;15;15;Anglais;Anglais;Anglais
+ET436;F;12;S;13;12.5;10;12.25;18;Anglais;Biosciences;Biosciences
+ET437;F;14;S;10;17;12.75;7;9;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET438;F;12;S;19;17;8.5;15;9;Physiques;Psychologie;Psychologie
+ET439;M;12;S;15;14;10;20;13;Informatique;Informatique;Informatique
+ET440;M;15.50;S;6;13;9;18;9;Anglais;Anglais;Anglais
+ET441;M;10.00;S;7;17;14;10;19;Biologie;Biosciences;Biosciences
+ET442;F;10.00;S;15;10;20;12.25;19;Informatique;Informatique;Informatique
+ET443;F;12;L;20;15;19;13.50;14;Anglais;Mathematiques;Mathematiques
+ET444;F;11;L;18;9;18;12;18;Informatique;Informatique;Informatique
+ET445;M;16.32;S;10;10;15;10;17;Chimie;Mathematiques;Mathematiques
+ET446;M;15;S;6;10;8.5;8;14;Finance / Comptabilité / Statistiques;Genie Civil;Genie Logiciel
+ET447;F;12;S;10;10;10;12.25;19;Informatique;Informatique;Informatique
+ET448;F;12;S;12;17;12;11;19;Biologie;Biosciences;Mathematiques
+ET449;F;11;S;10;15;10;9;9;Biologie;Mathematiques;Genie Civil
+ET450;M;11;L;8;13;12.75;12;14;Informatique;Genie Mecanique;Genie Electrique
+ET451;F;11;S;6;19;8.5;20;10;Physiques;Genie Electrique;Genie Logiciel
+ET452;F;10.00;L;8;20;10;19;13;Chimie;Informatique;Informatique
+ET453;F;11;L;12;17;9;14;9;Informatique;Informatique;Informatique
+ET454;F;14;L;13;13;10;12;6;Anglais;Anglais;Anglais
+ET455;M;14;S;20;9;20;10;13;Anglais;Anglais;Psychologie
+ET456;M;13;S;19;16;19;11;9;Anglais;Biosciences;Anglais
+ET457;F;15;S;16;13;15;12.25;14;Physiques;Genie Mecanique;Genie Logiciel
+ET458;F;10.00;S;7;10;8.5;15;15;Finance / Comptabilité / Statistiques;Mathematiques;Biosciences
+ET459;F;10.00;S;14;11;10.5;15;17;Informatique;Informatique;Informatique
+ET460;F;15;S;7;11;15;18;14;Anglais;Biosciences;Genie Civil
+ET461;F;10.00;S;9;18;15;18;19;Anglais;Informatique;Genie Electrique
+ET462;F;10.00;S;10;15;18;10;19;Anglais;Biosciences;Informatique
+ET463;F;16;S;16;14;12;12.25;9;Anglais;Informatique;Informatique
+ET464;M;13;L;15;11;8.5;13.50;14;Informatique;Informatique;Comptabilité et Finance
+ET465;F;15;S;17;10.5;10;12;10;Biologie;Informatique;Biosciences
+ET466;F;12;S;16;12;12;10;13;Informatique;Informatique;Informatique
+ET467;F;16;S;13;13;10;8;9;Informatique;Informatique;Genie Civil
+ET468;M;13;S;19;10;12.75;12.25;6;Biologie;Biosciences;Biosciences
+ET469;M;10.00;S;10;19;8.5;11;13;Informatique;Informatique;Informatique
+ET470;F;12;S;19;12;11;8;9;Biologie;Biosciences;Biosciences
+ET471;M;12;S;10;14;9;12;19;Anglais;Genie Electrique;Mathematiques
+ET472;F;11;S;10;14;14;17;15;Biologie;Biosciences;Biosciences
+ET473;M;14;S;13;16;14;19;6;Informatique;Genie Logiciel;Genie Logiciel
+ET474;M;11;S;10;13;16;11;11;Physiques;Genie Electrique;Genie Electrique
+ET475;F;11;S;15;13;11;17;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET476;M;15;S;6;19;17;13;16.50;Anglais;Anglais;Anglais
+ET477;F;11;S;12;14;13;12;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET478;M;10.00;S;14;10.5;12;12;12.75;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET479;M;11;S;20;20;12;18;6;Biologie;Biosciences;Biosciences
+ET480;F;15;S;15;13;18;19;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET481;M;15;S;11;11;19;18;12;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET482;F;15;S;13;12.5;18;19;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET483;F;15;S;17;11;19;13;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET484;F;15;S;16;10.5;13;12.25;6;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET485;F;13;S;12;18;8.5;7;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET486;M;11;S;15;11;10.5;19;12.25;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET487;M;14;L;14.50;8;19;10;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET488;F;15;S;11;17;20;11;17;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET489;F;16;S;9;15;20;11;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET490;F;13;S;14;10;11;16;6;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET491;F;11;S;6;9;11;18;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET492;M;11;S;13;10;18;15;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET493;F;11;S;8;12.5;15;14;19;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET494;M;11;S;7;17;14;11;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET495;F;10.00;S;14;17;11;13.50;6;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET496;F;11;S;18;14;10;12;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET497;F;12;S;20;13;12;12.25;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET498;M;12;S;12;17;8.5;10;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET499;M;16;S;15;10;10;11.5;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET500;M;10.00;S;17;15;12;12.25;15.75;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET501;F;12;S;13;9;12;13;6;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET502;M;16;L;16;10;11;12;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET503;F;10.00;L;18;10;17;11;17;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET504;F;10.00;S;9;10;16;13.50;16;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET505;M;16;S;20;17;17;15;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET506;M;10.00;S;10;15;14;9;19;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET507;F;14;S;19;13;12.50;13;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET508;M;18;L;20;19;11;12;19;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET509;F;13;S;19;20;10;12;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET510;F;10.00;S;10;17;14.50;13.50;9;Informatique;Informatique;Informatique
+ET511;M;18;S;9;16;12;13.50;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET512;M;12;S;18;9;10;14;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET513;M;15;S;12;13;18;8;15;Informatique;Informatique;Informatique
+ET514;M;11;S;14;12.5;13;13.50;6;Informatique;Informatique;Informatique
+ET515;M;13;S;9;15;10.5;19;12;Informatique;Informatique;Informatique
+ET516;M;13;S;15;18;19;8;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET517;M;14;S;19;18;12.75;20;16;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET518;F;16;S;11;14;14;17;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET519;M;16;S;18;13;17;8;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET520;F;13;S;18;8;12.75;19;13;Informatique;Informatique;Informatique
+ET521;M;14;S;18;12;19;19;17;Informatique;Informatique;Informatique
+ET522;F;10.00;S;12;10;19;13.50;16;Anglais;Business Administration;Anglais
+ET523;M;13;S;11;8;10;14;12;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET524;F;13;L;19;13;14;10;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET525;F;14;S;13;8;10;13;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET526;M;15;S;14;12.25;13;9;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET527;M;16;S;15;13.5;9;12.25;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET528;F;12;S;12;20;8.5;13;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET529;F;13;S;17;19;13;13.50;6;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET530;F;10.00;S;14;11;10;19;13;Informatique;Informatique;Informatique
+ET531;F;12;L;9;17;19;15;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET532;M;10.00;S;18;13;15;12.25;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET533;F;11;S;19;12;8.5;7;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET534;M;10.00;S;19;12;10.5;15;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET535;F;12;L;17;18;15;20;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET536;M;14;S;9;19;20;18;12;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET537;F;16;S;14;18;18;12;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET538;M;13;S;8;19;16;12.25;17;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET539;M;11;S;17;13;8.5;13.50;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET540;F;14;S;9;13;10;12;16;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET541;F;14;S;20;12.5;12;10;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET542;M;12;S;17;19;10;8;9;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET543;F;10.00;S;14;20;12.75;12.25;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET544;F;10.00;S;13;20;8.5;11;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET545;F;10.00;S;16;11;12;8;19;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET546;M;15;S;16;11;9;13;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET547;M;10.00;L;16;18;14;18;19;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET548;M;16;S;17;15;20;17;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET549;M;12;S;14;14;19;10;6;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET550;F;10.00;S;19;11;11;14;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET551;M;12;S;7;10.5;14;20;12;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET552;F;11;S;9;12;20;13;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET553;M;11;S;10;9;12.75;14;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET554;M;16;S;7;10;10.5;18;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET555;F;13;S;15;14;18;7;19;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET556;M;17;S;17;12;10.5;13.50;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET557;M;10.00;S;17;17;10;15;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET558;M;10.00;S;8;16;15;16;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET559;M;14;S;10;13;16;15;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET560;M;14;S;8;14;15;17;12;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET561;M;10.00;S;10;11;17;16;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET562;M;14;S;13;12;16;13;19;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET563;M;12;S;10;10;13;19;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET564;M;10.00;S;12;13;19;13.50;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET565;F;14;S;9;17;10;19;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET566;F;10.00;S;12;10.5;19;13.50;12;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET567;F;14;S;12;12;10;13.50;12;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET568;M;12;S;13;12;10;13;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET569;M;13;S;7;12;13;10;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET570;M;13;S;10;10.5;10;15;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET571;F;12;S;16;19;15;12.25;16;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET572;F;10.00;S;10;8;8.5;12;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET573;M;10.00;S;16;20;12;14;16;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET574;F;13;S;10;17;14;20;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET575;M;14;S;14;8;20;15;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET576;M;10.00;S;12;19;15;11;12;Informatique;Informatique;Informatique
+ET577;M;10.00;S;16;19;11;13;16;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET578;M;14;S;9;10.5;13;17;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET579;M;12;S;6;14;17;16;6;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET580;F;16;S;9;10;16;12;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET581;F;14;S;7;13;12;15;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET582;F;12;S;16;9;15;7;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET583;M;12;S;11;13;10.5;11;17;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET584;M;11;S;20;13;11;9;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET585;M;15;S;9;10.5;9;14;19;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET586;F;12;L;14;19;14;12.25;19;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET587;M;12;S;15;15;8.5;13;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET588;F;11;S;12;13;13;8;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET589;F;10.00;S;11;12.5;12.75;7;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET590;M;15;S;11;15;10.5;14;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET591;M;14;S;11;20;14;18;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET592;M;13;S;16;18;18;20;6;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET593;F;14;S;19;12;20;12;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET594;M;17;S;19;13;12;15;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET595;M;14;S;11;10.5;15;17;19;Chimie;Genie Mecanique;Genie Logiciel
+ET596;F;18;S;11;12;17;13;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET597;F;15;S;15;10;13;16;6;Anglais;Mathematiques;Genie Civil
+ET598;F;16;S;12;8;16;18;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET599;F;15;S;14;13;18;9;15;Anglais;Psychologie;Mathematiques
+ET600;F;10.00;S;15;8;9;20;18;Physiques;Comptabilité et Finance;Mathematiques
+ET601;F;11;S;8;12.25;20;10;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET602;F;10.00;S;15;13.5;10;17;12;Chimie;Comptabilité et Finance;Mathematiques
+ET603;F;10.00;S;18;20;17;16;6;Finance / Comptabilité / Statistiques;Psychologie;Biosciences
+ET604;F;10.00;L;10;19;16;17;9;Anglais;Informatique;Informatique
+ET605;F;11;S;18;12.75;19;10;12;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET606;F;12;S;6;14;10;12.25;10;Physiques;Comptabilité et Finance;Genie Civil
+ET607;F;12;S;16;20;8.5;18;14;Physiques;Psychologie;Genie Civil
+ET608;F;10.00;S;16;12.25;18;12;6;Anglais;Biosciences;Biosciences
+ET609;M;12;S;19;13;12;14;11;Informatique;Psychologie;Comptabilité et Finance
+ET610;F;12;L;17;18;14;9;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET611;M;11;S;9;12.5;9;15;12;Finance / Comptabilité / Statistiques;Genie Mecanique;Genie Logiciel
+ET612;F;10.00;S;13;10.5;15;19;18;Finance / Comptabilité / Statistiques;Anglais;Psychologie
+ET613;F;14;S;10;15;19;11;19;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET614;F;13;S;10;16;11;18;13;Informatique;Genie Electrique;Genie Civil
+ET615;M;12;S;12;15;18;18;16;Chimie;Business Administration;Psychologie
+ET616;F;13;S;8;17;18;18;18;Anglais;Psychologie;Psychologie
+ET617;F;13;S;6;16;18;12;9;Physiques;Genie Mecanique;Genie Electrique
+ET618;F;14;S;14;13;12;11;18;Informatique;Genie Mecanique;Genie Civil
+ET619;F;12;S;16;19;11;19;10;Anglais;Anglais;Business Administration
+ET620;F;16;S;13;10.5;19;13;19;Biologie;Anglais;Genie Mecanique
+ET621;M;12;S;13;19;13;14;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET622;F;13;S;10;10.5;14;15;19;Physiques;Anglais;Genie Logiciel
+ET623;F;10.00;S;19;10.5;15;7;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET624;F;16;S;14;13;10.5;13.50;6;Chimie;Business Administration;Genie Electrique
+ET625;M;12;S;8;10;10;16;18;Anglais;Genie Electrique;Mathematiques
+ET626;M;10.00;S;20;15;16;10;12;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET627;F;12;L;8;13;10;16;14;Chimie;Genie Civil;Genie Electrique
+ET628;F;13;S;15;12;16;10;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET629;M;11;S;17;14;10;14;15;Anglais;Psychologie;Mathematiques
+ET630;M;11;S;9;20;14;12;19;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET631;M;14;S;17;15;12;16;11;Chimie;Genie Logiciel;Genie Logiciel
+ET632;M;10.00;S;16;11;16;9;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET633;M;11;S;20;13;9;12.25;18;Biologie;Genie Electrique;Comptabilité et Finance
+ET634;M;14;S;14;17;8.5;9;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET635;F;13;S;8;16;9;7;12;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET636;F;13;S;10;12;10.5;16;11;Anglais;Informatique;Psychologie
+ET637;M;10.00;S;11;15;16;11;19;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET638;M;12;S;14;12.5;11;20;13;Physiques;Psychologie;Anglais
+ET639;M;10.00;L;6;11;20;9;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET640;M;13;S;13;9;9;14;15;Biologie;Informatique;Business Administration
+ET641;M;13;S;7;14;14;15;12;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET642;F;13;S;8;13;15;12;17;Chimie;Comptabilité et Finance;Informatique
+ET643;M;18;S;9;13;12;11;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET644;M;12;S;18;8;11;11;11;Mathematiques;Mathematiques;Anglais
+ET645;M;13;S;18;12.5;11;11;17;Finance / Comptabilité / Statistiques;Anglais;Psychologie
+ET646;M;10.00;S;7;14;11;16;13;Chimie;Psychologie;Genie Mecanique
+ET647;M;13;S;10;18;16;19;12;Finance / Comptabilité / Statistiques;Psychologie;Genie Civil
+ET648;M;10.00;S;11;20;19;19;12;Physiques;Informatique;Informatique
+ET649;M;11;S;17;12;19;11;18;Chimie;Genie Civil;Comptabilité et Finance
+ET650;M;13;S;13;15;11;11;19;Anglais;Genie Mecanique;Psychologie
+ET651;M;14;S;12;17;11;15;18;Physiques;Psychologie;Informatique
+ET652;M;11;S;12;13;15;12;19;Finance / Comptabilité / Statistiques;Anglais;Psychologie
+ET653;M;13;S;18;16;12;14;13;Finance / Comptabilité / Statistiques;Biosciences;Psychologie
+ET654;F;13;S;19;18;14;15;6;Biologie;Mathematiques;Genie Electrique
+ET655;M;11;L;9;9;15;8;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET656;M;15;S;19;20;12.75;12;19;Finance / Comptabilité / Statistiques;Genie Logiciel;Informatique
+ET657;F;10.00;S;13;10;12;14;18;Mathematiques;Informatique;Comptabilité et Finance
+ET658;F;17;S;6;19;14;15;18;Mathematiques;Mathematiques;Genie Logiciel
+ET659;M;13;S;7;20;15;8;11;Finance / Comptabilité / Statistiques;Informatique;Informatique
+ET660;M;13;S;8;19;12.75;14;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET661;F;10.00;S;20;10;14;13.50;18;Chimie;Informatique;Genie Electrique
+ET662;F;13;S;17;13;10;13.50;15;Informatique;Informatique;Informatique
+ET663;M;17;L;8;18;10;13.50;14;Physiques;Genie Civil;Genie Civil
+ET664;M;13;S;19;12;10;13.50;11;Informatique;Genie Civil;Genie Logiciel
+ET665;F;12;S;19;14;10;13.50;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Business Administration
+ET666;M;10.00;S;10;9;10;13.50;12;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET667;F;13;S;14;15;10;20;6;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET668;F;14;S;10;19;20;18;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET669;F;15;S;13;11;18;15;15;Informatique;Informatique;Informatique
+ET670;F;11;S;9;18;15;19;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET671;M;15;S;6;18;19;12;9;Informatique;Informatique;Informatique
+ET672;F;10.00;S;13;18;12.75;9;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET673;F;12;S;10;12;9;20;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET674;F;10.00;L;19;11;20;20;17;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET675;M;12;S;15;19;20;20;17;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET676;F;10.00;S;6;13;20;18;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET677;M;10.00;S;7;14;18;12;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET678;M;14;L;15;15;12;10;17;Informatique;Informatique;Informatique
+ET679;M;11;L;20;12.5;10;8;10;Informatique;Informatique;Informatique
+ET680;F;12;S;18;10.5;12.75;20;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET681;F;13;S;9;16;20;17;9;Informatique;Informatique;Informatique
+ET682;F;10.00;S;6;10;17;8;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET683;M;12;S;10;16;12.75;19;10;Informatique;Informatique;Informatique
+ET684;F;16.75;S;12;10;19;19;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET685;F;13;S;10;14;19;13.50;17;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET686;M;15;S;8;12;10;14;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET687;M;15;L;6;16;14;10;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET688;M;12;S;8;9;10;13;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Business Administration
+ET689;F;15;S;10;13;13;9;17;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET690;F;12;S;9;9;9;12.25;16;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET691;F;18;S;20;12.5;8.5;13;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET692;M;14;S;19;16;13;13.50;19;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET693;M;14;S;6;11;10;19;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET694;F;10.00;S;13;20;19;15;19;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET695;F;10.00;S;10;9;15;12.25;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET696;F;14;S;19;14;8.5;7;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET697;M;16;S;15;15;10.5;15;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET698;F;12;L;6;12;15;20;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET699;M;11;S;7;11;20;18;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET700;F;15;S;15;11;18;12;6;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET701;F;17;S;20;11;12.75;12.25;12;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET702;M;15;S;18;16;8.5;13.50;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET703;F;14;S;9;19;10;12;18;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET704;M;17;L;6;19;12;10;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET705;M;14;S;10;11;10;8;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET706;M;15;S;17;11;12.75;12.25;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET707;F;12;S;16;15;8.5;11;17;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET708;F;10.00;S;13;12;10;9;16;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET709;F;14;S;9;14;9;12;12;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET710;M;13;S;10;15;14;20;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET711;F;13;S;19;8;20;19;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET712;F;15;S;10;12;19;10;11;Chimie;Informatique;Biosciences
+ET713;F;13;S;10;14;10;16;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET714;F;12;S;13;15;16;16;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET715;F;13;S;10;8;16;18;6;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET716;F;11;S;15;14;18;7;13;Informatique;Genie Electrique;Genie Civil
+ET717;F;11;S;6;10.5;10.5;15;14;Mathematiques;Genie Civil;Business Administration
+ET718;F;13;L;12;10.5;15;18;11;Physiques;Informatique;Comptabilité et Finance
+ET719;F;11;S;14;10.5;18;9;14;Anglais;Anglais;Psychologie
+ET720;F;11;S;20;10.5;9;9;18;Biologie;Psychologie;Mathematiques
+ET721;F;12;S;15;10.5;9;13;18;Anglais;Biosciences;Mathematiques
+ET722;F;16;S;11;10.5;13;13.50;12;Physiques;Genie Electrique;Genie Civil
+ET723;M;13;S;13;20;10;20;15;Biologie;Genie Civil;Business Administration
+ET724;M;14;S;17;18;20;19;17;Anglais;Genie Mecanique;Genie Logiciel
+ET725;M;11;S;16;15;19;8;13;Informatique;Informatique;Genie Civil
+ET726;F;10.00;S;12;19;12.75;14;16;Chimie;Genie Mecanique;Anglais
+ET727;F;14;S;15;12.75;14;9;18;Finance / Comptabilité / Statistiques;Genie Civil;Genie Civil
+ET728;M;13;S;7;12.25;9;15;9;Anglais;Mathematiques;Psychologie
+ET729;F;12;S;11;20;15;19;18;Physiques;Genie Electrique;Comptabilité et Finance
+ET730;F;13;S;9;20;19;11;10;Mathematiques;Informatique;Genie Logiciel
+ET731;F;13;S;14;20;11;18;19;Finance / Comptabilité / Statistiques;Genie Civil;Informatique
+ET732;F;10.00;S;6;18;18;18;18;Anglais;Biosciences;Mathematiques
+ET733;F;16;S;13;12;18;18;19;Informatique;Informatique;Genie Mecanique
+ET734;F;14;L;8;10;18;12;10;Finance / Comptabilité / Statistiques;Genie Logiciel;Psychologie
+ET735;F;10.00;S;7;8;12;11;6;Biologie;Genie Mecanique;Business Administration
+ET736;F;16;S;14;20;11;19;18;Mathematiques;Comptabilité et Finance;Genie Mecanique
+ET737;F;10.00;L;18;17;19;13;12;Finance / Comptabilité / Statistiques;Informatique;Mathematiques
+ET738;F;11;S;20;8;13;14;14;Anglais;Biosciences;Comptabilité et Finance
+ET739;M;10.00;S;12;19;14;15;9;Anglais;Genie Mecanique;Biosciences
+ET740;M;16;S;15;19;15;10;15;Informatique;Business Administration;Business Administration
+ET741;F;14;L;17;10.5;10;16;19;Anglais;Genie Civil;Comptabilité et Finance
+ET742;F;11;S;13;14;16;16;11;Finance / Comptabilité / Statistiques;Genie Electrique;Genie Mecanique
+ET743;F;13;S;16;10;16;18;18;Finance / Comptabilité / Statistiques;Genie Civil;Genie Logiciel
+ET744;M;16;S;18;13;18;7;18;Biologie;Genie Electrique;Informatique
+ET745;M;10.00;S;9;9;10.5;15;18;Mathematiques;Genie Civil;Biosciences
+ET746;F;13;S;20;13;15;18;12;Chimie;Psychologie;Genie Logiciel
+ET747;M;11;S;10;13;18;9;11;Physiques;Comptabilité et Finance;Informatique
+ET748;M;12;S;19;10.5;9;9;19;Anglais;Genie Logiciel;Genie Logiciel
+ET749;M;13;S;20;19;9;18;13;Anglais;Psychologie;Informatique
+ET750;M;10.00;S;19;15;13;12;14;Anglais;Genie Electrique;Genie Civil
+ET751;M;14;S;10;13;17;11;15;Anglais;Genie Electrique;Genie Electrique
+ET752;M;13;S;6;12.5;16;19;10;Chimie;Genie Civil;Psychologie
+ET753;F;10.00;S;18;15;12;13;14;Physiques;Genie Civil;Genie Electrique
+ET754;F;12;S;12;20;15;14;9;Anglais;Genie Civil;Genie Electrique
+ET755;F;12;L;14;18;10.5;15;13;Anglais;Mathematiques;Genie Electrique
+ET756;M;10.00;S;9;12.75;11;12;10;Physiques;Mathematiques;Informatique
+ET757;F;18;S;15;13;9;12;12;Informatique;Genie Mecanique;Psychologie
+ET758;F;13;L;19;10.5;14;13;14;Finance / Comptabilité / Statistiques;Anglais;Mathematiques
+ET759;M;13;S;11;12;8.5;7;12;Mathematiques;Informatique;Genie Electrique
+ET760;F;11;S;18;10;13;13.50;12;Anglais;Anglais;Anglais
+ET761;F;16;S;18;8;12.75;16;13;Biologie;Biosciences;Biosciences
+ET762;F;12;S;18;13;10.5;10;11;Biologie;Biosciences;Biosciences
+ET763;M;10.00;S;12;8;14;16;9;Informatique;Informatique;Informatique
+ET764;M;13;S;11;12.25;18;10;16;Informatique;Informatique;Informatique
+ET765;F;14;S;19;13.5;20;14;10;Biologie;Biosciences;Biosciences
+ET766;F;11;S;13;20;12;12;16;Informatique;Informatique;Informatique
+ET767;F;14;S;14;19;15;16;10;Chimie;Genie Logiciel;Genie Logiciel
+ET768;F;12;S;15;10;17;9;14;Chimie;Psychologie;Psychologie
+ET769;M;14;S;12;16;13;12.25;12;Physiques;Psychologie;Psychologie
+ET770;F;13;S;12;16;16;9;16;Mathematiques;Mathematiques;Mathematiques
+ET771;F;11;S;13;18;18;7;9;Physiques;Psychologie;Psychologie
+ET772;F;19;S;7;12.5;9;20;6;Biologie;Biosciences;Biosciences
+ET773;F;10.00;S;10;15;20;17;9;Informatique;Informatique;Informatique
+ET774;F;15;S;16;18;10;8;11;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET775;F;10.00;S;10;9;19;19;16;Anglais;Anglais;Anglais
+ET776;F;15;S;16;9;20;19;11;Anglais;Anglais;Anglais
+ET777;F;10.00;S;10;13;19;13.50;18;Chimie;Biosciences;Biosciences
+ET778;M;15;S;14;10.5;10;14;9;Chimie;Genie Civil;Genie Civil
+ET779;M;13;S;12;20;8.5;10;14;Informatique;Genie Electrique;Genie Electrique
+ET780;M;11;S;16;19;18;13;15;Biologie;Biosciences;Biosciences
+ET781;M;10.00;S;9;8;12;9;12;Biologie;Biosciences;Biosciences
+ET782;M;10.00;S;6;14;14;12.25;11;Biologie;Biosciences;Biosciences
+ET783;F;10.00;S;9;9;9;13;11;Informatique;Informatique;Informatique
+ET784;F;11;S;7;15;15;13.50;11;Informatique;Informatique;Informatique
+ET785;F;13;S;20;19;19;19;16;Informatique;Informatique;Informatique
+ET786;F;12;S;17;11;11;15;19;Informatique;Informatique;Informatique
+ET787;F;12;S;8;18;18;12.25;19;Informatique;Informatique;Informatique
+ET788;M;14;L;19;18;18;7;11;Informatique;Informatique;Informatique
+ET789;M;14;S;19;18;18;15;11;Chimie;Genie Logiciel;Genie Logiciel
+ET790;M;10.00;S;10;12;12;20;15;Chimie;Genie Logiciel;Genie Logiciel
+ET791;M;11;S;14;11;11;18;12;Chimie;Genie Logiciel;Genie Logiciel
+ET792;M;13;S;10;19;19;12;14;Chimie;Genie Logiciel;Genie Logiciel
+ET793;F;15;L;13;13;13;12.25;15;Chimie;Genie Logiciel;Genie Logiciel
+ET794;F;10.00;S;9;14;14;13.50;14;Chimie;Genie Logiciel;Genie Logiciel
+ET795;F;10.00;S;6;15;15;12;15;Chimie;Genie Logiciel;Genie Logiciel
+ET796;F;15;S;13;10;12;10;18;Mathematiques;Mathematiques;Mathematiques
+ET797;F;12;S;10;16;12;8;9;Mathematiques;Mathematiques;Mathematiques
+ET798;M;15;S;19;16;13;12.25;18;Mathematiques;Mathematiques;Mathematiques
+ET799;M;12;S;15;18;10.5;11;6;Mathematiques;Mathematiques;Mathematiques
+ET800;F;11;L;6;12.5;10;9;16;Mathematiques;Mathematiques;Genie Mecanique
+ET801;M;16;L;7;15;16;12;16;Mathematiques;Mathematiques;Mathematiques
+ET802;M;14;S;15;18;10;20;19;Mathematiques;Mathematiques;Mathematiques
+ET803;F;10.00;S;20;9;16;19;17;Anglais;Anglais;Anglais
+ET804;F;10.00;S;18;9;10;13;9;Anglais;Anglais;Anglais
+ET805;M;14;S;9;12.75;14;16;13;Anglais;Anglais;Anglais
+ET806;M;10.00;S;6;13;12;18;10;Anglais;Anglais;Anglais
+ET807;M;14;L;10;10.5;16;9;9;Anglais;Anglais;Anglais
+ET808;F;14;S;12;12;9;20;12;Anglais;Anglais;Anglais
+ET809;F;13;S;10;10;8.5;10;14;Anglais;Anglais;Anglais
+ET810;F;17;S;8;8;9;19;6;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET811;M;10.00;S;6;13;10.5;20;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET812;M;10.00;S;8;8;20;19;16;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET813;M;13;S;10;12.25;17;10;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET814;M;12;S;9;13.5;12.75;12.25;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET815;M;15;S;20;20;19;18;10;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET816;M;13;S;19;19;19;12;19;Informatique;Genie Mecanique;Genie Mecanique
+ET817;F;10.00;S;13;13;10;14;14;Informatique;Genie Mecanique;Genie Mecanique
+ET818;F;11;S;16;16;14;9;14;Informatique;Genie Mecanique;Genie Mecanique
+ET819;M;12;S;18;18;10;15;18;Informatique;Genie Mecanique;Genie Mecanique
+ET820;M;15;S;9;9;13;19;14;Informatique;Genie Mecanique;Genie Mecanique
+ET821;M;11;L;20;20;9;11;15;Informatique;Genie Mecanique;Genie Mecanique
+ET822;M;10.00;S;10;10;8.5;18;17;Biologie;Genie Electrique;Genie Electrique
+ET823;M;10.00;S;19;19;13;18;9;Biologie;Biosciences;Biosciences
+ET824;F;17;S;20;20;10;18;17;Biologie;Biosciences;Biosciences
+ET825;F;17;S;19;19;19;12;16;Biologie;Biosciences;Biosciences
+ET826;F;11;S;10;10;15;11;18;Biologie;Biosciences;Biosciences
+ET827;F;12;S;6;13;8.5;19;14;Biologie;Biosciences;Biosciences
+ET828;F;10.00;S;18;18;10.5;13;14;Biologie;Biosciences;Biosciences
+ET829;M;15;S;12;12;15;14;10;Anglais;Anglais;Anglais
+ET830;M;15;L;14;14;20;15;11;Anglais;Anglais;Anglais
+ET831;F;12;S;9;9;18;12;14;Anglais;Anglais;Anglais
+ET832;F;14;S;15;15;12.75;17;6;Anglais;Anglais;Anglais
+ET833;F;12;S;19;19;8.5;14;13;Anglais;Anglais;Anglais
+ET834;M;12;S;11;11;10;11;11;Biologie;Biosciences;Biosciences
+ET835;M;16.32;S;18;18;12;17;14;Biologie;Biosciences;Biosciences
+ET836;M;10.00;S;18;18;10;13;9;Biologie;Biosciences;Biosciences
+ET837;F;10.00;S;18;18;12.75;12;18;Informatique;Mathematiques;Mathematiques
+ET838;F;12;L;12;12;8.5;12;18;Physiques;Psychologie;Psychologie
+ET839;F;11;L;11;11;10;18;11;Physiques;Psychologie;Psychologie
+ET840;M;17.70;S;19;19;9;19;9;Biologie;Biosciences;Biosciences
+ET841;M;15;S;13;13;14;18;11;Biologie;Biosciences;Biosciences
+ET842;F;12;S;14;14;20;19;17;Biologie;Biosciences;Biosciences
+ET843;F;12;S;15;15;19;13;13;Anglais;Anglais;Anglais
+ET844;F;11;S;12;12;13;12.25;12;Anglais;Anglais;Anglais
+ET845;M;11;L;17;17;16;7;12;Anglais;Anglais;Anglais
+ET846;F;11;S;14;14;18;19;18;Mathematiques;Mathematiques;Mathematiques
+ET847;F;10.00;L;11;11;9;20;19;Anglais;Mathematiques;Mathematiques
+ET848;F;11;L;17;17;20;20;18;Informatique;Informatique;Informatique
+ET849;F;14;L;13;13;10;11;19;Informatique;Informatique;Informatique
+ET850;M;14;S;12;12;19;11;13;Informatique;Informatique;Informatique
+ET851;M;13;S;12;12;20;18;6;Informatique;Informatique;Informatique
+ET852;F;15;S;18;18;19;15;11;Mathematiques;Mathematiques;Mathematiques
+ET853;F;10.00;S;19;19;10;14;19;Physiques;Psychologie;Psychologie
+ET854;F;10.00;S;18;18;8.5;11;18;Physiques;Psychologie;Psychologie
+ET855;F;15;S;19;19;18;13.50;18;Biologie;Biosciences;Biosciences
+ET856;F;10.00;S;13;13;12;12;11;Biologie;Biosciences;Biosciences
+ET857;F;10.00;S;6;13;14;12.25;11;Biologie;Biosciences;Biosciences
+ET858;F;16;S;7;12.5;9;10;18;Commerce / Marketing;Comptabilité et Finance;Marketing
+ET859;M;13;L;19;19;15;15;15;Informatique;Informatique;Informatique
+ET860;F;15;S;20;20;19;10;14;Informatique;Informatique;Informatique
+ET861;F;12;S;20;20;11;9;11;Informatique;Informatique;Informatique
+ET862;F;16;S;11;11;18;10;9;Informatique;Informatique;Informatique
+ET863;M;13;S;11;11;18;7;12;Informatique;Informatique;Informatique
+ET864;M;10.00;S;18;18;18;17;6;Finance / Comptabilité / Statistiques;Informatique;Comptabilité et Finance
+ET865;F;12;S;15;15;12;17;10;Informatique;Informatique;Informatique
+ET866;M;12;S;14;14;11;14;19;Informatique;Informatique;Informatique
+ET867;F;11;S;11;11;19;13;12;Informatique;Multimedia;Genie Logiciel
+ET868;M;14;S;10;10.5;13;17;14;Art;Multimedia;Infographie
+ET869;M;11;S;12;12;14;10;14;Informatique;Mathematiques;Genie Logiciel
+ET870;F;11;S;6;13;15;15;16;Biologie;Biosciences;Biosciences
+ET871;M;15;S;10;10;12;9;6;Biologie;Biosciences;Biosciences
+ET872;F;11;S;15;15;17;10;6;Biologie;Biosciences;Biosciences
+ET873;M;10.00;S;10;10;14;10;19;Biologie;Biosciences;Biosciences
+ET874;M;11;S;9;9;11;10;14;Biologie;Biosciences;Biosciences
+ET875;F;15;S;10;10;17;17;9;Biologie;Biosciences;Biosciences
+ET876;M;15;S;7;12.5;13;15;18;Biologie;Biosciences;Biosciences
+ET877;F;15;S;17;17;12;13;13;Biologie;Biosciences;Biosciences
+ET878;F;15;S;17;17;12;15;11;Biologie;Biosciences;Biosciences
+ET879;F;15;S;14;14;18;17;11;Biologie;Biosciences;Biosciences
+ET880;F;13;S;13;13;19;16;11;Anglais;Anglais;Anglais
+ET881;M;11;S;17;17;18;13;9;Anglais;Anglais;Anglais
+ET882;M;14;L;10;10;19;19;11;Anglais;Anglais;Anglais
+ET883;F;15;S;15;15;13;13.50;15;Anglais;Anglais;Anglais
+ET884;F;16;S;9;9;8.5;19;18;Anglais;Anglais;Anglais
+ET885;F;13;S;10;10;10.5;13.50;18;Anglais;Anglais;Anglais
+ET886;F;11;S;10;10;19;13.50;14;Anglais;Anglais;Anglais
+ET887;M;11;S;10;10;20;13;6;Anglais;Anglais;Anglais
+ET888;F;11;S;17;17;20;10;9;Anglais;Anglais;Anglais
+ET889;M;11;S;15;15;11;15;12;Anglais;Anglais;Anglais
+ET890;F;10.00;S;13;13;11;12.25;10;Anglais;Anglais;Anglais
+ET891;F;11;S;15;15;18;12;14;Anglais;Anglais;Anglais
+ET892;F;12;S;17;17;15;14;6;Anglais;Anglais;Anglais
+ET893;M;12;S;16;16;14;20;11;Anglais;Anglais;Anglais
+ET894;M;16;S;13;13;11;15;11;Anglais;Anglais;Anglais
+ET895;M;10.00;S;19;19;10;11;12;Anglais;Anglais;Anglais
+ET896;F;12;S;10;10.5;12;13;18;Anglais;Anglais;Anglais
+ET897;M;16;L;19;19;8.5;17;19;Anglais;Anglais;Anglais
+ET898;F;10.00;L;10;10.5;10;16;18;Anglais;Anglais;Anglais
+ET899;F;10.00;S;10;10.5;15;12;14;Anglais;Anglais;Anglais
+ET900;M;16;S;13;13;10;15;6;Anglais;Anglais;Anglais
+ET901;M;10.00;S;10;10;9;7;9;Biologie;Biosciences;Biosciences
+ET902;F;14;S;15;15;10;11;12;Biologie;Biosciences;Biosciences
+ET903;M;18;L;6;13;10.5;9;10;Anglais;Anglais;Anglais
+ET904;F;13;S;12;12;17;14;14;Biologie;Biosciences;Biosciences
+ET905;F;10.00;S;14;14;17;12.25;6;Biologie;Biosciences;Biosciences
+ET906;M;18;S;20;20;14;13;11;Biologie;Biosciences;Biosciences
+ET907;M;12;S;15;15;13;8;11;Informatique;Informatique;Informatique
+ET908;M;15;S;11;11;17;7;12;Informatique;Informatique;Informatique
+ET909;F;11;S;13;13;10;14;18;Informatique;Informatique;Informatique
+ET910;F;13;S;17;17;15;18;19;Biologie;Genie Logiciel;Genie Logiciel
+ET911;F;13;S;16;16;9;20;18;Informatique;Genie Logiciel;Genie Logiciel
+ET912;F;14;S;12;12;10;12;6;Mathematiques;Mathematiques;Mathematiques
+ET913;F;16;S;15;15;10;15;11;Mathematiques;Mathematiques;Mathematiques
+ET914;M;16;S;7;12.5;10;17;15;Mathematiques;Mathematiques;Mathematiques
+ET915;F;13;S;11;11;17;13;18;Informatique;Informatique;Informatique
+ET916;M;14;S;9;9;15;16;18;Chimie;Genie Electrique;Genie Electrique
+ET917;F;10.00;S;14;14;13;18;14;Mathematiques;Psychologie;Psychologie
+ET918;M;13;S;6;13;15;9;6;Biologie;Biosciences;Biosciences
+ET919;F;13;L;13;13;17;20;9;Anglais;Anglais;Anglais
+ET920;F;14;S;8;8;16;10;12;Economie;Droit;Comptabilité et Finance
+ET921;M;15;S;7;12.5;13;19;10;Informatique;Informatique;Informatique
+ET922;M;18;S;14;14;19;20;14;Informatique;Informatique;Informatique
+ET923;F;12;S;18;18;10;19;6;Informatique;Informatique;Informatique
+ET924;F;13;S;20;20;19;10;11;Informatique;Informatique;Informatique
+ET925;F;10.00;S;12;12;10;12.25;11;Informatique;Informatique;Informatique
+ET926;F;12;L;15;15;10;18;12;Informatique;Informatique;Informatique
+ET927;M;10.00;S;17;17;13;12;18;Informatique;Informatique;Informatique
+ET928;F;11;S;13;13;10;14;19;Informatique;Informatique;Informatique
+ET929;M;10.00;S;16;16;15;9;11;Biologie;Biosciences;Biosciences
+ET930;F;12;L;18;18;8.5;15;17;Biologie;Biosciences;Biosciences
+ET931;M;14;S;9;9;12;19;13;Biologie;Biosciences;Biosciences
+ET932;F;16;S;20;20;14;11;12;Biologie;Biosciences;Biosciences
+ET933;M;13;S;10;10;20;18;12;Chimie;Genie Civil;Genie Civil
+ET934;M;11;S;19;19;15;18;18;Physiques;Biosciences;Biosciences
+ET935;F;14;S;20;20;11;18;19;Finance / Comptabilité / Statistiques;Genie Civil;Genie Logiciel
+ET936;F;14;S;19;19;13;12;18;Anglais;Biosciences;Biosciences
+ET937;M;12;S;10;10;17;11;19;Mathematiques;Informatique;Genie Mecanique
+ET938;F;10.00;S;6;13;16;19;13;Physiques;Informatique;Anglais
+ET939;F;10.00;S;18;18;12;13;6;Biologie;Biosciences;Biosciences
+ET940;F;10.00;S;12;12;15;14;11;Anglais;Business Administration;Business Administration
+ET941;M;15;S;14;14;10.5;15;19;Biologie;Genie Logiciel;Informatique
+ET942;M;10.00;L;9;9;11;10;18;Informatique;Informatique;Informatique
+ET943;M;16;S;15;15;9;8;18;Informatique;Informatique;Mathematiques
+ET944;M;12;S;19;19;14;13.50;11;Informatique;Informatique;Informatique
+ET945;F;10.00;S;11;11;8.5;13;11;Informatique;Informatique;Informatique
+ET946;M;12;S;18;18;13;10;18;Informatique;Informatique;Genie Civil
+ET947;F;11;S;18;18;12.75;12;15;Physiques;Genie Electrique;Genie Logiciel
+ET948;M;11;S;18;18;10.5;8;14;Biologie;Genie Electrique;Psychologie
+ET949;M;16;S;12;12;14;12;11;Informatique;Genie Mecanique;Comptabilité et Finance
+ET950;F;13;S;11;11;18;12;9;Finance / Comptabilité / Statistiques;Genie Civil;Genie Electrique
+ET951;M;17;S;19;19;20;13;12;Biologie;Anglais;Anglais
+ET952;M;10.00;S;13;13;12;7;6;Informatique;Informatique;Informatique
+ET953;M;10.00;S;14;14;15;13.50;10;Informatique;Informatique;Informatique
+ET954;M;14;S;15;15;17;16;14;Physiques;Psychologie;Psychologie
+ET955;M;14;S;10;10;13;10;14;Mathematiques;Business Administration;Business Administration
+ET956;F;10.00;S;8;8;16;16;14;Mathematiques;Genie Mecanique;Genie Mecanique
+ET957;F;14;S;10;10.5;18;10;14;Mathematiques;Mathematiques;Business Administration
+ET958;F;12;S;13;13;9;14;14;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET959;F;10.00;S;10;10;20;12;14;Anglais;Genie Civil;Genie Civil
+ET960;F;14;S;12;12;10;16;14;Mathematiques;Business Administration;Business Administration
+ET961;F;10.00;S;8;8;19;9;14;Informatique;Genie Logiciel;Business Administration
+ET962;F;14;S;12;12;20;12.25;14;Mathematiques;Mathematiques;Mathematiques
+ET963;M;12;S;12;12;19;9;14;Mathematiques;Genie Electrique;Genie Electrique
+ET964;M;13;S;13;13;10;7;14;Mathematiques;Mathematiques;Mathematiques
+ET965;M;13;S;7;12.5;8.5;16;9;Informatique;Informatique;Genie Logiciel
+ET966;F;12;S;10;10.5;18;11;11;Anglais;Anglais;Anglais
+ET967;F;10.00;S;16;16;12;20;11;Informatique;Genie Logiciel;Informatique
+ET968;M;10.00;S;10;10;14;9;11;Biologie;Anglais;Biosciences
+ET969;F;13;S;16;16;9;14;9;Biologie;Anglais;Biosciences
+ET970;M;14;S;10;10;15;15;19;Biologie;Biosciences;Anglais
+ET971;M;10.00;S;14;14;19;12;14;Biologie;Anglais;Biosciences
+ET972;M;10.00;S;12;12;11;11;18;Biologie;Anglais;Biosciences
+ET973;M;14;S;16;16;18;11;17;Anglais;Genie Logiciel;Genie Logiciel
+ET974;M;12;S;9;9;18;11;14;Anglais;Genie Logiciel;Genie Logiciel
+ET975;F;16;S;6;13;18;16;19;Biologie;Anglais;Biosciences
+ET976;F;14;S;9;9;12;19;19;Anglais;Genie Logiciel;Genie Logiciel
+ET977;F;12;S;7;12.5;11;19;9;Mathematiques;Mathematiques;Mathematiques
+ET978;M;12;S;16;16;19;11;14;Anglais;Genie Logiciel;Genie Logiciel
+ET979;M;11;S;11;11;13;11;10;Anglais;Genie Logiciel;Genie Logiciel
+ET980;M;15;S;20;20;14;15;13;Anglais;Genie Logiciel;Genie Logiciel
+ET981;F;12;L;9;9;15;12;9;Chimie;Psychologie;Biosciences
+ET982;M;12;S;14;14;10;14;6;Anglais;Genie Logiciel;Genie Logiciel
+ET983;F;11;S;15;15;12.75;15;13;Biologie;Psychologie;Psychologie
+ET984;F;10.00;S;12;12;10;8;9;Anglais;Genie Logiciel;Genie Logiciel
+ET985;M;15;S;11;11;13;15;19;Anglais;Genie Logiciel;Genie Logiciel
+ET986;M;14;S;11;11;10;18;15;Biologie;Biosciences;Biosciences
+ET987;M;13;S;11;11;12;13.50;6;Biologie;Biosciences;Biosciences
+ET988;F;14;S;16;16;12.75;18;11;Anglais;Genie Logiciel;Genie Logiciel
+ET989;M;17;S;19;19;12;12.25;15;Biologie;Psychologie;Psychologie
+ET990;M;14;S;19;19;12;16;18;Informatique;Genie Mecanique;Genie Mecanique
+ET991;F;18;S;11;11;13;16;18;Biologie;Psychologie;Anglais
+ET992;F;15;S;11;11;10.5;19;14;Chimie;Mathematiques;Mathematiques
+ET993;F;16;S;15;15;10;17;6;Chimie;Genie Civil;Genie Civil
+ET994;F;15;S;12;12;16;9;9;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET995;F;10.00;S;14;14;10;13;12;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET996;F;11;S;15;15;16;10;10;Finance / Comptabilité / Statistiques;Genie Mecanique;Genie Logiciel
+ET997;F;10.00;S;8;8;10;13.50;14;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET998;F;10.00;S;15;15;14;12;6;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET999;F;10.00;L;18;18;12;8;11;Biologie;Psychologie;Biosciences
+ET1000;F;11;S;10;10.5;16;12.25;11;Chimie;Psychologie;Psychologie
+ET1001;F;12;S;18;18;9;14;12;Informatique;Informatique;Informatique
+ET1002;F;12;S;6;13;8.5;16;18;Informatique;Informatique;Informatique
+ET1003;F;10.00;S;16;16;9;13;19;Informatique;Informatique;Biosciences
+ET1004;M;12;S;16;16;10.5;13;14;Physiques;Genie Logiciel;Genie Logiciel
+ET1005;F;12;L;19;19;16;10;14;Biologie;Psychologie;Anglais
+ET1006;M;11;S;17;17;11;19;18;Informatique;Informatique;Informatique
+ET1007;F;10.00;S;9;9;20;14;11;Anglais;Genie Logiciel;Genie Logiciel
+ET1008;F;14;S;13;13;9;8;6;Anglais;Genie Logiciel;Genie Logiciel
+ET1009;F;13;S;10;10;14;20;18;Anglais;Genie Logiciel;Genie Logiciel
+ET1010;M;12;S;10;10.5;15;8;11;Anglais;Genie Logiciel;Genie Logiciel
+ET1011;F;13;S;12;12;12;15;9;Anglais;Genie Logiciel;Genie Logiciel
+ET1012;F;13;S;8;8;11;17;15;Informatique;Informatique;Informatique
+ET1013;F;14;S;6;13;11;9;16;Anglais;Genie Logiciel;Genie Logiciel
+ET1014;F;12;S;14;14;11;17;15;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET1015;F;16;S;16;16;16;16;17;Anglais;Genie Logiciel;Genie Logiciel
+ET1016;M;12;S;13;13;19;20;16;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET1017;F;13;S;13;13;19;14;13;Anglais;Genie Logiciel;Genie Logiciel
+ET1018;F;10.00;S;10;10;11;8;19;Anglais;Genie Logiciel;Genie Logiciel
+ET1019;F;16;S;19;19;11;10;9;Anglais;Genie Logiciel;Genie Logiciel
+ET1020;M;12;S;14;14;15;11;19;Biologie;Biosciences;Biosciences
+ET1021;M;10.00;S;8;8;12;14;9;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET1022;F;12;L;20;20;14;12.25;9;Physiques;Biosciences;Biosciences
+ET1023;F;13;S;8;8;15;13;13;Informatique;Genie Logiciel;Informatique
+ET1024;M;11;S;15;15;12.75;7;10;Informatique;Genie Logiciel;Genie Logiciel
+ET1025;M;11;S;17;17;15;8;15;Mathematiques;Genie Logiciel;Informatique
+ET1026;M;14;S;9;9;18;9;6;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Business Administration
+ET1027;M;10.00;S;17;17;10;18;12;Finance / Comptabilité / Statistiques;Mathematiques;Comptabilité et Finance
+ET1028;M;11;S;16;16;18;18;14;Mathematiques;Mathematiques;Genie Electrique
+ET1029;M;14;S;20;20;8.5;7;18;Informatique;Genie Logiciel;Biosciences
+ET1030;F;13;S;14;14;16;13.50;15;Biologie;Biosciences;Biosciences
+ET1031;F;13;S;8;8;16;11;11;Biologie;Psychologie;Psychologie
+ET1032;M;10.00;S;10;10;19;17;13;Physiques;Psychologie;Genie Electrique
+ET1033;M;12;S;11;11;17;13;17;Mathematiques;Mathematiques;Mathematiques
+ET1034;M;10.00;L;14;14;9;12;16;Finance / Comptabilité / Statistiques;Business Administration;Comptabilité et Finance
+ET1035;M;13;S;6;13;13;12;12;Informatique;Genie Civil;Informatique
+ET1036;M;13;S;13;13;10;18;15;Mathematiques;Anglais;Anglais
+ET1037;F;13;S;7;12.5;10;19;11;Mathematiques;Comptabilité et Finance;Comptabilité et Finance
+ET1038;M;18;S;8;8;12;18;11;Informatique;Informatique;Informatique
+ET1039;M;12;S;9;9;12.75;19;9;Informatique;Genie Logiciel;Genie Logiciel
+ET1040;M;13;S;18;18;8.5;13;14;Informatique;Genie Logiciel;Genie Logiciel
+ET1041;M;10.00;S;18;18;14;12.25;6;Finance / Comptabilité / Statistiques;Business Administration;Comptabilité et Finance
+ET1042;M;13;S;7;12.5;16;7;13;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET1043;M;10.00;S;10;10.5;13;19;14;Mathematiques;Mathematiques;Genie Logiciel
+ET1044;M;11;S;11;11;13;20;11;Mathematiques;Genie Mecanique;Genie Mecanique
+ET1045;M;13;S;17;17;10;20;14;Mathematiques;Genie Civil;Genie Mecanique
+ET1046;M;14;S;13;13;19;11;18;Mathematiques;Psychologie;Psychologie
+ET1047;M;11;S;12;12;14;11;18;Mathematiques;Mathematiques;Mathematiques
+ET1048;M;13;S;12;12;12.75;18;12;Finance / Comptabilité / Statistiques;Mathematiques;Business Administration
+ET1049;F;13;S;18;18;20;15;15;Informatique;Informatique;Informatique
+ET1050;M;11;L;19;19;12.75;14;17;Mathematiques;Genie Civil;Genie Civil
+ET1051;M;15;S;18;18;15;11;13;Informatique;Genie Logiciel;Genie Logiciel
+ET1052;F;10.00;S;19;19;17;13.50;16;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET1053;F;17;S;13;13;9;12;18;Informatique;Mathematiques;Informatique
+ET1054;M;13;S;6;13;17;12.25;9;Biologie;Psychologie;Biosciences
+ET1055;M;13;S;7;12.5;16;10;18;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET1056;F;10.00;S;19;19;20;19;10;Informatique;Informatique;Informatique
+ET1057;F;13;S;20;20;14;12;19;Mathematiques;Mathematiques;Mathematiques
+ET1058;M;17;L;20;20;12.75;14;18;Biologie;Biosciences;Biosciences
+ET1059;M;13;S;11;11;10;14;19;Finance / Comptabilité / Statistiques;Mathematiques;Business Administration
+ET1060;F;12;S;11;11;11;16;10;Mathematiques;Mathematiques;Business Administration
+ET1061;M;10.00;S;18;18;14;12.25;6;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET1062;F;13;S;15;15;8.5;12.25;18;Anglais;Genie Civil;Genie Civil
+ET1063;F;14;S;14;14;13;19;12;Mathematiques;Business Administration;Business Administration
+ET1064;F;15;S;11;11;10.5;14;14;Informatique;Genie Logiciel;Business Administration
+ET1065;F;11;S;10;10.5;12.75;13.50;9;Mathematiques;Mathematiques;Mathematiques
+ET1066;M;15;S;12;12;9;20;15;Mathematiques;Genie Electrique;Genie Electrique
+ET1067;F;10.00;S;6;13;18;13;19;Mathematiques;Mathematiques;Mathematiques
+ET1068;F;12;S;10;10;18;11;11;Informatique;Informatique;Genie Logiciel
+ET1069;F;10.00;L;19;19;10.5;7;18;Anglais;Anglais;Anglais
+ET1070;M;12;S;12;12;10;11;18;Informatique;Genie Logiciel;Informatique
+ET1071;F;10.00;S;14;14;11;13.50;18;Biologie;Anglais;Biosciences
+ET1072;M;10.00;S;14;14;17;7;12;Biologie;Anglais;Biosciences
+ET1073;M;14;L;16;16;13;15;11;Biologie;Biosciences;Anglais
+ET1074;M;11;L;6;13;12;20;19;Biologie;Anglais;Biosciences
+ET1075;F;12;S;6;13;12;18;13;Biologie;Anglais;Biosciences
+ET1076;F;13;S;19;19;18;12;14;Anglais;Genie Logiciel;Genie Logiciel
+ET1077;F;10.00;S;14;14;19;12.25;15;Anglais;Genie Logiciel;Genie Logiciel
+ET1078;M;12;S;10;10.5;18;13.50;11;Biologie;Anglais;Biosciences
+ET1079;F;16;S;20;20;19;12;9;Anglais;Genie Logiciel;Genie Logiciel
+ET1080;F;13;S;13;13;13;10;16;Mathematiques;Mathematiques;Mathematiques
+ET1081;M;15;S;11;11;8.5;8;10;Anglais;Genie Logiciel;Genie Logiciel
+ET1082;M;15;L;7;12.5;10.5;12.25;16;Anglais;Genie Logiciel;Genie Logiciel
+ET1083;M;12;S;11;11;19;11;10;Anglais;Genie Logiciel;Genie Logiciel
+ET1084;F;15;S;10;10.5;20;9;14;Chimie;Psychologie;Biosciences
+ET1085;F;12;S;7;12.5;20;12;12;Anglais;Genie Logiciel;Genie Logiciel
+ET1086;F;15;S;15;15;11;20;16;Biologie;Psychologie;Psychologie
+ET1087;M;14;S;20;20;11;19;9;Anglais;Genie Logiciel;Genie Logiciel
+ET1088;M;14;S;18;18;18;18;6;Anglais;Genie Logiciel;Genie Logiciel
+ET1089;F;10.00;S;9;12.75;15;12;9;Biologie;Biosciences;Biosciences
+ET1090;F;10.00;S;6;13;14;12.25;11;Biologie;Biosciences;Biosciences
+ET1091;F;14;S;10;10.5;11;13.50;16;Anglais;Genie Logiciel;Genie Logiciel
+ET1092;M;16;S;12;12;10;12;11;Biologie;Psychologie;Psychologie
+ET1093;F;12;L;10;10;12;10;18;Informatique;Genie Mecanique;Genie Mecanique
+ET1094;M;11;S;8;8;8.5;8;9;Biologie;Psychologie;Anglais
+ET1095;F;15;S;6;13;10;12.25;14;Chimie;Mathematiques;Mathematiques
+ET1096;F;17;S;8;8;19;11;15;Chimie;Genie Civil;Genie Civil
+ET1097;M;15;S;10;12.25;12;9;12;Droit;Business Administration;Business Administration
+ET1098;F;14;S;9;13.5;14;12;11;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET1099;M;17;L;20;20;14;20;11;Finance / Comptabilité / Statistiques;Genie Mecanique;Genie Logiciel
+ET1100;M;14;S;19;19;16;19;11;Culture / Histoire;Business Administration;Business Administration
+ET1101;M;15;S;18;18;8.5;20;16;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET1102;F;12;S;9;12.75;8.5;11;19;Biologie;Psychologie;Biosciences
+ET1103;F;10.00;S;6;13;19;7;19;Chimie;Psychologie;Psychologie
+ET1104;F;14;S;10;10.5;14;11;11;Informatique;Informatique;Informatique
+ET1105;M;13;S;12;12;10;13.50;11;Informatique;Informatique;Informatique
+ET1106;F;13;S;10;10;20;7;15;Informatique;Informatique;Biosciences
+ET1107;F;15;S;8;8;13;15;12;Physiques;Genie Logiciel;Genie Logiciel
+ET1108;F;13;S;6;13;11;20;14;Biologie;Psychologie;Anglais
+ET1109;F;12;S;8;8;10.5;18;15;Informatique;Informatique;Informatique
+ET1110;F;13;S;10;12.25;11;12;14;Anglais;Genie Logiciel;Genie Logiciel
+ET1111;F;11;S;9;13.5;10;12.25;12;Culture / Histoire;Banque / Assurance;Assurance Banque
+ET1112;F;11;S;20;20;10.5;13.50;14;Logistique / Transport;Droit;Transport Logistique
+ET1113;F;13;L;19;19;15;12;15;Anglais;Genie Logiciel;Genie Logiciel
+ET1114;F;11;S;20;20;20;10;14;Anglais;Genie Logiciel;Genie Logiciel
+ET1115;F;11;S;11;11;18;8;14;Informatique;Informatique;Informatique
+ET1116;F;12;S;7;12.5;12.75;12.25;9;Anglais;Genie Logiciel;Genie Logiciel
+ET1117;F;16;S;11;11;8.5;11;9;Finance / Comptabilité / Statistiques;Business Administration;Business Administration
+ET1118;M;13;S;10;10.5;10;9;9;Anglais;Genie Logiciel;Genie Logiciel
+ET1119;M;14;S;7;12.5;12;12;9;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET1120;M;11;S;15;15;10;20;9;Anglais;Genie Logiciel;Genie Logiciel
+ET1121;F;10.00;S;20;20;12.75;19;9;Anglais;Genie Logiciel;Genie Logiciel
+ET1122;F;14;S;18;18;8.5;18;18;Anglais;Genie Logiciel;Genie Logiciel
+ET1123;M;13;S;9;12.75;10;12;18;Mathematiques;Mathematiques;Business Administration
+ET1124;F;12;S;6;13;9;12.25;15;Finance / Comptabilité / Statistiques;Comptabilité et Finance;Comptabilité et Finance
+ET1125;F;13;S;10;10.5;14;13.50;19;Anglais;Genie Civil;Genie Civil
+ET1126;F;13;S;12;12;20;12;14;Mathematiques;Business Administration;Business Administration
+ET1127;F;10.00;S;10;10;19;10;11;Informatique;Genie Logiciel;Business Administration
+ET1128;F;16;S;8;8;18;8;18;Mathematiques;Mathematiques;Mathematiques
+ET1129;F;14;L;6;13;12.75;12.25;18;Mathematiques;Genie Electrique;Genie Electrique
+ET1130;F;10.00;S;8;8;8.5;11;18;Mathematiques;Mathematiques;Mathematiques
+ET1131;F;16;S;10;12.25;10;9;18;Informatique;Informatique;Genie Logiciel
+ET1132;F;10.00;L;9;13.5;12;12;12;Anglais;Anglais;Anglais
+ET1133;F;11;S;20;20;10;20;10;Informatique;Genie Logiciel;Informatique
+ET1134;M;10.00;S;19;19;12.75;19;14;Biologie;Anglais;Biosciences
+ET1135;M;16;S;18;18;8.5;20;18;Biologie;Anglais;Biosciences
+ET1136;F;14;L;9;12.75;10;12;17;Biologie;Biosciences;Anglais
+ET1137;F;11;S;6;13;9;10;14;Biologie;Anglais;Biosciences
+ET1138;F;13;S;10;10.5;14;8;19;Biologie;Anglais;Biosciences
+ET1139;M;16;S;12;12;20;12.25;19;Anglais;Genie Logiciel;Genie Logiciel
+ET1140;M;10.00;S;10;10;19;11;9;Anglais;Genie Logiciel;Genie Logiciel
+ET1141;F;13;S;8;8;20;9;14;Biologie;Anglais;Biosciences
+ET1142;M;11;S;6;13;8.5;12;10;Anglais;Genie Logiciel;Genie Logiciel
+ET1143;M;12;S;8;8;10;20;13;Mathematiques;Mathematiques;Mathematiques
+ET1144;M;13;S;10;12.25;9;19;9;Anglais;Genie Logiciel;Genie Logiciel
+ET1145;M;10.00;S;9;13.5;14;18;6;Anglais;Genie Logiciel;Genie Logiciel
+ET1146;M;14;S;20;20;20;12;13;Anglais;Genie Logiciel;Genie Logiciel
+ET1147;M;13;S;19;19;10;12.25;9;Chimie;Psychologie;Biosciences
+ET1148;F;10.00;S;20;20;17;13.50;19;Anglais;Genie Logiciel;Genie Logiciel
+ET1149;F;12;S;17;20;20;20;18;Biologie;Psychologie;Psychologie
